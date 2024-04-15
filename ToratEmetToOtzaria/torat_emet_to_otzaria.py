@@ -1,7 +1,7 @@
 import os
 import chardet
 
-toratEmetDirectory = "C:\\Users\\Goldman\\Documents\\ToratEmetInstall"
+toratEmetDirectory = <path to torat emet directory>
 outputDirectory = "ToratEmetoutput"
 
 
