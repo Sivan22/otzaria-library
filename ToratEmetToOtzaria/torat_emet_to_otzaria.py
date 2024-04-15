@@ -1,14 +1,28 @@
-import glob
+import os
+import chardet
+
+toratEmetDirectory = "C:\\Users\\Goldman\\Documents\\ToratEmetInstall"
+outputDirectory = "ToratEmetoutput"
 
 
-def convert_to_utf8(dir_path):
-    file_list = glob.glob(dir_path, recursive=True)
-    for filename in file_list:
-        with open(filename, 'r', encoding='ANSI') as f:
-            content = f.read()
-        with open(filename, 'w', encoding='UTF-8') as f:
-            f.write(content)
-        print("Converted " + filename)
 
-convert_to_utf8(r'C:\\dev\\otzaria_library\\ToratEmetToOtzaria\\**\\**\\**\\**\\**.txt')
+#check encoding of files in toratEmetDirectory and convert if not utf-8
+def convert_encoding(dir):
+    for root, dirs, files in os.walk(dir):
+        for dir in dirs:
+            convert_encoding(os.path.join(root, dir))
+        for file in files:
+            file_path = os.path.join(root, file)
+            with open(file_path, 'rb') as f:
+                result = chardet.detect(f.read())
+            if result['encoding'] != 'utf-8':
+                with open(file_path, 'rb') as f:
+                    content = f.read().decode(result['encoding'])
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(content)
+            print(file_path)
+
+convert_encoding(toratEmetDirectory)
+
+
 
