@@ -10,7 +10,7 @@ def extract_numerical_part(filename):
 
 def merge_and_rename_subfolders(parent_folder, log_file):
     for root, dirs, files in os.walk(parent_folder):
-        text_files = [file for file in files if file.endswith('.txt')]
+        text_files = [file for file in files if file.lower().endswith('.html')]
         
         if text_files:
             merge_and_rename(root, text_files, log_file)
@@ -24,18 +24,18 @@ def merge_and_rename(folder_path, text_files, log_file):
 
     for index, text_file in enumerate(text_files):
         file_path = os.path.join(folder_path, text_file)
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding="utf-8") as file:
             file_content = file.read()
 
             # Append file content and add a line break unless it's the last file
             merged_content += file_content
             if index < len(text_files) - 1:
-                merged_content += '\n'
+                merged_content += ''
 
     # Create a new merged file
     subfolder_name = os.path.basename(folder_path)
-    merged_file_path = os.path.join(folder_path, f'{subfolder_name}_merged.txt')
-    with open(merged_file_path, 'w') as merged_file:
+    merged_file_path = os.path.join(folder_path, f'{subfolder_name}')
+    with open(merged_file_path, 'w', encoding="utf-8") as merged_file:
         merged_file.write(merged_content)
 
     # Delete the original text files
@@ -50,10 +50,10 @@ def merge_and_rename(folder_path, text_files, log_file):
         log.write(log_entry)
 
 if __name__ == '__main__':
-    parent_folder = r"./"
+    parent_folder = r"./null"
     log_file = os.path.join(parent_folder, 'merge_log.txt')
     
-    with open(log_file, 'w') as log:
+    with open(log_file, 'w', encoding="utf-8") as log:
         log.write("Merge Log\n")
     
     merge_and_rename_subfolders(parent_folder, log_file)
