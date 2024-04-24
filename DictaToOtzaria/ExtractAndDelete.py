@@ -22,7 +22,7 @@ def extract_and_delete_zip_files(folder_path):
                 print(f"Extracted and deleted: {zip_file_path}")
 
 # Specify the folder where you want to perform extraction and deletion
-folder_to_process = r'./'
+folder_to_process = r'./dicta'
 
 # Call the function to extract and delete ZIP files
 extract_and_delete_zip_files(folder_to_process)

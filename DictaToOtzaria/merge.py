@@ -46,11 +46,11 @@ def merge_and_rename(folder_path, text_files, log_file):
     # Log the merge and rename operation
     timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     log_entry = f"{timestamp}: Merged and renamed '{subfolder_name}'\n"
-    with open(log_file, 'a') as log:
+    with open(log_file, 'a',encoding="utf-8") as log:
         log.write(log_entry)
 
 if __name__ == '__main__':
-    parent_folder = r"./null"
+    parent_folder = r"./dicta"
     log_file = os.path.join(parent_folder, 'merge_log.txt')
     
     with open(log_file, 'w', encoding="utf-8") as log:
