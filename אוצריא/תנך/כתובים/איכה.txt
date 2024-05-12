@@ -1,5 +1,5 @@
 <h1>איכה</h1>
-<h1>פרק א</h1>
+<h2>פרק א</h2>
 (א) אֵיכָ֣ה&thinsp;<b>׀</b> יָשְׁבָ֣ה בָדָ֗ד הָעִיר֙ רַבָּ֣תִי עָ֔ם הָיְתָ֖ה כְּאַלְמָנָ֑ה רַבָּ֣תִי בַגּוֹיִ֗ם שָׂרָ֙תִי֙ בַּמְּדִינ֔וֹת הָיְתָ֖ה לָמַֽס׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ב) בָּכ֨וֹ תִבְכֶּ֜ה בַּלַּ֗יְלָה וְדִמְעָתָהּ֙ עַ֣ל לֶֽחֱיָ֔הּ אֵֽין־לָ֥הּ מְנַחֵ֖ם מִכׇּל־אֹהֲבֶ֑יהָ כׇּל־רֵעֶ֙יהָ֙ בָּ֣גְדוּ בָ֔הּ הָ֥יוּ לָ֖הּ לְאֹיְבִֽים׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ג) גָּֽלְתָ֨ה יְהוּדָ֤ה מֵעֹ֙נִי֙ וּמֵרֹ֣ב עֲבֹדָ֔ה הִ֚יא יָשְׁבָ֣ה בַגּוֹיִ֔ם לֹ֥א מָצְאָ֖ה מָנ֑וֹחַ כׇּל־רֹדְפֶ֥יהָ הִשִּׂיג֖וּהָ בֵּ֥ין הַמְּצָרִֽים׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 (כ) רְאֵ֨ה יְהֹוָ֤ה כִּֽי־צַר־לִי֙ מֵעַ֣י חֳמַרְמָ֔רוּ נֶהְפַּ֤ךְ לִבִּי֙ בְּקִרְבִּ֔י כִּ֥י מָר֖וֹ מָרִ֑יתִי מִח֥וּץ שִׁכְּלָה־חֶ֖רֶב בַּבַּ֥יִת כַּמָּֽוֶת׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כא) שָׁמְע֞וּ כִּ֧י נֶאֱנָחָ֣ה אָ֗נִי אֵ֤ין מְנַחֵם֙ לִ֔י כׇּל־אֹ֨יְבַ֜י שָׁמְע֤וּ רָֽעָתִי֙ שָׂ֔שׂוּ כִּ֥י אַתָּ֖ה עָשִׂ֑יתָ הֵבֵ֥אתָ יוֹם־קָרָ֖אתָ וְיִֽהְי֥וּ כָמֹֽנִי׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כב) תָּבֹ֨א כׇל־רָעָתָ֤ם לְפָנֶ֙יךָ֙ וְעוֹלֵ֣ל לָ֔מוֹ כַּאֲשֶׁ֥ר עוֹלַ֛לְתָּ לִ֖י עַ֣ל כׇּל־פְּשָׁעָ֑י כִּֽי־רַבּ֥וֹת אַנְחֹתַ֖י וְלִבִּ֥י דַוָּֽי׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>
-<h1>פרק ב</h1>
+<h2>פרק ב</h2>
 (א) אֵיכָה֩ יָעִ֨יב בְּאַפּ֤וֹ&thinsp;<small>׀</small>&thinsp;אֲדֹנָי֙ אֶת־בַּת־צִיּ֔וֹן הִשְׁלִ֤יךְ מִשָּׁמַ֙יִם֙ אֶ֔רֶץ תִּפְאֶ֖רֶת יִשְׂרָאֵ֑ל וְלֹא־זָכַ֥ר הֲדֹם־רַגְלָ֖יו בְּי֥וֹם אַפּֽוֹ׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ב) בִּלַּ֨ע אֲדֹנָ֜י <span class="mam-kq"><span class="mam-kq-k">(לא)</span> <span class="mam-kq-q">[וְלֹ֣א]</span></span> חָמַ֗ל אֵ֚ת כׇּל־נְא֣וֹת יַעֲקֹ֔ב הָרַ֧ס בְּעֶבְרָת֛וֹ מִבְצְרֵ֥י בַת־יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ג) גָּדַ֣ע בׇּֽחֳרִי־אַ֗ף כֹּ֚ל קֶ֣רֶן יִשְׂרָאֵ֔ל הֵשִׁ֥יב אָח֛וֹר יְמִינ֖וֹ מִפְּנֵ֣י אוֹיֵ֑ב וַיִּבְעַ֤ר בְּיַעֲקֹב֙ כְּאֵ֣שׁ לֶֽהָבָ֔ה אָכְלָ֖ה סָבִֽיב׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@
 (כ) רְאֵ֤ה יְהֹוָה֙ וְֽהַבִּ֔יטָה לְמִ֖י עוֹלַ֣לְתָּ כֹּ֑ה אִם־תֹּאכַ֨לְנָה נָשִׁ֤ים פִּרְיָם֙ עֹלְלֵ֣י טִפֻּחִ֔ים אִם־יֵהָרֵ֛ג בְּמִקְדַּ֥שׁ אֲדֹנָ֖י כֹּהֵ֥ן וְנָבִֽיא׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כא) שָׁכְב֨וּ לָאָ֤רֶץ חוּצוֹת֙ נַ֣עַר וְזָקֵ֔ן בְּתוּלֹתַ֥י וּבַחוּרַ֖י נָפְל֣וּ בֶחָ֑רֶב הָרַ֙גְתָּ֙ בְּי֣וֹם אַפֶּ֔ךָ טָבַ֖חְתָּ לֹ֥א חָמָֽלְתָּ׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כב) תִּקְרָא֩ כְי֨וֹם מוֹעֵ֤ד מְגוּרַי֙ מִסָּבִ֔יב וְלֹ֥א הָיָ֛ה בְּי֥וֹם אַף־יְהֹוָ֖ה פָּלִ֣יט וְשָׂרִ֑יד אֲשֶׁר־טִפַּ֥חְתִּי וְרִבִּ֖יתִי אֹיְבִ֥י כִלָּֽם׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>
-<h1>פרק ג</h1>
+<h2>פרק ג</h2>
 (א) אֲנִ֤י הַגֶּ֙בֶר֙ רָאָ֣ה עֳנִ֔י בְּשֵׁ֖בֶט עֶבְרָתֽוֹ׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ב) אוֹתִ֥י נָהַ֛ג וַיֹּלַ֖ךְ חֹ֥שֶׁךְ וְלֹא־אֽוֹר׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ג) אַ֣ךְ בִּ֥י יָשֻׁ֛ב יַהֲפֹ֥ךְ יָד֖וֹ כׇּל־הַיּֽוֹם׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -112,7 +112,7 @@
 (סד) תָּשִׁ֨יב לָהֶ֥ם גְּמ֛וּל יְהֹוָ֖ה כְּמַעֲשֵׂ֥ה יְדֵיהֶֽם׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (סה) תִּתֵּ֤ן לָהֶם֙ מְגִנַּת־לֵ֔ב תַּאֲלָֽתְךָ֖ לָהֶֽם׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (סו) תִּרְדֹּ֤ף בְּאַף֙ וְתַשְׁמִידֵ֔ם מִתַּ֖חַת שְׁמֵ֥י יְהֹוָֽה׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>
-<h1>פרק ד</h1>
+<h2>פרק ד</h2>
 (א) אֵיכָה֙ יוּעַ֣ם זָהָ֔ב יִשְׁנֶ֖א הַכֶּ֣תֶם הַטּ֑וֹב תִּשְׁתַּפֵּ֙כְנָה֙ אַבְנֵי־קֹ֔דֶשׁ בְּרֹ֖אשׁ כׇּל־חוּצֽוֹת׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ב) בְּנֵ֤י צִיּוֹן֙ הַיְקָרִ֔ים הַמְסֻלָּאִ֖ים בַּפָּ֑ז אֵיכָ֤ה נֶחְשְׁבוּ֙ לְנִבְלֵי־חֶ֔רֶשׂ מַעֲשֵׂ֖ה יְדֵ֥י יוֹצֵֽר׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (ג) גַּם־<span class="mam-kq"><span class="mam-kq-q">[תַּנִּים֙]</span> <span class="mam-kq-k">(תנין)</span></span> חָ֣לְצוּ שַׁ֔ד הֵינִ֖יקוּ גּוּרֵיהֶ֑ן בַּת־עַמִּ֣י לְאַכְזָ֔ר <span class="mam-kq"><span class="mam-kq-k">(כי ענים)</span> <span class="mam-kq-q">[כַּיְעֵינִ֖ים]</span></span> בַּמִּדְבָּֽר׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -135,7 +135,7 @@
 (כ) ר֤וּחַ אַפֵּ֙ינוּ֙ מְשִׁ֣יחַ יְהֹוָ֔ה נִלְכַּ֖ד בִּשְׁחִיתוֹתָ֑ם אֲשֶׁ֣ר אָמַ֔רְנוּ בְּצִלּ֖וֹ נִֽחְיֶ֥ה בַגּוֹיִֽם׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כא) שִׂ֤ישִׂי וְשִׂמְחִי֙ בַּת־אֱד֔וֹם <span class="mam-kq"><span class="mam-kq-k">(יושבתי)</span> <span class="mam-kq-q">[יוֹשֶׁ֖בֶת]</span></span> בְּאֶ֣רֶץ ע֑וּץ גַּם־עָלַ֙יִךְ֙ תַּעֲבׇר־כּ֔וֹס תִּשְׁכְּרִ֖י וְתִתְעָרִֽי׃&nbsp;<span class="mam-spi-samekh">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (כב) תַּם־עֲוֺנֵךְ֙ בַּת־צִיּ֔וֹן לֹ֥א יוֹסִ֖יף לְהַגְלוֹתֵ֑ךְ פָּקַ֤ד עֲוֺנֵךְ֙ בַּת־אֱד֔וֹם גִּלָּ֖ה עַל־חַטֹּאתָֽיִךְ׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>
-<h1>פרק ה</h1>
+<h2>פרק ה</h2>
 (א) זְכֹ֤ר יְהֹוָה֙ מֶֽה־הָ֣יָה לָ֔נוּ <span class="mam-kq"><span class="mam-kq-k">(הביט)</span> <span class="mam-kq-q">[הַבִּ֖יטָה]</span></span> וּרְאֵ֥ה אֶת־חֶרְפָּתֵֽנוּ׃
 (ב) נַחֲלָתֵ֙נוּ֙ נֶֽהֶפְכָ֣ה לְזָרִ֔ים בָּתֵּ֖ינוּ לְנׇכְרִֽים׃
 (ג) יְתוֹמִ֤ים הָיִ֙ינוּ֙ <span class="mam-kq"><span class="mam-kq-k">(אין)</span> <span class="mam-kq-q">[וְאֵ֣ין]</span></span> אָ֔ב אִמֹּתֵ֖ינוּ כְּאַלְמָנֽוֹת׃

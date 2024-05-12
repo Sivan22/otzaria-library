@@ -71,7 +71,7 @@ def process_node(node, text,level=0):
         node_title = node['heTitle']
         section_names = node['heSectionNames']
         depth = node.get('depth', 1)
-        globals()['output'].append(f"{codes[level][0]}{node_title}{codes[level][0]}\n")
+        globals()['output'].append(f"{codes[level][0]}{node_title}{codes[level][1]}\n")
         recursive_sections(section_names, text, depth,level+1)
 
 def process_complex_book(text_file_name, schema_file_name, output_file_name):
@@ -109,7 +109,7 @@ def process_simple_book(text_file_name,schema_file_name,output_file_name):
     if 'authors' in index:
         for author in index['authors']:
             globals()['output'].append(author['he']+'\n')            
-    recursive_sections(sectionNames, text['text'], depth)
+    recursive_sections(sectionNames, text['text'], depth,1)
 
         
         

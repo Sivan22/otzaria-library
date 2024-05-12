@@ -1,7 +1,7 @@
 <h1>אוצר לעזי רש"י</h1>
 משה קטן
 <h2>תלמוד</h2>
-<h3>ברכות<h3>
+<h3>ברכות</h3>
 1 / (ברכות ד.) / <b>שליא</b><br>וישטידור"א / westedure / <b>לבוש, ובהשאלה – [vestedure] שליה</b><br><small>המלה הצרפתית מגלמת בעצמה את ההסבר של רש"י.</small><br><span dir="ltr">✭ clothing, metaphorically for placenta</span>
 2 / (ברכות ו.) / <b>חופיא</b><br>פריי"ר / freier / <b>חיכוך</b><br><small>ר' מילונו של לוי (מס' 479).</small><br><span dir="ltr">✭ rubbing</span>
 3 / (ברכות ו:) / <b>צוות</b><br>שול"ץ / solaz / <b>שעשוע</b><br><small>כלומר חֶברה. המונעת את האדם החי בתוכה מלהשתעמם.</small><br><span dir="ltr">✭ entertainment (referring to a society, that prevents people from getting bored.)</span>
@@ -99,7 +99,7 @@
 95 / (ברכות סב:) / <b>(כרכשיה) [כרכשא]</b><br>טבחיא"ה / tabahie / <b>פי-הטבעת</b><br><small>אין זו מלה צרפתית. כי בצרפתית אין חי"ת, אלא מלה ממוצא ערבי, הקשורה אולי עם השורש "טבח, מטבח", שמשמעותה הראשונה הייתה "מעי ממולא"; ייתכן, שלפנינו מלה, שהייתה בשימוש רק בקרב היהודים, ששאלו אותה מאחיהם בפרובנס ובספרד. ר' מילונו של לוי (מס' 754).</small><br><span dir="ltr">✭ anus</span>
 96 / (ברכות סב:) / <b>קפנדריא</b><br>טריי"א / trieje [triege] / <b>קיצור-דרך</b><br><span dir="ltr">✭ short-cut</span>
 97 / (ברכות סג.) / <b>מחטא דתלמיותא</b><br>ברושדי"ר של גנביי"ש (de) brosder [ganbais (de) brosder] / ganbeis / <b>רקמה של מקטורן מרופד</b><br><small>את ה – ganbeis היו לובשים מתחת לשריון כדי להגן על הגוף מכובד המתכת; לכן קשה למצוא באומנות של ימי-הביניים תמונות המתארות לבוש זה, שמהן היו יכולים ללמוד, מה טיב רקמה מיוחדת זו, אולי אפשר לשער, שלשם אוורור הבגד המרופד, היו רוקמים בו לולאות רחבות מעין תחרים – כפי שבתקופה מאוחרת יותר היו המקטורנים חלולים חלולים בחורים גאומטריים המכונים creves (מפוּצצים) – ומלאכת הרקמה, ככל שהיא מרחיבה – קלה יותר. או שהיו מעטרים בגד תחתון זה בשורות פשוטות וישרות.</small><br><span dir="ltr">✭ an embroidery on a padded jacket, nan?</span>
-<h3>שבת<h3>
+<h3>שבת</h3>
 98 / (שבת ג.) / <b>מורסא</b><br>קויטור"א / cuiture / <b>כוויה (פצע מזוהם)</b><br><span dir="ltr">✭ burn, (infected wound)</span>
 99 / (שבת ו.) / <b>בקעה</b><br>קנפני"א / chanpanie [chanpagne] / <b>מישור, שדה פתוח, איזור של שדות</b><br><small>ר' מילונו של לוי (מס' 209).</small><br><span dir="ltr">✭ open fields, plains</span>
 100 / (שבת ז.) / <b>היזמי</b><br>רונצ"א / ronce / <b>קוץ</b><br><small>ר' מילונו של לוי (מס' 187)</small><br><span dir="ltr">✭ thorn</span>
@@ -511,7 +511,7 @@
 504 / (שבת קנו:) / <b>מכבנתא</b><br>אישפינגל"א / espingle / <b>סיכה</b><br><small>בכמה כתבי-יד המלה חסרה, ובאחדים יש כאן מלה אחרת נושק"א nosche (ר' לעיל מס' 213, 223 ועוד).</small><br><span dir="ltr">✭ pin [see 213,223]</span>
 505 / (שבת קנו:) / <b>ריסתנא</b><br>אמינישטרישו"ן מנה, משאת / <b>amenestrison [amenestraison]</b><br><small>ראה לעיל מס' 48 ומס' 62.</small><br><span dir="ltr">✭ present, gift, portion</span>
 506 / (שבת קנז.) / <b>יתד של מחרשה</b><br>קולטר"א / coltre / <b>קנקן של מחרשה (היתד הפולחת את הקרקע)</b><br><span dir="ltr">✭ ploughshare, (the blade that slices the earth)</span>
-<h3>עירובין<h3>
+<h3>עירובין</h3>
 507 / (ערובין ג.) / <b>עפצים</b><br>גלי"ש / gales / <b>עפצים (גידולים טפיליים בעלה האלון)</b><br><span dir="ltr">✭ gall-nuts, (parasite growth on the oak's leaves)</span>
 508 / (עירובין ה.) / <b>דה"מ לחי הבולט</b><br>פילי"ר / piler / <b>אומנה (עמוד תומך)</b><br><small>המלה חסרה בדפוסי התלמוד; מקומה אחרי התמונה שבסוף העמוד. ולפניה כתוב: "וכאן קורין לו…".</small><br><span dir="ltr">✭ (a supporting) pillar</span>
 509 / (עירובין ח.) / <b>סיכתא</b><br>קיביל"א / chevile [cheville] / <b>יתד, וו, זיז</b><br><span dir="ltr">✭ peg, hook, wedge</span>
@@ -596,7 +596,7 @@
 587 / (עירובין קד.) / <b>גלגל</b><br>טור"ן / torn / <b>ציר (של כננת)</b><br><span dir="ltr">✭ axis, hinge (of a winch or crank)</span>
 588 / (עירובין קד.) / <b>כלי מתכת</b><br>בשי"ן / basin[bacin] / <b>גיגית</b><br><small>המלה חסרה בכתבי-היד, ונמצאת רק בתלמוד, שנדפס בספרד בסביבות רמ"ה. ובכן אינה מאת רש"י, ובלונדהיים רואה בה את המלה הספרדית bacin.</small><br><span dir="ltr">✭ tub, bucket</span>
 589 / (עירובין קד.) / <b>זמזומי</b><br>צינבי"ש / cenbes / <b>צלצלים, פעמונים</b><br><small>ר' מילונו של לוי (מס' 194).</small><br><span dir="ltr">✭ bells, cymbals</span>
-<h3>פסחים<h3>
+<h3>פסחים</h3>
 590 / (פסחים ח.) / <b>יציע</b><br>אפינדי"ץ / apendiz / <b>יציע</b><br><small>במשמעות 2 שבמילון אבן-שושן: "אגף צדדי בבניין", שגגו יורד בשיפוע מקיר הבניין הראשי ולחוץ. ר' בלונדהיים ב' (ע' 99-97).</small><br><span dir="ltr">✭ wing (of a building)</span>
 591 / (פסחים ח.) / <b>מגדל</b><br>מישטיי"ר מזנון לשמירת אוכל / <b>mestier</b><br><small>ראה לעיל מס' 155.</small><br><span dir="ltr">✭ a cupboard for storing food</span>
 592 / (פסחים ח:) / <b>בקעה</b><br>קנפני"א / chanpanie / <b>מישור, שדה פתוח, איזור של שדות</b><br><small>ר' לעיל מס' 99.</small><br><span dir="ltr">✭ a plain, open fields</span>
@@ -711,7 +711,7 @@
 701 / (פסחים קיא:) / <b>זרדתא</b><br>שורביי"ר / sorbier / <b>חוזרר (אילן)</b><br><span dir="ltr">✭ sorb (tree)</span>
 702 / (פסחים קיא:) / <b>כורמשא</b><br>ביי"ש / beis [baies] / <b>גרגירים (ובפרט פירות הדפנה)</b><br><small>ר' לעיל מס' 659-658. הלעז מצוי רק בכתב-יד אחד של פירוש הרשב"ם, שם קוראים "כורמשא [בדפוסים שלנו: כרו משא]. אילן שקורין [בלונדהיים מציע להוסיף: לו"ר (lor) וגדל בו פרי שקורין] ביי"ש". זה המקום היחיד בתלמוד, שביי"ש מפרש "כורמשא" (בשאר הופעותיו הלעז קשור עם "דפנא" או שמו הנרדף "ערא"). אולי יש להשוות עם cormes (לעיל מס' 474,166,45) ו – cormier (מס' 1581) בגלל דימוי הצלילים; לכאורה יש מוצא משותף למלה הארמית ולמלה הצרפתית.</small><br><span dir="ltr">✭ berries (specifically, to the laurel's fruits)</span>
 703 / (פסחים קיט.) / <b>קולפי</b><br>שירידור"א / seredure [serredure] / <b>מנעול</b><br><small>חסר ברשב"ם המודפס.</small><br><span dir="ltr">✭ lock</span>
-<h3>ראש השנה<h3>
+<h3>ראש השנה</h3>
 918 / (ראש השנה ט:) / <b>זמורות</b><br>פרובינ"ץ / provinz [provainz] / <b>חוטרי-גפנים המשמשים להברכה</b><br><small>לא ברור, למה תרגם בלונדהיים provin ("זמורה") בלשון יחיד. מכל מקום אין זה משנה את צורת המלה בצרפתית עתיקה, שהיא שווה ביחיד וברבים. כפי הנראה חשב רש"י, שהמלה (והפועל הקשור אליה proveinier, "להבריך" – ראה להלן מס' 1611) נגזרת מ – vigne, "גפן". אך הבלשנים טוענים היום, שמוצאה מלטינית provainz, שהיא הצורה השכיחה ביותר בימי-הביניים, אבל לכאורה בכתבי-היד קוראים provinz (ביו"ד אחת).</small><br><span dir="ltr">✭ layer, a twig still attached to the living stock induced to root by bending and covering with soil</span>
 919 / (ראש השנה ט:) / <b>מרכיב</b><br>אינטי"ר / enter / <b>להרכיב (ענף בתוך עץ)</b><br><span dir="ltr">✭ to graft (a branch to a tree)</span>
 920 / (ראש השנה יב:) / <b>תלתן</b><br>פינוגר"י / fenogre / <b>חילבה (גרגרנית יוונית, צמח המשמש לתבלין)</b><br><span dir="ltr">✭ fenugreek (a Greek trefoil used as spice)</span>
@@ -747,7 +747,7 @@
 950 / (ראש השנה לג.) / <b>מגלא</b><br>שרפ"א / sarpe / <b>מגל, מַזמֵרה</b><br><small>ראה לעיל מס' 895.</small><br><span dir="ltr">✭ scythe, pruning shears</span>
 951 / (ראש השנה לד.) / <b>גניחות</b><br>קומפליינ"ץ / [complainz] compleinz / <b>גניחות (צלילים ארוכים)</b><br><small>ר' מילונו של לוי (מס' 243).</small><br><span dir="ltr">✭ groans (long sounds)</span>
 952 / (ראש השנה לד.) / <b>מיליל</b><br>ריצידי"ר / receder / <b>לילל (צלילים קצרים)</b><br><small>ראה לעיל מס' 948.</small><br><span dir="ltr">✭ to wail, howl (short sounds)</span>
-<h3>יומא<h3>
+<h3>יומא</h3>
 704 / (יומא יא:) / <b>מרפסת</b><br>אלידוי"ר / aledoir / <b>מעבר, טיילת, מרפסת</b><br><span dir="ltr">✭ passage, balcony,</span>
 705 / (יומא טז.) / <b>דפי עץ</b><br>לטי"ש / lates / <b>נסרים</b><br><small>"דפי עץ ארוכים [באורכם] וקצרים [ברוחבם ובעוביים]. ר' מילונו של לוי (מס' 535).</small><br><span dir="ltr">✭ thin, narrow strips of wood, laths</span>
 706 / (יומא טז.) / <b>סורג</b><br>פרודנ"א / prodne / <b>סבכה, סורג</b><br><small>ר' לעיל מס' 668. בכל כתבי-היד הגרסה היא פרודנ"י במקום הכתיב הצפוי פרודנ"א. אולי, מפני שזו מלה כנסייתית, היו הוגים אותה אחרת ממלים עממיות.</small><br><span dir="ltr">✭ net, latticework</span>
@@ -791,7 +791,7 @@
 743 / (יומא פד.) / <b>סרונכי</b><br>בו"ן מלנ"ט / bon malant / <b>פצע חמור</b><br><small>ראה לעיל מס' 5.</small><br><span dir="ltr">✭ a serious wound</span>
 744 / (יומא פד:) / <b>פקוח</b><br>דישקומברימינ"ט חילוץ / <b>descombrement</b><br><small>ראה לעיל מס' 490.</small><br><span dir="ltr">✭ rescue, extrication</span>
 745 / (יומא פו.) / <b>שובבים</b><br>אינויישיי"ץ / enweisiez [enveisiez] / <b>הוללים</b><br><small>נמצא רק בכתב-יד אחד, ולא בדפוסים. ברש"י שב"עין יעקב" מופיע מעין לעז אחר: אברי"ץ (אולי במקום אביר"ץ avrez, סוטים).</small><br><span dir="ltr">✭ folly, unruly (conduct)</span>
-<h3>סוכה<h3>
+<h3>סוכה</h3>
 746 / (סוכה ג:) / <b>אכסדרא</b><br>פורק"א / porche / <b>פרוזדור (מבנה הבולט החוצה, ובו פתח הבית)</b><br><span dir="ltr">✭ antechamber, entrance hall, porch, portico</span>
 747 / (סוכה ג:) / <b>מרפסת</b><br>אלידוי"ר / aledoir / <b>מעבר, טיילת, מרפסת</b><br><span dir="ltr">✭ passage, balcony</span>
 748 / (סוכה ג:) / <b>סולם</b><br>דיגרי"ד / degred / <b>מדרגות</b><br><small>התרגום המדויק הוא "מדרגה", אבל כפי הנראה במשמעות "מדרגות, סולם" גם ביחיד. בדפוסים קוראים את המלה האיטלקית אשקל"א escala. בשני כתבי-יד אין כאן לעז בכלל, ובשלישי "גרד יר", שבוודאי הוא שיבוש של "דיגריד" (ר' לעיל מס' 555).</small><br><span dir="ltr">✭ steps, ladder</span>
@@ -886,7 +886,7 @@
 837 / (סוכה נא:) / <b>בימה</b><br>אלמינבר"א / almenbre / <b>בימה (באמצע בית-הכנסת)</b><br><small>מונח מיוחד ליהודים, שמוצאו ערבי (אל-מונבר), ונתקיים עד היום אצל יהודי אשכז, בצורת "אלמימור" (ר' בלונדהיים ב', ע' 77-76, וכן בלונדהיים פ', ע' 144).</small><br><span dir="ltr">✭ platform (at the center of the synagogue)</span>
 838 / (סוכה נא:) / <b>לווחין</b><br>פלנקי"ש / planches / <b>קרשים</b><br><span dir="ltr">✭ planks</span>
 839 / (סוכה נב.) / <b>בוכיא</b><br>אירייני"א / [iraigne] ireinie / <b>עכביש</b><br><span dir="ltr">✭ spider</span>
-<h3>ביצה<h3>
+<h3>ביצה</h3>
 840 / (ביצה ב.) / <b>דקר</b><br>פיל"א / pele / <b>את-חפירה</b><br><span dir="ltr">✭ shovel, spade (a long handle with a flat blade)</span>
 841 / (ביצה ג:) / <b>תלתן</b><br>פינוגר"י / fenogre / <b>חילבה (גרגרנית יוונית, צמח המשמש לתבלין)</b><br><span dir="ltr">✭ fenugreek (a Greek trefoil used for spice)</span>
 842 / (ביצה ז.) / <b>שלל</b><br>בשט"א / baste / <b>הכלבה (תפירה גסה)</b><br><small>כאן מדובר בביצים, כשבן עדיין "תפורות" ברחם אמן, ורש"י משווה שימוש זה של "שלל" ל"שלל של כובסין", חבילה של כביסה, שנתפרה כדי שלא תתפורר. ר' מילונו של לוי (מס' 155).</small><br><span dir="ltr">✭ a basting (loose rough stitches to hold the material until the final stitching is made)</span>
@@ -965,7 +965,7 @@
 915 / (ביצה לה:) / <b>אדמה</b><br>קרייד"א / creide / <b>גיר</b><br><small>מדובר באדמה, שבה היו חופפים את הראש. הלעז חסר בדפוסים, ויש בהם רק הלעז הבא (מס' 916), שגם הוא בא לתת דוגמא של "אדמה" לחפיפת ראש.</small><br><span dir="ltr">✭ lime</span>
 916 / (ביצה לה:) / <b>אדמה</b><br>גלייש"א / gleise [glaise] / <b>טיט (אדמה גבילה)</b><br><small>ראה לעיל מס' 915.</small><br><span dir="ltr">✭ mud, mire, (earth fit mixing)</span>
 917 / (ביצה לו.) / <b>מקורזלות</b><br>אגודי"ש / agudes / <b>חדוֹת</b><br><small>ר' בלונדהיים ב' (ע' 61).</small><br><span dir="ltr">✭ sharp</span>
-<h3>תענית<h3>
+<h3>תענית</h3>
 953 / (תענית ג:) / <b>נפוותא</b><br>ו"ן / [van] wan / <b>רחת</b><br><small>ראה לעיל מס' 448.</small><br><span dir="ltr">✭ winnowing shovel</span>
 954 / (תענית ג:) / <b>גילהי דליליא</b><br>אישלושירנ"א / [] esluserne / <b>ברק לילה</b><br><small>לא פענחו בלונדהיים, והדבר מתמיה, כי המלה (luiserne, lucerne) luserne בהוראת "אור, מנורה, דבר המאיר" שכיחה, והקדומת es- (לטינית ex-) מובנת כשמדובר באור פתאומי הבוקע בחושך הלילה. גרסת כתבי היד: אישלושנר"א, אישלושרנ"א; והגרסה שבדפוסים: אישלושטר"א היא, כפי הנראה, משוחזרת – לפי האיטלקית (כך חירם פרי בק"ס ה', תרפ"ח, ע' 225). ר' מילונו של לוי (מס' 56) הקושר את המלה ללעז אישלויד"א esloide, כמו לעיל מס' 89.</small><br><span dir="ltr">✭ lightning, a flash in the night</span>
 955 / (תענית ה:) / <b>יגמל</b><br>דישיבירי"ר / deseverer / <b>לגמול (ילד)</b><br><span dir="ltr">✭ to wean (a baby)</span>
@@ -1008,7 +1008,7 @@
 991 / (תענית כט:) / <b>דורסין</b><br>פולי"ר / foler / <b>לדרוך (לשם כיבוס)</b><br><span dir="ltr">✭ fulling; cleansing and thickening a cloth by pressing, treading and other processes</span>
 992 / (תענית כט:) / <b>גיהוץ</b><br>לישקיי"ר / lischier / <b>לגהץ</b><br><span dir="ltr">✭ to iron, press</span>
 993 / (תענית לא.) / <b>קופס[א]</b><br>אישקרי"ן / escrin / <b>קופסה (בעיקר לתכשיטים)</b><br><span dir="ltr">✭ (jewelry) box</span>
-<h3>מגילה<h3>
+<h3>מגילה</h3>
 994 / (מגילה ו.) / <b>טרית</b><br>טונינ"א / tonine / <b>טוּנה</b><br><span dir="ltr">✭ tuna</span>
 995 / (מגילה ו.) / <b>אקרא</b><br>פור"ט / port / <b>נמל</b><br><small>יש להעיר, שלפי דברי רש"י בפירושו: "מקום מעבר הנהר" לא בא הלעז לציין נמל במשמעות הרגילה של המלה, אלא במשמעות צדדית של "מעבר", הקיימת עד היום במינוח הטופוגרפי של הרי הפירנאים (העיר Saint-Jean-Pied-de-Port היא Saint-Jean שלרגלי המעבר בהרים), והיא קרובה לסיומת הגרמנית –furt (בשם הערים Frankfurt, Erfurt ועוד), המציינת דווקא מעברות של נהר. ואכן המלה הארמית, המתפרשת פה, היא "אקרא", בניגוד לשבעה מקומות אחרים, שבהם הלעז מופיע, להוציא רק מקרה אחד (מס' 1042 להלן), ששם מקוריות הלעז מפוקפקת ביותר.</small><br><span dir="ltr">✭ port, seaport</span>
 995א / (מגילה ו.) / <b>דה"מ מטרופולין</b><br>מטר"א / metra / <b>אֵם</b><br><small>הלעז הוא "לשון יוון" כפי שמצוין בפירוש.</small><br><span dir="ltr">✭ mother</span>
@@ -1035,7 +1035,7 @@
 1016 / (מגילה כח:) / <b>מטיילין</b><br>אישבניי"ר (אולי ) esbaneier / esbanier / <b>להתבדר</b><br><small>ר' לעיל מס' 711. חסר בדפוסים (מקומו בדה"מ "ואין ניאותין"). ר' מילונו של לוי (מס' 786), הגורס, לפי אחד מכתבי-היד, אישפציי"ר espacier (לטייל, השווה בגרמנית spazieren).</small><br><span dir="ltr">✭ to be entertained, amused</span>
 1017 / (מגילה כח:) / <b>זילחא דמיטרא</b><br>אונדיד"א / ondede / <b>גשם שוטף, שבר-ענן</b><br><small>חסר בדפוסים.</small><br><span dir="ltr">✭ torrential rain, downpour</span>
 1018 / (מועד קטן ב.) / <b>חוטטין, מנקרין</b><br>קורי"ר / curer / <b>לנקות</b><br><small>בדפוס פאס השמור בספריית קמבריג' שבאנגליה קוראים פירוש רש"י, שאינו קיים בדפוסים שלנו. וזה לשונו: "מתקני' קלקולי המים. מים המכונסין בגומות לשתות מהן ונמשכין לתוכן זבילי רשות הרבים ומקלקלין אותן המים, מתקנין וסותמין אותן החריצין שבהן הולך הזבל לבור וחוטטין אותן, מנקרין כעין שעושין לבור קוריי"ר בלע"ז, שמוציאין מתוכן צרורות וקסמים ועפרות שנפלו לתוכן".</small><br><span dir="ltr">✭ to clean</span>
-<h3>מועד קטן<h3>
+<h3>מועד קטן</h3>
 1019 / (מועד קטן ג:) / <b>אשתומם</b><br>אישטורדישו"ן עילפון, הלם, מבוכה / <b>estordison</b><br><small>ראה לעיל מס' 549. באחד מכתבי-היד קוראים: "אשתומם. כמו ישומו ישרים על זאת ושומו שמים, וכן כל לשון שומם אישטורדישו"ן בלע"ז."</small><br><span dir="ltr">✭ fainting, shock, confusion</span>
 1020 / (מועד קטן ד:) / <b>לשחופי</b><br>קורי"ר / curer / <b>לנקות</b><br><small>חסר בדפוסים ומצוי רק בכתב-יד אחד ובפירוש רש"י שברי"ף.</small><br><span dir="ltr">✭ to clean</span>
 1021 / (מועד קטן ד:) / <b>שירטון</b><br>לימט"ו / limato / <b>טיט (באיטלקית)</b><br><small>חסר בדפוסים ומצוי רק בכתב-יד אחד, וברור, שאינו מאת רש"י.</small><br><span dir="ltr">✭ mud, mire (in Italian)</span>
@@ -1096,7 +1096,7 @@
 1075 / (מועד קטן כז:) / <b>צרדא</b><br>קיניב"ץ / chenevaz / <b>בגד קנבוס</b><br><small>הוחלף בדפוסים עם המלה העברית "קנבוס" (ראה להלן מס' 1516).</small><br><span dir="ltr">✭ a hemp cloth</span>
 1076 / (מועד קטן כח.) / <b>כוסילתא</b><br>פלימיא"ה / flemie / <b>איזמל (להקזת דם)</b><br><small>מצוי רק בכתב-יד אחד, כדלהלן: "כוסילתא. כלי אמנות שמכה בו פליומ"א בלע"ז".</small><br><span dir="ltr">✭ a surgical knife (for bloodletting)</span>
 1077 / (מועד קטן כח:) / <b>ככא</b><br>יינציבי"ש / jencives / <b>חניכיים</b><br><small>מצוי רק בכתב-יד אחד (ייניבא"ש).</small><br><span dir="ltr">✭ gums</span>
-<h3>חגיגה<h3>
+<h3>חגיגה</h3>
 1078 / (חגיגה ג:) / <b>אפרכסת</b><br>טרימויא"ה / tremuie / <b>אפרכסת, משפך (שדרכו מכניסים חומר לריחיים וכדומה).</b><br><span dir="ltr">✭ funnel (to suppl the grindstones with grain)</span>
 1079 / (חגיגה ד.) / <b>דה"מ המקמץ</b><br>קורדוא"ן / cordoan / <b>קורדובני (סוג מיוחד של עור המיוצר בעיר קורדובה שבספרד)</b><br><small>בלונדהיים מבין, שהלעז מסביר את דברי רש"י: "צואת כלבים… לתקן בהם עורות", אך מסתבר יותר, שהכוונה לעור זה עצמו.</small><br><span dir="ltr">✭ Cordovan (special type of leather made in Cordoba, Spain)</span>
 1080 / (חגיגה ד:) / <b>תוכחה</b><br>אפרובימינ"ט / aprovement / <b>הוכחה</b><br><small>חסר בדפוסים. כפי הנראה רצה רש"י להראות, באמצעות הצרפתית, את הקרבה של מושגי ה"הוכחה" וה"תוכחה", כי המוכיח אדם על פשעיו חייב להוכיח לו שפשע. ר' בלונדהיים ב' (ע' 103-102).</small><br><span dir="ltr">✭ proof</span>
@@ -1115,7 +1115,7 @@
 1092 / (חגיגה יט.) / <b>גממיות</b><br>וליד"א / [valede] walede / <b>בקעה, ואדי</b><br><small>לי נראה, שאין כוונתו של רש"י לפרש בלעז זה את הדה"מ גממיות, אלא "נחל שיפולי הרים, שקורין וליד"א".</small><br><span dir="ltr">✭ valley, wadi</span>
 1093 / (חגיגה כ.) / <b>מגריפה</b><br>ודי"ל / [vadil] wadil / <b>יעה, מגרפה</b><br><small>רש"י מתאר כאן את הכלי: "כלי ברזל הוא שקורין ודי"ל שגורפין בו אפר הכירה וגם מבדילין בו תאנים המודבקות זו בזו". ר' מילונו של לוי (מס' 807) ובלונדהיים פ' (ע' 129).</small><br><span dir="ltr">✭ scoop, shovel</span>
 1094 / (חגיגה כו:) / <b>דולפקי</b><br>פלדישטו"ל / faldestol / <b>כיסא מתקפל</b><br><small>חסר בדפוסים, ונמצא רק בכתב-יד אחד בצורה מושפעת מהאיטלקית.</small><br><span dir="ltr">✭ folding chair</span>
-<h3>יבמות<h3>
+<h3>יבמות</h3>
 1095 / (יבמות ה:) / <b>תכיפה</b><br>פוינ"ט / point / <b>תך, תֶפֶר</b><br><span dir="ltr">✭ stitch</span>
 1096 / (יבמות מג.) / <b>מלקט</b><br>מולי"ש / moles / <b>צבת (?)</b><br><small>למלה צרפתית זו לא מצאת במילונים את המשמעות "צבת", אלא "ריחיים" וכדומה. בדפוסים: טינליי"ש tenalies, למה אין אף לעז אחד בין דף ה: לבין דף מג. במסכת יבמות.</small><br><span dir="ltr">✭ tongs (?) pliers(?)</span>
 1097 / (יבמות מו.) / <b>ארויסא</b><br>קיבישטר"א אפסר (חלק מהרתמה, שבו מושכים את הבהמה או את הסוס בצווארם). / <b>chevestre</b><br><span dir="ltr">✭ halter (the part of the harness around the animal's neck)</span>
@@ -1157,7 +1157,7 @@
 1133 / (יבמות קכ.) / <b>שומא</b><br>וירוא"ה / [verrue] werue / <b>יבלת</b><br><span dir="ltr">✭ a wart</span>
 1134 / (יבמות קכ:) / <b>מסקיב</b><br>רידוישיי"ר להקהות, לפגום (את גב החמור באוכף, שאינו הולם אותו) / <b>[redoissier] redoisier</b><br><span dir="ltr">✭ to blunt, defect (a donkey's back, by an improper saddle)</span>
 1135 / (יבמות קכא.) / <b>אגמא</b><br>מריש"ק / maresc / <b>בִּיצה, מקווה מים רדודים</b><br><span dir="ltr">✭ marsh, a shallow body water</span>
-<h3>כתובות<h3>
+<h3>כתובות</h3>
 1136 / (כתובות ב.) / <b>לפרנס</b><br>קונריידי"ר / conreider / <b>לקשט, לצייר</b><br><small>נגזר מהשורש הגרמני rat (כמו ב – vorrat), ציוד (השווה בצרפתית desarroi,arroi).</small><br><span dir="ltr">✭ to decorate, equip</span>
 1137 / (כתובות ג:) / <b>איספורווא</b><br>הירניי"ש / herneis / <b>חיל-הספקה (סיעת אנשים המלווים את הצבא ודואגים לסיפוק צרכיו)</b><br><span dir="ltr">✭ army service corps (a group of people accompanying the army and hiking care of its supplies)</span>
 1138 / (כתובות ה.) / <b>פקוח נפש</b><br>דיקומברימינ"ט חילוץ / <b>descombrement</b><br><small>ראה לעיל מס' 490.</small><br><span dir="ltr">✭ rescue, extrication</span>
@@ -1215,7 +1215,7 @@
 1190 / (כתובות קיא:) / <b>דלית</b><br>טרייל"א / [treille] treile / <b>גפן-דליות</b><br><small>ראה לעיל מס' 653.</small><br><span dir="ltr">✭ vine-aibor</span>
 1191 / (כתובות קיב.) / <b>אפרסקא</b><br>פירשק"א / persche / <b>אפרסק</b><br><small>לעז זה מצוי רק בכתב-יד אחד ובצורה משובשת פרשג"א (בהשפעת הפרובנסאלית?). בדפוסים שלנו אין המלה "אפרסקא" מופיעה כלל בפירוש רש"י. בלונדהיים מעתיק מאותו כתב-יד יחידי את המלה הארמית בצורת "פרסקי" (רבים).</small><br><span dir="ltr">✭ peach</span>
 1192 / (כתובות קיב.) / <b>קיבוריא</b><br>שיאונדיי"ר / seondier / <b>משני, בעל איכות נחותה</b><br><span dir="ltr">✭ secondary, of low quality</span>
-<h3>נדרים<h3>
+<h3>נדרים</h3>
 1193 / (נדרים כה.) / <b>אסקונדרי</b><br>מירילי"ש / mereles / <b>אסימונים למשחק</b><br><small>ראה להלן מס' 1353. חסר בדפוסים, ומצוי רק בכתב-יד אחד (מרליי"ש).</small><br><span dir="ltr">✭ metal disks (used in a game)</span>
 1194 / (נדרים מא:) / <b>תורייקי</b><br>תירייק"א / [teriake] theriake / <b>תריאקה (תרופה נגד ארס נחשים)</b><br><small>מצוי רק בדפוסים. ברור, שהפרשן התכוון להראות, שאותה מלה משמשת בצרפתית כמו בלשון התלמוד. השימוש בתי"ו (במקום טי"ת) מצביע על השפעת הכתיב התלמודי, או על הקפדה (לא בימי רש"י, אלא בזמן ההדפסה) על הערך המיוחד של האות היוונית ?. שתי היודי"ן באות כנראה לציין את היו"ד העיצורית. ר' בלונדהיים ב' (ע' 151). פר' שמואל קוטק, במאמרו Sur quelques aromates cites dans la Bible et le Talmud (Revue de </small><br><span dir="ltr">✭ theriac (an antidote against snakes' venom)</span>
 1195 / (נדרים מא:) / <b>בורדם</b><br>בו"ן מלנ"ט / bon malant / <b>פצע חמור</b><br><small>ראה לעיל מס' 5. מצוי רק בדפוסים.</small><br><span dir="ltr">✭ a serious wound</span>
@@ -1230,7 +1230,7 @@
 1204 / (נדרים נח:) / <b>לוף</b><br>לופינ"א / lupine / <b>תורמוס</b><br><small>מצוי רק בדפוסים. מי שרשם לעז זה התכוון להצביע על דמיון שם הצמח בעברית ובצרפתית (בצרפתית חדישה: lupin). אך הדבר תמוה, כי התורמוס מהקטניות ואינו דומה לבצל ולשום כמו הלוף (שמזהים אותו היום עם הצמח, ששמו הלטיני והצרפתי arum). על קיום הצורה lupine בימי-הביניים מעידה המלה האנגלית (lupine). הפרשן אומר, בהסברו השני, שסימן לסוף הקיץ הוא הקפלה (או: הכפלה), כלומר צבירה, של המקצועות, היינו הקציעות, התאנים, שנחתכו (נקצעו) כדי שיתייבשו, והיו עושים מהן מחרוזות. אשר לצורת הלעז, היינו מצפים יותר לצורה sartes (לפי המלה המתועדת באיטלקית ובספרדית sarta; בצרפתית אין תיעוד במילונים), אבל היו"ד קיימת בכל המקורות. מוצא המלה מהפועל sarcir (לאחות), ומשמעותה המקורית "</small><br><span dir="ltr">✭ lupine (plant)</span>
 1205 / (נדרים סא:) / <b>דה"מ עד שיוכפלו המקצועות</b><br>שירטי"ש / sertes / <b>מחרוזות</b><br><small>הפרשן אומר, בהסברו השני, שסימן לסוף הקיץ הוא הקפלה (או: הכפלה), כלומר צבירה, של המקצועות, היינו הקציעות, התאנים, שנחתכו (נקצעו) כדי שיתייבשו, והיו עושים מהן מחרוזות. אשר לצורת הלעז, היינו מצפים יותר לצורה sartes (לפי המלה המתועדת באיטלקית ובספרדית sarta; בצרפתית אין תיעוד במילונים), אבל היו"ד קיימת בכל המקורות. מוצא המלה מהפועל sarcir (לאחות), ומשמעותה המקורית "מאוחה, מחוברת".</small><br><span dir="ltr">✭ strings (of figs)</span>
 1206 / (נדרים סו:) / <b>דה"מ דומה לאניצי פשתן</b><br>קרישפי"ש / crespes / <b>מקורזלים</b><br><small>חסר בדפוסים. בדפוס וילנא חסר גם כל הפירוש, המופיע בדפוס בומברג כדלהלן: "דומה לאניצי פשתן. מרוך זה בזה".</small><br><span dir="ltr">✭ curled</span>
-<h3>נזיר<h3>
+<h3>נזיר</h3>
 1207 / (נזיר ג.) / <b>צדעא</b><br>טינפל"א / tenple / <b>צדע, רקה</b><br><span dir="ltr">✭ temple (of the forehead)</span>
 1208 / (נזיר ז.) / <b>אוונא</b><br>קונטריד"א / contrede / <b>חבל ארץ</b><br><small>ר' מילונו של לוי (מס' 246).</small><br><span dir="ltr">✭ region</span>
 1209 / (נזיר לט.) / <b>אינבא</b><br>לינטרי"ש / lentres / <b>ביצי-כינים</b><br><small>בכתב-היד הגרסה לינדיני"ש (ראה לעיל מס' 977). – מדף ז' עד דף ל"ט אין לעזים.</small><br><span dir="ltr">✭ nits</span>
@@ -1241,7 +1241,7 @@
 1214 / (נזיר נה.) / <b>איסקריא</b><br>מש"ט / mast / <b>תורן</b><br><span dir="ltr">✭ mast</span>
 1215 / (נזיר נו:) / <b>שבת</b><br>אניי"ד / aneid / <b>שֶבֶת (צמח ריחני)</b><br><span dir="ltr">✭ dill, anise (aromatic plant)</span>
 1216 / (נזיר סה.) / <b>קססות</b><br>בלישטי"ש / blestes / <b>גושי אדמה</b><br><span dir="ltr">✭ clods of earth</span>
-<h3>סוטה<h3>
+<h3>סוטה</h3>
 1217 / (סוטה ז.) / <b>נפרמו</b><br>דימינציי"ר / demincier / <b>לחתוך לחתיכות דקות, לקרוע לגזרים</b><br><span dir="ltr">✭ to tear apart, cut to small pieces</span>
 1218 / (סוטה ח:) / <b>צלצול</b><br>בינדי"ל / bendel / <b>אגד, חגורה, סרט</b><br><small>ראה לעיל מס' 251.</small><br><span dir="ltr">✭ band, belt, stripe</span>
 1219 / (סוטה ח:) / <b>סרונכי</b><br>בו"ן מלנ"ט / bon malant / <b>פצע חמור</b><br><small>ראה לעיל מס' 5. כאן, כמו במקומות רבים בפירושי רש"י, הפצע הנדון הוא אסכרא, שבימי-הביניים חשבו, שהוא מורסה בגרון המעכבת את הנשימה.</small><br><span dir="ltr">✭ a serious wound</span>
@@ -1275,7 +1275,7 @@
 1247 / (סוטה מט:) / <b>טנבורא</b><br>טנבו"ר / tanbor / <b>תוף</b><br><small>רש"י מצביע על זהות המלה הארמית עם המלה הצרפתית.</small><br><span dir="ltr">✭ drum</span>
 1248 / (סוטה מט:) / <b>כיפה</b><br>פילטרי"ן / feltrin / <b>כובע של לֶבֶד</b><br><small>הגרסה של המקור היחיד (דפוס בומברג) היא פילטר"א, כלומר feltre (לֶבֶד, כמו במס' 228 לעיל ובמקומות רבים), אולם במשמעות של כיפה יש לנו פילטרי"ן לפחות במקום אחד נוסף (להלן מס 2295).</small><br><span dir="ltr">✭ a felt hat</span>
 1249 / (סוטה מט:) / <b>לשון סורסי</b><br>לינג"א שוריא"ה שפה סורית / <b>[lengue surie] lenge surie</b><br><span dir="ltr">✭ Syrian language</span>
-<h3>גיטין<h3>
+<h3>גיטין</h3>
 1250 / (גיטין ב:) / <b>מדינה</b><br>קונטריד"א / contrede / <b>חבל ארץ</b><br><small>ראה לעיל מס' 1208. חסר בכתבי-היד, ונמצא רק בדפוסים, מאז המהדורה השנייה של סונצינו (פיזרו, רע"א?).</small><br><span dir="ltr">✭ a region</span>
 1251 / (גיטין ז.) / <b>כלילא</b><br>ניאי"ל / neel / <b>תצריב שחור</b><br><small>ראה לעיל מס' 1245.</small><br><span dir="ltr">✭ a black etching [see 1245]</span>
 1252 / (גיטין ח:) / <b>פרוורי</b><br>דוקידי"ש / duchedes / <b>דוכסיות, מחוזות</b><br><span dir="ltr">✭ dukedoms, duchies, counties</span>
@@ -1371,7 +1371,7 @@
 1341 / (גיטין פו.) / <b>מרתכא</b><br>קוגילו"ן / [coguillon] cogilon / <b>מִרתָּך (תחמוצת העופרת)</b><br><small>ראה עליל מס' 1322.</small><br><span dir="ltr">✭ plumbous oxide, litharge</span>
 1342 / (גיטין פז:) / <b>דף</b><br>קולומי"ל / colomel / <b>עמודה, טור (בדברים כתובים על קלף)</b><br><small>אין זה דף במשמעות של היום, ואף לא עמוד, אלא מרובע כתוב "ברוחב המגילה" כדברי רש"י.</small><br><span dir="ltr">✭ (a written) column, row (on a parchment)</span>
 1343 / (גיטין צ.) / <b>הקדיחה</b><br>אדורשי"ר / adorser / <b>לתת (את התבשילים) להישרף ולהידבק בסיר</b><br><small>ראה לעיל מס' 885.</small><br><span dir="ltr">✭ to allow (food) to bum and stick to the pot.</span>
-<h3>קידושין<h3>
+<h3>קידושין</h3>
 1344 / (קידושין ט.) / <b>חומרי</b><br>בוטונ"ש / botons / <b>כפתורים</b><br><small>גם כאן מדובר בכפתורים לנוי, אבל הפעם, לדברי רש"י, של בדיל או של זכוכית, לא של זהב כמו לעיל (מס' 1229, 1323). הצורה boton המודפסת אצל בלונדהיים היא ללא ספק טעות דפוס.</small><br><span dir="ltr">✭ buttons</span>
 1345 / (קידושין ט.) / <b>חומרי</b><br>פיוילי"ש / fiweles [fiveles] / <b>סגרים, מכבנות</b><br><small>גם אלה בעיקר לנוי (מלטינית fibuls). אין כמעט ספק, שההטעמה חלה על ההברה הראשונה. יש גם אפשרות לקרוא את הלעז פיולי"ש fioles, ואז יהיה פירושו "צלוחיות קטנות", כמין כדורים קטנים, שהנשים מתקשטות בהם ובתוכם בושם (ר' פירוש רש"י דה"מ "חומרתא דפילון" גיטין סט:)</small><br><span dir="ltr">✭ [decorative] hairpins, clasps</span>
 1346 / (קידושין ט.) / <b>דה"מ חומרי</b><br>מושטניצי"ש ענקים, שרשרות / <b>mostnices</b><br><small>כך נתן כאן בלונדהיים הוראה אחרת למלה מאשר לעיל (מס' 236). שם מדובר ב"לבובה", מין בגד, שקושרים לצוואר. אמנם קשה לתאם את דברי רש"י עם הפירוש "לבובות", אבל גם עם הפירוש "ענקים" אין תיאום מושלם, כי לכאורה mostnices צריך להיות שם נרדף ל – fiweles. בכל אופן יש לשאול, מה הכוונה ב"לשון רבותינו"? אולי בלשון היהודים בחבל הריין, ששם למד רש"י בישיבות וורמס ומיינץ?</small><br><span dir="ltr">✭ necklaces, chains</span>
@@ -1419,7 +1419,7 @@
 1388 / (קידושין פא:) / <b>אכמר</b><br>טושי"ר / [tosser] toser / <b>להשתעל</b><br><span dir="ltr">✭ to cough</span>
 1389 / (קידושין פב.) / <b>סריקים</b><br>פלוקיידרי"ש / [flochiedre] flochiedres / <b>סורקי צמר</b><br><small>בלונדהיים גורס [פלוקיידר"א] flochiedre (צורת היחיד, וכן בתרגומו לצרפתית). אבל אפשר להסתמך על אחת הגרסאות של הלז, המסתיימת בשי"ן של הרבים, כפי שהסתמך בלונדהיים על גרסה אחרת המסתיימת באל"ף של היחיד.</small><br><span dir="ltr">✭ wool combers</span>
 1390 / (קידושין פב:) / <b>מחטא דתלמיותא</b><br>ברושדי"ר / brosder / <b>רקמה</b><br><small>רש"י מפרש כאן אותו ביטוי כמו לעיל מס' 97 (בתוך אותו מאמר, רק שכאן מיוחס לר' יהודה מה שמיוחס שם לר' חסדא), אבל כאן הוא מסתפק במלה צרפתית אחת, ולא הוסיף כפי שהוסיף שם: "של גנביי"ש". גם שאר דברי הפירוש דומים פה ושם, אף שיש קצת הבדלים בלשון.</small><br><span dir="ltr">✭ embroidery</span>
-<h3>בבא קמא<h3>
+<h3>בבא קמא</h3>
 1391 / (בבא קמא ט:) / <b>צבתא</b><br>טינליי"ש / [tenailles] tenalies / <b>צבת</b><br><span dir="ltr">✭ tongs, pliers</span>
 1392 / (בבא קמא ט:) / <b>צוותא</b><br>שול"ץ / solaz / <b>שעשוע (כלומר חברה, המונעת מהאדם החי בתוכה מלהשתעמם)</b><br><small>ראה לעיל מס' 3. כאן קצת קשה להבין את המלה, כפי שהובנה בהופעותיה הקודמות, אולי מותר לומר, שרש"י עצמו התלבט לקיים את הגרסה "צוותא" במקום "צבתא", עם זאת אפשר לפרש, שהחֵרֵש אחראי יותר כשהוא שיחק באש, מפני שמצא בכך בידור ושעשוע, אלא שרש"י עמד על ההוראה של "חברה", ולכן דבריו נראים מסובכים למדאי. ור' גם להלן מס' 1407.</small><br><span dir="ltr">✭ entertainment (referring to a society that prevents people from getting bored)</span>
 1393 / (בבא קמא יז:) / <b>אוכף</b><br>שיל"א / sele / <b>אוכף</b><br><span dir="ltr">✭ saddle</span>
@@ -1501,7 +1501,7 @@
 1468 / (בבא קמא קיט:) / <b>מגירה</b><br>שיר"א / [serre] sere / <b>משור</b><br><small>ראה לעיל מס' 808.</small><br><span dir="ltr">✭ a saw</span>
 1469 / (בבא קמא קיט:) / <b>מקדח</b><br>טריידר"א / tariedre / <b>מַקדֵחַ</b><br><span dir="ltr">✭ a drill</span>
 1470 / (בבא קמא קיט:) / <b>רביטני</b><br>פליינ"א / [plaine] pleine / <b>מקצועה</b><br><small>ראה לעיל מס' 181.</small><br><span dir="ltr">✭ a plane (a tool)</span>
-<h3>בבא מציעא<h3>
+<h3>בבא מציעא</h3>
 1471 / (בבא מציעא ז.) / <b>(דה"מ כרכשתא) גרדין</b><br>פירניי"ש / fernjes / <b>ציציות</b><br><small>ראה לעיל מס' 446.</small><br><span dir="ltr">✭ fringes (of a cloth)</span>
 1472 / (בבא מציעא ח:) / <b>מוסירה</b><br>קיבישטר"א אפסר (חלק מהרתמה, שבו מושכים את הבהמה או את הסוס בצווארם) / <b>chevestre</b><br><span dir="ltr">✭ halter (the part of the harness around the animal's neck)</span>
 1473 / (בבא מציעא ט.) / <b>(בית פגיה)[בית פגים]</b><br>קיביצינ"א / chevecine / <b>רתמת-ראש</b><br><span dir="ltr">✭ head-harness</span>
@@ -1623,7 +1623,7 @@
 1589 / (בבא מציעא קיז.) / <b>לווחין</b><br>פלנקי"ש / planches / <b>קרשים</b><br><span dir="ltr">✭ planks</span>
 1590 / (בבא מציעא קיז.) / <b>יתידות</b><br>קיביל"ש / [chevilles] cheviles / <b>יתדות, ווים, זיזים</b><br><span dir="ltr">✭ wedges, hooks, pegs</span>
 1591 / (בבא מציעא קיז:) / <b>כיפין</b><br>ארקוול"ט / [arcvolt] arcwolt / <b>קמרון</b><br><small>ראה לעיל מס' 1109.</small><br><span dir="ltr">✭ vault, arch (dome)</span>
-<h3>בבא בתרא<h3>
+<h3>בבא בתרא</h3>
 1592 / (בבא בתרא ג:) / <b>הודרי</b><br>קיברונ"ש / chevrons / <b>קורות הגג</b><br><span dir="ltr">✭ the beams of the roof</span>
 1593 / (בבא בתרא ד.) / <b>ילא</b><br>היריצו"ן / hericon / <b>קיפוד</b><br><small>ראה לעיל מס' 218.</small><br><span dir="ltr">✭ hedgehog</span>
 1594 / (בבא בתרא ד.) / <b>ירוק</b><br>בי"ש / bis / <b>(שיש) אפור-חום</b><br><small>ראה לעיל מס' 836.</small><br><span dir="ltr">✭ gray-brown (marble)</span>
@@ -1712,7 +1712,7 @@
 1676 / (בבא בתרא קסה:) / <b>דרכמונות</b><br>קויניונ"ש / [] coinions / <b>פרוטות, מטבעות קטנות</b><br><small>לא פענחו בלונדהיים. המקור היחיד הוא דפוס בומברג הגורס קינונ"ש. בדפוס סונצינו יש מלה אחרת לגמרי, אולי איטלקית (אנכוס"י).</small><br><span dir="ltr">✭ little coins, pennies</span>
 1677 / (בבא בתרא קסז.) / <b>זרנוקא</b><br>ציגוני"א / [cigogne] cigonie / <b>חסידה</b><br><small>בהשאלה: מתקן שאיבה.</small><br><span dir="ltr">✭ stork</span>
 1677א / (בבא בתרא קעג.) / <b>שדה</b><br>קנפני"א / chanpanue / <b>מישור, שדה פתוח, איזור של שדות</b><br><small>חסר אצל בלונדהיים.</small><br><span dir="ltr">✭ plain, open field, an area of fields</span>
-<h3>סנהדרין<h3>
+<h3>סנהדרין</h3>
 1678 / (סנהדרין ב.) / <b>ספר</b><br>מרק"א / marche / <b>גבול, ספַר</b><br><span dir="ltr">✭ border, frontier</span>
 1679 / (סנהדרין ה:) / <b>בצעים</b><br>מריש"ק / maresc / <b>בִיצה, מקווה מים רדודים</b><br><small>אולי יש לראות במלה צורת רבים ("ביצות"), כי ייתכן, שבהיותא ממוצא גרמני, לא הייתה לה צורת רבים ב – s. </small><br><span dir="ltr">✭ marsh, a shallow body of water</span>
 1680 / (סנהדרין יד:) / <b>החלידו</b><br>רידויל"א / [redoille] redoile / <b>חלודה</b><br><small>ראה לעיל מס' 200. הלעז נמצא רק בדפוסים וחסר בכתבי-היד. גם תמוה, לקרוא בלועזית שם עצם הבא לפרש פועל.</small><br><span dir="ltr">✭ rust</span>
@@ -1775,7 +1775,7 @@
 1737 / (סנהדרין קט.) / <b>שאפי</b><br>אשקר"ן - [] / <b>בור ריק ממים (?)</b><br><small>חסר בדפוסינו ולא פוענח. אולי אפשר להציע שיקיצ"א (sechece, יובש), אבל גרסה זו רחוקה מהמקור היחיד, הוא דפוס סונצינו.</small><br><span dir="ltr">✭ an empty well, pit</span>
 1738 / (סנהדרין קט.) / <b>גר</b><br>קורנ"ט / corant / <b>זרם</b><br><span dir="ltr">✭ current</span>
 1739 / (סנהדרין קט:) / <b>פצע</b><br>נפרדור"א / nafradura / <b>פציעה (בפרובנסאלית)</b><br><small>אם יש לקרוא כך, ברור, שאין הלעז מאת ריב"ן. אולם ייתכן, שצריך לגרוס נברידור"א navredure, ואז אין סיבה לפקפק במקוריותו.</small><br><span dir="ltr">✭ wound (in Provencean) mas</span>
-<h3>מכות<h3>
+<h3>מכות</h3>
 1740 / (מכות ח.) / <b>פיסא</b><br>בלישט"א / bleste / <b>גוש אדמה</b><br><small>הלעז משובש בדפוסים.</small><br><span dir="ltr">✭ a clod of earth</span>
 1741 / (מכות ח:) / <b>שוליא</b><br>יוינדרי"ץ / joindrez / <b>שוליא</b><br><small>ראה לעיל מס' 1280.</small><br><span dir="ltr">✭ apprentice</span>
 1742 / (מכות ט:) / <b>מחצל</b><br>טרואיל"א / truele / <b>כף של סיידים</b><br><span dir="ltr">✭ (plasterer's) trowel</span>
@@ -1789,7 +1789,7 @@
 1750 / (מכות כא.) / <b>כוסילתא</b><br>פלימיא"ה / flemie / <b>איזמל (להקזת דם)</b><br><span dir="ltr">✭ a surgical knife (for bloodletting)</span>
 1751 / (מכות כב:) / <b>נפרמוֹ</b><br>דישקושדר"א / descosdre / <b>להתיר תפר</b><br><span dir="ltr">✭ to unstitch</span>
 1752 / (מכות כג:) / <b>הופיע</b><br>פרובי"ר / prover / <b>לאַמֵּת</b><br><small>ר' בלונדהיים ב' (ע' 167-167).</small><br><span dir="ltr">✭ to verify, prove right</span>
-<h3>שבועות<h3>
+<h3>שבועות</h3>
 1753 / (שבועות ג.) / <b>סנטר</b><br>מינטו"ן / menton / <b>סנטר</b><br><span dir="ltr">✭ chin</span>
 1754 / (שבועות ד:) / <b>מחט</b><br>אגויל"א -] aguile / [agul / <b>מחט</b><br><small>הלעז, וכן פירושו של רש"י על מלה זו, חסרים בדפוסים ובכל כתבי-היד פרט לאחד, שבו הכתיב אגול"ה agula נותן מקום לחשוב, שהוא ספרדי או פורטוגלי (ר' בלונדהיים ב', ע' 62) ואינו מאת רש"י. הרשיתי לעצמי בכל זאת לשחזר את הצורה שבצרפתית עתיקה, דבר שבלונדהיים הסתייג ממנו.</small><br><span dir="ltr">✭ needle</span>
 1755 / (שבועות ד:) / <b>מקדח</b><br>ברינ"א / barena / <b>מקדח (בספרדית)</b><br><small>גם מלה זו אין לה פירוש ואין לה לעז אלא באותו כתב-יד (ר' לעיל מס' 1754). וכאן הלעז רחוק מאוד מהמלה הצרפתית, שבה פירש רש"י במקום אחר את "מקדח": tariedre (ר' לעיל מס' 1351 ועוד). צריך איפה להניח, שאין הלעז מאת רש"י, והוא המלה הספרדית bar[r]ena. ר' מילונו של לוי (מס' 786).</small><br><span dir="ltr">✭ drill (in Spanish)</span>
@@ -1801,7 +1801,7 @@
 1761 / (שבועות לא.) / <b>(פוזמוקייכו)[פוזמקי]</b><br>קלצונ"ש / chalcons / <b>נעלי-בד</b><br><small>ראה לעיל מס' 105.</small><br><span dir="ltr">✭ cloth-shoes</span>
 1762 / (שבועות לא.) / <b>המראה</b><br>פירמלי"א / [fermaille] fernalie / <b>הסכם</b><br><small>"הסכם" זה הוא יסוד להתחייבות במשחקי מזל. יש להטעים fermalie (ר' לעיל מס' 388).</small><br><span dir="ltr">✭ agreement</span>
 1763 / (שבועות מב.) / <b>עפצי</b><br>גלי"ש / gales / <b>עפצים (גידולים טפיליים בעלה האלון)</b><br><span dir="ltr">✭ gall-nuts (parasite growth on oaks' leaves)</span>
-<h3>עבודה זרה<h3>
+<h3>עבודה זרה</h3>
 1764 / (עבודה זרה ב:) / <b>גיגית</b><br>קוב"א / cuve / <b>גיגית, מיכל גדול ועגול</b><br><span dir="ltr">✭ a tub, a large round container</span>
 1765 / (עבודה זרה ג:) / <b>ביצי כינים</b><br>לינטרי"ש / lentres / <b>ביצי-כינים</b><br><small>בדפוסים רשום לפני הלעז: "אינב"א בלשון ארמית"; ברור, שהגרשיים נדפסו בטעות.</small><br><span dir="ltr">✭ nits</span>
 1766 / (עבודה זרה ד.) / <b>פיד של תרנגולת</b><br>ביקידור"א / bechedure / <b>ניקור, דקירה</b><br><small>ראה לעיל מס' 1383.</small><br><span dir="ltr">✭ a prick, pecking</span>
@@ -1965,9 +1965,9 @@
 1924 / (עבודה זרה עה:) / <b>שפה</b><br>לימי"ר / limer / <b>לפצור</b><br><span dir="ltr">✭ to file</span>
 1925 / (עבודה זרה עה:) / <b>קוניא</b><br>פלומי"ר / plomer / <b>לכסות, למשוח בעופרת</b><br><small>ראה לעיל מס' 606.</small><br><span dir="ltr">✭ to cover, smear upon with lead</span>
 1926 / (עבודה זרה עו.) / <b>נדבקת</b><br>טרישטריש"ט / trestrest / <b>מחלחל</b><br><small>ראה לעיל מס' 608.</small><br><span dir="ltr">✭ to penetrate, infiltrate </span>
-<h3>הוריות<h3>
+<h3>הוריות</h3>
 1926א / (הוריות יג.) / <b>סניפין</b><br>סני"ף<br><small>בצורה זו אין זה לעז. ואולי צריך לגרוס שוליב"א solive, כלומר "קרש (שבין קורה לקורה)".</small><br><span dir="ltr">✭ ---</span>
-<h3>זבחים<h3>
+<h3>זבחים</h3>
 1927 / (זבחים ב:) / <b>צלי</b><br>קרבונידי"ש חתיכות בשר צלויות על פחמים / <b>charbonedes</b><br><small>ר' בלונדהיים ב' (ע' 145).</small><br><span dir="ltr">✭ chunks of meat roasted on pieces of coal</span>
 1928 / (זבחים ג.) / <b>טפוס</b><br>מודל"א / modle / <b>דוגמה, טופס</b><br><span dir="ltr">✭ model, example</span>
 1929 / (זבחים ד:) / <b>מלא</b><br>פראשובי"ץ / parasoviz / <b>מושלם לגמרי</b><br><small>המלה מורכבת מהקדומת par- (מאוד) ומהבינוני הפעול asoviz (מושלם, מוגשם).</small><br><span dir="ltr">✭ perfect, complete</span>
@@ -2007,7 +2007,7 @@
 1963 / (זבחים קטז:) / <b>מרא</b><br>פוישי"ל / foisil / <b>מצית</b><br><small>מדובר בחתיכת פלדה, שחובטים בה את הצור, כדי להוציא ניצוץ. בדפוסים יש גרסה המושפעת מהוראתה האחרת של המלה הארמית "מרא" – פושוי"ר fosoir – כלומר "מכוש" (גם זו חתיכת פלדה, אבל לתועלת אחרת). למעשה אין כל קשר בצרפתית בין שתי המלים: fosoir מלטינית fossorium (כלי חפירה) ו – foisil מלטינית focilem ([כלי] של אש), ומכאן בצרפתית של היום fusil ("רובה"), שחלקו העיקרי היה בימים עברו חתיכת פלדה החובטת בצוֹר, והניצוץ הבעיר את אבק השרפה.</small><br><span dir="ltr">✭ a lighter [a piece of steel used to strike a flint to make a spark]</span>
 1964 / (זבחים קטז:) / <b>איסטמא</b><br>אציי"ר / acier / <b>פלדה</b><br><span dir="ltr">✭ steel</span>
 1965 / (זבחים קטז:) / <b>חריצים</b><br>קרינ"ש / crens / <b>חריצים</b><br><small>ראה לעיל מס' 176.</small><br><span dir="ltr">✭ slots, grooves, notches ranis</span>
-<h3>מנחות<h3>
+<h3>מנחות</h3>
 1966 / (מנחות ז.) / <b>טפופה</b><br>פישל"א / fisle / <b>(כלי) מלא חומרים, אבל לא גדוש</b><br><small>קשה להבין, מה היא האסמכתה של בלונדהיים, שכן המלה fisle מופיעה במילונים לצרפתית עתיקה רק על סמך זיהויו שלו ובלי הסבר לגבי מוצאה וכו'. אמנם הוא מסתמך על כתב-יד מנוקד, שבו קוראים פִשלא. לולא זאת הייתי מציע לפענח pesle מלטינית pensile במשמעות "תלוי, צף" (ר' להלן מס' 2148, "טפוף"). בדרך עקלתון הגיעה מלה זו בצורה: peisle – (poele) poile . poisle למשמעות "תנור לחימום הבית" בצרפתית של היום.</small><br><span dir="ltr">✭ (a vessel) full of materials but not over flowing or heaping</span>
 1967 / (מנחות טו:) / <b>קנבוס</b><br>קנב"א / [cheneve] chanve / <b>קנבוס</b><br><small>ר' בלונדהיים ב' (ע' 53-52), שם הוא מתקן את הגרסה שבכרך הראשון של ספרו.</small><br><span dir="ltr">✭ hemp</span>
 1968 / (מנחות כח:) / <b>גסטרון</b><br>ליטרו"ן / letron / <b>נתך של נחושת</b><br><span dir="ltr">✭ a copper alloy</span>
@@ -2079,7 +2079,7 @@
 2034 / (מנחות קא.) / <b>דוקין</b><br>טייל"א / teile / <b>תבלול (כתם המצמצם את הראייה)</b><br><small>ראה לעיל מס' 675.</small><br><span dir="ltr">✭ cataract (a spot in the eye reducing eyesight)</span>
 2035 / (מנחות קז.) / <b>נסכא</b><br>פלט"א / plate / <b>מטיל</b><br><small>ראה לעיל מס' 1438.</small><br><span dir="ltr">✭ bar, ingot</span>
 2036 / (מנחות קז.) / <b>מחטיין</b><br>מוקיי"ר / mochier / <b>למחוט (נר)</b><br><small>ראה לעיל מס' 330.</small><br><span dir="ltr">✭ to trim, clean (a candle)</span>
-<h3>חולין<h3>
+<h3>חולין</h3>
 2037 / (חולין ד.) / <b>דקוריא</b><br>ריש"ט / rest / <b>חבל, חוט (שעליו נתלו ציפורים שחוטות)</b><br><small>המלה, הכתובה גם rez, res, נגזרת מהלטינית restis (חבל, חוט). אך משפחת מלה זו יוחסה לפעמים בטעות למשפחת המלה retis (רשת, מלכודת).</small><br><span dir="ltr">✭ rope, string (where slaughtered birds were hung)</span>
 2038 / (חולין ו.) / <b>אלונתית</b><br>פוישו"ן / poison / <b>שיקוי</b><br><small>ראה לעיל מס' 61.</small><br><span dir="ltr">✭ potion</span>
 2039 / (חולין ז:) / <b>(חבטינהו)[חבט]</b><br>וני"ר / ]vaner] waner / <b>לנפות, לזרות</b><br><span dir="ltr">✭ to winnow, sift</span>
@@ -2340,7 +2340,7 @@
 2295 / (חולין קלח.) / <b>כיפה</b><br>פילטרי"ן / feltrin / <b>כובע של לֶבֶד</b><br><small>כפי הנראה גם כובע קטן מחומר אחר (ר' לעיל מס' 1248).</small><br><span dir="ltr">✭ a felt hat</span>
 2296 / (חולין קלט:) / <b>טפיחים</b><br>בוילי"ש / boiles / <b>מעין כוכים קטנים בקירות, שבהם היונים מקננות</b><br><small>המלה הצרפתית קשורה ל – boule (גולה, כדור; בצרפתית של היום משתמשים להוראה הנ"לבמלה boulin) או ל – bouteille (בקבוק, הקטנה של מלה עתיקה, שפירושה כד, נאד).</small><br><span dir="ltr">✭ niches in the wall where the birds nestle</span>
 2297 / (חולין קמ.) / <b>דה"מ רבי אליעזר מחייב לשלח</b><br>קוק"ו / cucu / <b>קוקייה</b><br><small>כל הפירוש הזה של רש"י שייך למשנה (לעיל קלח. רש"י רוצה למנוע, שיזהו את הקורא, שהוא עוף טהור (כך יש לתקן ברש"י על המשנה), עם הקוקייה, שהיא עוף טומא, למרות שלשניהם המנהג, שאינם דוגרים על הביצים שלהם.</small><br><span dir="ltr">✭ cuckoo</span>
-<h3>בכורות<h3>
+<h3>בכורות</h3>
 2298 / (בכורות ז:) / <b>עטלף</b><br>קלב"א שורי"ץ / chalve soriz / <b>עטלף</b><br><small>ראה לעיל מס' 843</small><br><span dir="ltr">✭ bat</span>
 2299 / (בכורות ח.) / <b>בני ימא</b><br>שיריינ"א / sereine / <b>סירנה (בתולת-ים, כפי שהיא מתוארת באגדות העמים)</b><br><span dir="ltr">✭ Siren (a mermaid, as described in folktales)</span>
 2300 / (בכורות ח.) / <b>לוז</b><br>קולדר"א / coldre / <b>(עץ-) אלסר</b><br><span dir="ltr">✭ hazelnut (tree)</span>
@@ -2403,7 +2403,7 @@
 2356 / (בכורות נז:) / <b>המסס</b><br>צינפיי"ל / cenpeil / <b>המסס (החלק השלישי בקיבת מעלי-הגירה)</b><br><small>ראה לעיל מס' 160.</small><br><span dir="ltr">✭ omasum (the third chamber of a ruminants' stomach)</span>
 2357 / (בכורות נז:) / <b>מוזרתא</b><br>טורניד"א / tornede / <b>(ביצה) מקולקלת</b><br><small>כפי הנראה אותו מושג כמו בפועל torner (לעיל מס' 1667).</small><br><span dir="ltr">✭ rotten (egg)</span>
 2358 / (בכורות נח.) / <b>סקרתא</b><br>מיני"א / [minie] minie / <b>צבע אדום (העשוי מתחמוצת העופרת)</b><br><small>ראה לעיל מס' 1259.</small><br><span dir="ltr">✭ red paint (made of plumbum oxide)</span>
-<h3>ערכין<h3>
+<h3>ערכין</h3>
 2359 / (ערכין ו:) / <b>נר</b><br>קרוישו"ל / croisol / <b>מנורה</b><br><small>ראה לעיל מס' 135. בסוגייתנו מדובר ב"מנורה או נר". כפי הנראה, "מנורה" היא מערכת של כמה נרות.</small><br><span dir="ltr">✭ lamp</span>
 2360 / (ערכין י.) / <b>חלילין</b><br>קלימיל"ש / chalemels / <b>חלילים (כלי-נגינה)</b><br><span dir="ltr">✭ flutes, pipes (musical instruments)</span>
 2361 / (ערכין י:) / <b>דק</b><br>טינבי"ש / tenves / <b>דק, רזה</b><br><small>לגבי הסיומת –s, ר' לעיל מס' 932 ועוד, בימי-הביניים שימשה ה – s הסופית לא רק לסימן הריבוי, אלא גם ליחסות מסוימות, ורש"י נהג כפי הנראה לפי הדקדוק המקובל.</small><br><span dir="ltr">✭ thin, slim</span>
@@ -2423,9 +2423,9 @@
 2375 / (ערכין ל:) / <b>קיבר</b><br>שיאונדיי"ר / seondier / <b>משני, בעל איכות נחותה</b><br><span dir="ltr">✭ secondary, of a low quality</span>
 2376 / (ערכין לב.) / <b>מגדלות</b><br>מישטיי"ר / mestier / <b>מזנון לשמירת אוכל</b><br><small>ראה לעיל מס' 155.</small><br><span dir="ltr">✭ a cupboard for storing food</span>
 2377 / (ערכין לב.) / <b>מגדלות</b><br>יפרייט"א / jafreite / <b>ארון</b><br><small>ראה לעיל מס' 154. חסר בדפוסים. בכתבי-היד כתוב, שהמלה "בלשון אשכנז".</small><br><span dir="ltr">✭ closet ,-mnn</span>
-<h3>תמורה<h3>
+<h3>תמורה</h3>
 2378 / (תמורה טו:) / <b>גונח</b><br>פלניאנ"ט / planiant [plaignant] / <b>מתייפח, מתאונן</b><br><small>ראה לעיל מס' 1153. יש לתמוה על כך, שזה הלעז היחיד בכל המסכת.</small><br><span dir="ltr">✭ weeping, complaining mrmD</span>
-<h3>כריתות<h3>
+<h3>כריתות</h3>
 2379 / (כריתות ו.) / <b>צרי</b><br>גומ"א / gome / <b>שָֹרָף</b><br><span dir="ltr">✭ sap, gum (of a tree)</span>
 2380 / (כריתות ו.) / <b>חלבנה</b><br>גלבינ"א / galbena / <b>שרף של סוג כלך (צמח סוככי) באיטלקית</b><br><small>השרף הזה ידוע מהתורה (שמות ל', ל"ד) ושמו העברי עבר לשפות אירופה (לטינית וצרפתית galbanum וגם איטלקית של היום galbano). ועל-כך הפרשן רוצה להצביע. המקורות שלפנינו (בשניהם גלבנ"א) מעידים על צורה דיאלקטית איטלקית – הלא ידוע לנו, שפירוש מסכת כריתות אינו מאת רש"י – ובשום אופן לא על צורה צרפתית, לא בלשון העם (galme, ר' לעיל מס' 1309) ולא בלשון משכילי הכנסייה (galbanum). העובדה, שאותה צורה מצויה בפירוש רש"י על התורה (שמות כנ"ל), מוכיחה, שהחומר היה ידוע בשמו האיטלקי – מפני שיובא מאיטליה? – או, סביר יותר, שהלעז גם שם תוספת, שאינה מאת רש"י. חיזוק לסברה זו בעובדה, שרמסטטר לא רשם את הלעז מתוך כתבי-היד של הפירוש על התורה. ר' בלונדהיים פ' (ע' 49-48).</small><br><span dir="ltr">✭ galbanum (in Italian)</span>
 2381 / (כריתות ו.) / <b>שבולת נרד</b><br>אישפי"ג / espig / <b>אזוביון</b><br><span dir="ltr">✭ lavender, spike lavender (plant)</span>
@@ -2436,10 +2436,10 @@
 2386 / (כריתות טו:) / <b>קפלוט</b><br>פוריל"ש / porels / <b>כרשים (ירק מאכל)</b><br><span dir="ltr">✭ leeks (vegetable used as food)</span>
 2387 / (כריתות כא.) / <b>כף הירך</b><br>פולפ"א / polpe / <b>הבשר שעל עצם הירך</b><br><span dir="ltr">✭ the flesh covering the thigh bone</span>
 2388 / (כריתות כב.) / <b>שריף</b><br>הומי"ר / humer / <b>לגמוא (לבלוע מתוך שאיפה)</b><br><small>ראה לעיל מס' 92.</small><br><span dir="ltr">✭ to swallow while inhaling</span>
-<h3>מעילה<h3>
+<h3>מעילה</h3>
 2389 / (מעילה יז:) / <b>בן תמליון</b><br>נוטוי"ן / nutiun / <b>שדון</b><br><small>אולי יש מקום לאחד לעז זה עם nuitum (מס' 2345). הגרסה של התוספות (לומטו"ך), יכולה להיות שיבוש של לוטי"ן (לוטטי"ן?) lutin - כצורת המלה הצרפתית של היום.</small><br><span dir="ltr">✭ little demon</span>
 2390 / (מעילה כא.) / <b>דלוסקמא</b><br>טשק"א / tasche / <b>שק</b><br><span dir="ltr">✭ sack, bag</span>
-<h3>נדה<h3>
+<h3>נדה</h3>
 2391 / (נידה ג.) / <b>מרגשת</b><br>שינטי"ר / sentir / <b>לחוש, להרגיש</b><br><small>אולי כוונת רש"י לדחות את הפירוש "מתנועעת" וכדומה.</small><br><span dir="ltr">✭ to feel, sense</span>
 2392 / (נידה ג.) / <b>כויץ</b><br>ריטריי"ט / [retrait] retreit / <b>מתכווץ (או מכֻווץ)</b><br><span dir="ltr">✭ shrinking (or: shrunken)</span>
 2393 / (נידה ג:) / <b>שולים</b><br>פונ"ץ / fonz / <b>קרקעית</b><br><span dir="ltr">✭ bottom</span>
@@ -2513,7 +2513,7 @@
 2461 / (נידה סח.) / <b>טשטקי</b><br>פלדישטו"ל / faldestol / <b>כיסא מתקפל</b><br><span dir="ltr">✭ folding chair</span>
 2462 / (נידה סט:) / <b>יתעלפה</b><br>פשמי"ר / pasmer / <b>להתעלף</b><br><small>ראה לעיל מס' 103.</small><br><span dir="ltr">✭ to faint, lose consciousness</span>
 <h2>תנ"ך</h2>
-<h3>בראשית<h3>
+<h3>בראשית</h3>
 3001 / (בראשית א,ב) / <b>תהו</b><br>אישטורדישו"ן / estordison / <b>עילפון, הלם, מבוכה</b><br><small>ר' אה"ל 549 ועוד.</small>
 3002 / (בראשית א,ב) / <b>מרחפת</b><br>אקוביטי"ר / acoveter / <b>לכסות</b><br><small></small>
 3003 / (בראשית א,יא) / <b>דשא</b><br>אירבידי"ץ / erbediz / <b>מעשב, מכלול העשבים</b><br><small></small>
@@ -2579,7 +2579,7 @@
 3064 / (בראשית מט,יג) / <b>חוף</b><br>מרק"א / marche / <b>גבול, ספר</b><br><small></small>
 3065 / (בראשית מט,יט) / <b>עקב</b><br>טרצי"ש / traces / <b>עקבות</b><br><small>גדודי גד יחזרו אחרי המלחמה על עקבותיהם, כי לא ימותו ולא יילכדו.</small>
 3066 / (בראשית מט,כו) / <b>תאות</b><br>אשומיי"ל / asomeil / <b>גבול</b><br><small>המלה, שמוצאה מהגזרון הלטיני summa ("שיא"), כפי הנראה מהמלה *assumaculum, מצויה רק במקורות יהודיים (ר' מילונו של לוי, מס' 121).</small>
-<h3>שמות<h3>
+<h3>שמות</h3>
 3067 / (שמות ב,ג) / <b>גמא</b><br>יונ"ק / jonc / <b>גומא</b><br><small></small>
 3068 / (שמות ב,ג) / <b>סוף</b><br>רושיל / rosel / <b>סוף</b><br><small>דברי רש"י "הוא לשון אגם" קשים לפענוח, בעיקר לאור הלעז וגם לאור הפסוק של ישעיה, שהוא מביא, אבל יש גם במקרא "אגם" במשמעות צמח (ירמיה נ"א, ל"ב).</small>
 3069 / (שמות ד,י) / <b>כבד פה</b><br>בלב"א / balbe / <b>עילג, מגמגם</b><br><small>בהרבה כתבי-יד קוראים בלב"ו balbo (איטלקית?), אולי מפני שבצרפתית נעלמה המלה במשך ימי-הביניים הוחלפה ב – begue.</small>
@@ -2667,7 +2667,7 @@
 3151 / (שמות לה,יד) / <b>(נרתיה)[נרות]</b><br>לוצי"ש / loces / <b>מנורות</b><br><small>ר' לעיל מס' 3144, וכאן רש"י אומר בפירוש: "בזיכין שהשמן והפתילות נתונין בהן".</small>
 3152 / (שמות לח,ח) / <b>מראת</b><br>מירידויר"ש / miredoirs / <b>מראות</b><br><small></small>
 3153 / (שמות לט,ג) / <b>וירקעו</b><br>אישטינדר"א / estendre / <b>למתוח</b><br><small>יש גרסה אחת בכתבי-יד, אטאנבי"ר, ולפיה מופיע בדפוס ראשון: אטינבי"ר; אם זו הגרסה הנכונה, יש לקרוא atenvir ("להדק").</small>
-<h3>ויקרא<h3>
+<h3>ויקרא</h3>
 3154 / (ויקרא א,ט) / <b>אשה</b><br>פואיד"א / foede / <b>אש, מוקד</b><br><small></small>
 3155 / (ויקרא ג,ד) / <b>כסלים</b><br>פלנק"ש / flancs / <b>כסלים (השרירים הפנימיים של הירך)</b><br><small></small>
 3156 / (ויקרא ג,ד) / <b>מתנים</b><br>לונביל"ש / lonbels / <b>חלק הבטן שבאיזור הכליות</b><br><small></small>
@@ -2719,7 +2719,7 @@
 3203 / (ויקרא כו,יג) / <b>מטת</b><br>קוניונגל"א / conjongle / <b>חיבור, כבל</b><br><small></small>
 3204 / (ויקרא כו,יג) / <b>מטת</b><br>יודי"ש / jodes / <b>חגורות, חבלים</b><br><small>בכתבי-היד אפשר (בלי ודאות) לקרוא את שני הלעזים הנ"ל. בדפוסים ובאחד מכתבי-היד: קיביל"א chevile ("יתד"), שאולי הוא יותר מתקבל על הדעת, מוצא המלה jode מהגרמנית Glide ("איגוד").</small>
 3205 / (ויקרא כו,טז) / <b>שחפת</b><br>אנפולי"ש / anpoles / <b>בועות (תפיחות בעור, מלאות נוזלים)</b><br><small></small>
-<h3>במדבר<h3>
+<h3>במדבר</h3>
 3206 / (במדבר ב,יז) / <b>על ידו</b><br>אי"ן שו"ן איש"א / en son aise / <b>ברווחתו</b><br><small>התרגום המוצע מתאים למשמעות המלה aise בצרפתית של היום. רש"י כפי הנראה הרגיש במשמעות זו: היא נובעת ממקור המלה (לטינית adjacens, "המונח ליד"), אבל המלה עברה לציין את כל החלל הנמצא בצד האדם, שידו מגעת אליו, ומכאן את יכולתו לנוע בתוכו בחופשיות. לכן רש"י משתמש בפירושו בביטויים: "מקומו", "רוח של צדו", "סמוכה לו לכל הושטת ידו".</small>
 3207 / (במדבר ד,ט) / <b>(נרתיה)[נרות]</b><br>לוצי"ש / loces / <b>מנורות</b><br><small>כפי שרש"י מדגיש בשמות לה,יד מדובר כאן בכלי הקיבול של השמן (ראה לעיל מס' 3144 וכן מס' 3151).</small>
 3208 / (במדבר ד,יד) / <b>יעים</b><br>ודי"ל / wadil / <b>יעה, מגרפה</b><br><small>ר' תיאורים נוספים של הכלי ברש"י על שמות כז,ג ועל חגיגה כ. (אה"ל מס' 1093).</small>
@@ -2749,7 +2749,7 @@
 3232 / (במדבר כה,יא) / <b>(קנאתי) [קנאה]</b><br>אינפרינמינט / enprenment / <b>חרון אף</b><br><small>ר' לעיל מס' 3217.</small>
 3233 / (במדבר לד,ו) / <b>איים</b><br>אישלי"ש / isles / <b>איים</b><br><small>בדפוסים קוראים צורה משוחזרת לפי הלטינית (insulas).</small>
 3234 / (במדבר לד,ז) / <b>תא</b><br>אפינדי"ץ / apendiz / <b>יציע</b><br><small>רש"י מסביר את הפועל "תתאו" המצוי רק כאן בפסוקים ז' וח' ולא בשום מקום אחר במקרא, על-פי שם-העצם "תא", הוא המשך הבניין הראשי, אבל אחרי שבירת הקווים הישרים לצדדים ובשיפוע. כן "תתאו" מורה על שבירת קו הגבול לצדדים.</small>
-<h3>דברים<h3>
+<h3>דברים</h3>
 3235 / (דברים א,טז) / <b>שמע</b><br>אודנ"ט / odant / <b>בשמעכם</b><br><small>א' לעיל מס' 3209. בכתב-יד אחד קוראים: אואנ"ט oant ובשניים אויינג"ט (צ"ל אוינ"ט oiant), צורות מאוחרות יותר.</small>
 3236 / (דברים ד,כד) / <b>קנא</b><br>אינפרינדר"א / enprendre / <b>לכעוס</b><br><small>ר' לעיל מס' 3217. בכמה כתבי-יד יש גרסאות שונות מאותו גזרון: אינפרינייר"א enpreniere ("כעסן"), אינפרינמינ"ט enprenment ("כעס, חרון-אף").</small>
 3237 / (דברים ט,כא) / <b>טחון</b><br>מולנ"ט / molant / <b>בטחנו</b><br><small>ר' לעיל מס' 3209.</small>
@@ -2784,7 +2784,7 @@
 3266 / (דברים לב,מא) / <b>משפט</b><br>יושטיצ"א / justice / <b>ענישה</b><br><small></small>
 3267 / (דברים לג,ג) / <b>מדברתיך</b><br>טי"ש פורפרלידורי"ש / tes porparledures / <b>דיבוריך (עם עצמך)</b><br><small>רש"י רוצה כאן להסביר את צורת ההתפעל שביסוד המלה "מדברות" (עם דגש חזק בדל"ת כמו "מדבר", במדבר ז,פט): ה' מדבר עם עצמו והנביא שומע, כי אין זה לפי כבודו לדבר אל אדם, והקידומת por” מזוהה אצל רש"י עם ההתפעל.</small>
 3267א / (דברי לג,כה) / <b>דה"מ וכימיך דבאך</b><br>אישקורונ"ט / escoront / <b>ינהרו, ישפעו</b><br><small>סבירה גם הקריאה אישקורנ"ט escorant ("נוהר, שופע"). רש"י רואה ב"דבא" גזרון קרוב ל"זוב" ומפרש, שאוצרות על הארצות יזובו לארץ-ישראל.</small>
-<h3>יהושע<h3>
+<h3>יהושע</h3>
 3268 / (יהושע ח,ו) / <b>התיקנו</b><br>אישפודרי"ר / esfudrer / <b>להוציא מהנרתיק</b><br><small>בפירושו הראשון רש"י גוזר את "התיקנו" מלשון "תיק": להוציא את אנשי העיר מעירם, המהווה את ה"עטיפה" השומרת עליהם, והוא מרכיב, כפי הנראה, את הפועל esfudrer, מהמלה fudrer ("הדן" [החרב], בצרפתית של היום fourreau) עם הקידומת es” (לטינית ex”) המצביעה על הוצאה.</small>
 3269 / (יהושע ח,יח) / <b>כידון</b><br>אישפיי"ד / espied / <b>רומח</b><br><small>ר' אה"ל מס' 572 ומס' 1546. בניגוד לדעת ברנדין אין כאן המלה "חרב" (espede), אלא מלה, שהיא ביסודה של השם epieu (רומח, כידון) בצרפתית של היום.</small>
 3270 / (יהושע ט,ה) / <b>נקדים</b><br>ארשי"ץ / arsez / <b>שרופים, צלויים</b><br><small>רש"י גוזר "נקדים" מלשון "יקד" ("לבעור, להישרף"): הגבעונים הביאו אתם צנימים במקום לחם. בשני כתבי-יד קוראים טושט"ש tosts (השווה באנגלית toasts).</small>
@@ -2795,7 +2795,7 @@
 3275 / (יהושע טו,מז) / <b>גבול</b><br>אישלי"ש / isles / <b>איים</b><br><small>דברי רש"י: "נסין [איים ביוונית] שבים שקוראים אישלי"ש.</small>
 3276 / (יהושע יז,טו) / <b>ובראת</b><br>אישרטי"ר / esarter / <b>לבָרֵא (להכשיר קרקע בעקירת הקוצים והסלעים)</b><br><small>בדפוסים הפועל מופיע פעם שנייה בצורה המוטית אישרטיר"ש esarteras ("תבָרֵא"). כתבי-היד המצויים חוזרים על הצורה הקודמת.</small>
 3277 / (יהושע יט,יב) / <b>כסלת</b><br>פלנק"ש / flancs / <b>כסלים (השרירים הפנימיים של הירך סמוך לכליה)</b><br><small>רש"י מראה, שבעברית, כמו בצרפתית, אפשר להשתמש במלה "כסל" (flanc) לא רק לחלק מן הגוף, אלא גם לתיאור שטח הררי: "לא בגובהו ולא בשיפולו אלא בשיפועו".</small>
-<h3>שופטים<h3>
+<h3>שופטים</h3>
 3278 / (שופטים א,כו) / <b>לוז</b><br>קולדר"א / coldre / <b>עץ אלסר</b><br><small>ר' לעיל מס' 3031.</small>
 3279 / (שופטים ג,טו) / <b>אטר</b><br>ריטריי"ט / retreit / <b>מכווץ</b><br><small></small>
 3280 / (שופטים ג,טז) / <b>גמד</b><br>דומיאלנ"א / dumialne / <b>חצי-אמה</b><br><small>ברנדין מפנה לגלוסר למבר – ברנדין, וזה מביא במקום שתי גרסאות קרובות ללעז הזה, וטוען, שהן גרמנית (בלי הסבר במפתח!, אבל יש מפרשים daumenlang "באורך האגודל"). אך נראה לי, שיש כאן dumi, צורה חליפה של demi ("חצי") והמידה alne ("אמה").</small>
@@ -2833,7 +2833,7 @@
 3312 / (שופטים יח,כא) / <b>כבודה</b><br>פישנטומ"א / pesantume / <b>משאות כבדים</b><br><small></small>
 3313 / (שופטים יט,כא) / <b>ויבל</b><br>אפודרי"ר / afodrer / <b>להביא מספוא</b><br><small>בשני כתבי-יד קוראים אפרובינדי"ר aprovender או כדומה, באותו מובן.</small>
 3314 / (שופטים כ,ה) / <b>דמו</b><br>אדישמירינ"ט / adesmerent / <b>חישבו, התכוונו</b><br><small>אחד מכתבי-היד גורס קוריד"ט, קרי: קוידירינ"ט cuiderent באותו מובן.</small>
-<h3>שמואל א<h3>
+<h3>שמואל א</h3>
 3315 / (שמואל א' א,כח) / <b>שאול</b><br>אינפרונטי"ץ / enpruntez / <b>מושאל</b><br><small>הסיומת z היא בדרך כלל של ריבוי, אך יכולה גם להיות של יחסת-הנושא.</small>
 3316 / (שמואל א' ב,י) / <b>ידין</b><br>יושטישיי"ר / justisier / <b>לשפוט</b><br><small></small>
 3317 / (שמואל א' ג,יא) / <b>תצלינה</b><br>טינטיני"ר / tinitiner / <b>לצלצל</b><br><small></small>
@@ -2866,7 +2866,7 @@
 3345 / (שמואל א' כה,יח) / <b>עשויות</b><br>פרצידי"ש / farcides / <b>ממולאות</b><br><small>רש"י מוסיף: "ממולאות בשר דק וביצים". אפשר אולי גם לתקן ולקרוא: פשטיד"א pastede ("פשטידה"), ר' אה"ל מס' 681.</small>
 3346 / (שמואל א' כו,יט) / <b>שומה</b><br>אמיטימינ"ש / ametment / <b>עלילה</b><br><small>ר' לעיל מס' 3239.</small>
 3347 / (שמואל א' כו,כ) / <b>קרא</b><br>פירדרי"ץ / perdriz / <b>קורא (עוף)</b><br><small>חסר בכתבי-היד.</small>
-<h3>שמואל ב<h3>
+<h3>שמואל ב</h3>
 3348 / (שמואל ב' ה,כד) / <b>תחרץ</b><br>גלפי"ר / glapir / <b>לצרוח</b><br><small></small>
 3349 / (שמואל ב' ו,יד) / <b>אפוד</b><br>פורציינ"ט / porceint / <b>חגורה</b><br><small></small>
 3350 / (שמואל ב' ח,א) / <b>מתג</b><br>אגוילו"ן / aguilon / <b>מַלמד, דרבן</b><br><small></small>
@@ -2881,7 +2881,7 @@
 3359 / (שמואל ב' כב,ג) / <b>(צורי)[צור]</b><br>אבריאימינ"ט / abriement / <b>מחסה</b><br><small></small>
 3360 / (שמואל ב' כב,מו) / <b>יבלו</b><br>פליישטר"א / fleistre / <b>לנבול</b><br><small></small>
 3361 / (שמואל ב' כג,ו) / <b>קוץ</b><br>קרדו"ן / chardon / <b>קרדה (=קוץ)</b><br><small>ר' אה"ל מס' 110.</small>
-<h3>מלכים א<h3>
+<h3>מלכים א</h3>
 3362 / (מלכים א' א,מ) / <b>חללים</b><br>קלימיל"ש / chalemels / <b>חלילים (כלי נגינה)</b><br><small>כך בכל כתבי-היד (בשינויי כתיב), אך בדפוסים קוראים לםאוטי"[ש] flautes, שם אחר לכלי-נגינה מאותו סוג.</small>
 3363 / (מלכים א' ה,כג) / <b>דברות</b><br>ולו"ס / wlos / <b>רפסודות (בגרמנית)</b><br><small>"בלשון אשכנז".</small>
 3364 / (מלכים א' ב,כג) / <b>דברות</b><br>רי"ץ / rez / <b>רפסודות</b><br><small>רבים של red.</small>
@@ -2914,7 +2914,7 @@
 3391 / (מלכים א' יח,לב) / <b>תעלה</b><br>פושי"ד / fosed / <b>חפיר</b><br><small></small>
 3392 / (מלכים א' יט,ד) / <b>רתם</b><br>יינייבר"א / jeneivre / <b>ערער (אילן קוצני)</b><br><small></small>
 3394 / (מלכים א' כב,ג) / <b>מחשים</b><br>אקליי"ר / achaleir / <b>להתרשל</b><br><small>שני כתבי-יד גורסים נונקליי"ר nonchaleir באותו מובן. בדפוסים קוראים תרגום איטלקי: סיאמ"ו פיגר"י siamo pigri ("אנחנו עצלנים").</small>
-<h3>מלכים ב<h3>
+<h3>מלכים ב</h3>
 3395 / (מלכים ב' א,ב) / <b>שבכה</b><br>גרדי"ל / gradil / <b>סורג</b><br><small>הלעז הראשון הזה חסר בכתבי-היד.</small>
 3396 / (מלכים ב' א,ב) / <b>שבכה</b><br>אלידוי"ר / aledoir / <b>מעבר, טיילת, מרפסת</b><br><small>לעז זה בא בכתבי-היד במקום הלעז הקודם החסר בהם.</small>
 3397 / (מלכים ב' א,ב) / <b>נסרים ארוכים וקצרים</b><br>לטי"ש / lates / <b>נסרים</b><br><small>ר' אה"ל מס' 705. בדפוסים לעז זה בסוגריים ובלי גרשיים ובמקומו כתבו קנטיל"י cantineli ("קרשים לפינות"? באיטלקית).</small>
@@ -2942,7 +2942,7 @@
 3419 / (מלכים ב' כ,ט) / <b>דה"מ הלך הצל עשר מעלות</b><br>אורילוי"ר / oriloje / <b>שעון</b><br><small>חסר בכתבי-היד. הלעז, כפי שהוא מופיע בדפוסים (אורלויי"ן במקראות גדולות) מייצג כפי הנראה את הצורה היוונית horologion, ואכן מציינים את המלה במקורות צרפתיים רק מסוף המאה הי"ב.</small>
 3420 / (מלכים ב' כא,יב) / <b>תצלנה</b><br>טינטיני"ר / tintiner / <b>לצלצל</b><br><small></small>
 3421 / (מלכים ב' כה,יז) / <b>שבכה</b><br>קויפ"א / coife / <b>שביס (כאן במובן כותרת של עמוד)</b><br><small></small>
-<h3>ישעיהו<h3>
+<h3>ישעיהו</h3>
 3422 / (ישעיה א,ד) / <b>כבד</b><br>פישנ"ט / pesant / <b>כבד</b><br><small></small>
 3423 / (ישעיה א,ד) / <b>כבד</b><br>פישנטומ"א / pesantume / <b>כבדות</b><br><small>רש"י מסביר, שהצירוף "כבד-עוון" הוא ביטוי שמני, כלומר "עם של כבדות עוונות", היינו שרובצים עליו עוונות רבים.</small>
 3424 / (ישעיה א,ו) / <b>טריה</b><br>דימצייד"א / demaciede / <b>הלומה, כתושה</b><br><small></small>
@@ -3106,7 +3106,7 @@
 3588 / (ישעיה סו,יב) / <b>תשעשעו</b><br>אישביניי"ר /  esbaneier(אולי esbanier) / <b>להתבדר</b><br><small>ר' אה"ל מס' 711.</small>
 3589 / (ישעיה סו,טז) / <b>נשפט</b><br>דיריישניי"ר / dereisnier / <b>להתווכח</b><br><small></small>
 3590 / (ישעיה סו,כ) / <b>כרכרות</b><br>טריפי"ר / treper / <b>לרקוד</b><br><small>רש"י מקשר את המלה עם הפועל "לכרכר" (שמואל ב' ו,יד וטז), ולא כמו רוב הפרשנים הרואים ב"כרכרות" סוג של גמלים או של עגלות.</small>
-<h3>ירמיהו<h3>
+<h3>ירמיהו</h3>
 3591 / (ירמיה א,ו) / <b>אהה</b><br>קונפליינ"ט / conpleint / <b>קינה</b><br><small>רש"י אינו מתרגם את המלה, אלא מסביר מה הוא שימושה.</small>
 3592 / (ירמיה א,יא) / <b>שקד</b><br>אמינדליי"ר / amendlier / <b>שקדייה</b><br><small></small>
 3593 / (ירמיה א,יג) / <b>נפוח</b><br>בוילנ"ט / boilant / <b>רותח</b><br><small>חסר בכתבי-היד.</small>
@@ -3247,7 +3247,7 @@
 3731 / (ירמיה נא,יד) / <b>בנפשו</b><br>אי"ן שי"י מאישמי"ש / en sei meismes / <b>בתוך עצמו</b><br><small>חסר בכתבי-היד.</small>
 3732 / (ירמיה נא,כז) / <b>סמר</b><br>היריציי"ר / hericier / <b>להסתמר</b><br><small></small>
 3733 / (ירמיה נב,כב) / <b>כתרת</b><br>קויפ"א / coife / <b>שביס, כיפה (כאן במובן כותרת של עמוד)</b><br><small></small>
-<h3>יחזקאל<h3>
+<h3>יחזקאל</h3>
 3734 / (יחזקאל א,ג) / <b>יד</b><br>דישטריצ"א / destrece / <b>כפייה</b><br><small></small>
 3735 / (יחזקאל א,ז) / <b>נצצים</b><br>אישטינצילנ"ט / estencelant / <b>נוצץ</b><br><small>חסר בדפוסים. צורת היחיד תמוהה, אך אין בכתבי-היד גרסה, שבה צד"י סופית, כפי שהיה צפוי.</small>
 3736 / (יחזקאל א,יג) / <b>ברק</b><br>פלנדור"ש / plandurs / <b>ברקים</b><br><small>להפך מהלעז הקודם יש כאן צורת רבים, הנראית בלתי-סבירה לגמרי.</small>
@@ -3451,7 +3451,7 @@
 3935 / (יחזקאל מז,יא) / <b>(בצאתו)[בצות]</b><br>מריש"ק / maresc / <b>בִּיצה, מקווה מים רדודים</b><br><small>חסר בכתבי-היד.</small>
 3936 / (יחזקל מח,יח) / <b>לעובדי העיר</b><br>א"ש שירבנ"ץ / as servanz / <b>למשרתים</b><br><small>חסר בכתבי-היד. את הגרסה שלפנינו: אישארבנ"ט קשה להעמיד בלי תיקונים.</small>
 3937 / (יחזקאל מח,כ) / <b>(אחזת)[אחזה]</b><br>פורפרי"ש / porpris / <b>פרוור</b><br><small>שכונה, ש"נאחזה" לעיר.</small>
-<h3>הושע<h3>
+<h3>הושע</h3>
 3941 / (הושע ב,ט) / <b>ורדפה</b><br>פורקציי"ר / porchacier / <b>לרדוף</b><br><small></small>
 3942 / (הושע ב,טז) / <b>אנכי מפתיה</b><br>אטריירי"י / atreirei / <b>אמשוך</b><br><small>בדפוסים קוראים: לוזניי"ר lozanjier ("להחניף, להטעות").</small>
 3943 / (הושע ג,ב) / <b>סחורה</b><br>ברגייני"א / bargeinie / <b>קניין, מיקוח</b><br><small></small>
@@ -3468,13 +3468,13 @@
 3954 / (הושע י,יא) / <b>מלמד</b><br>אגוילו"ן / aguilon / <b>מַלמד, דרבן</b><br><small></small>
 3955 / (הושע יג,יג) / <b>משבר</b><br>שיל"א / sele / <b>מושב</b><br><small></small>
 3956 / (הושע יד,א) / <b>תאשם</b><br>אי"ד איר"ט אינקולפיד"א / ed ert enclpede / <b>ותהיה מואשמת</b><br><small>חסר בדפוסים. מלת החיבור ed, הנמצאת רק בכתב-יד אחד, מיותרת, אלא אם כן הייתה לפני הפרשן גרסה "ותאשם".</small>
-<h3>יואל<h3>
+<h3>יואל</h3>
 3957 / (יואל א,יז) / <b>עכשו</b><br>מוישו"ר / moisir / <b>להעלות עובש</b><br><small>אחד מכתבי-היד מוסיף: דוב"ש דשו"ץ צירקל"ש (קרי: דובי"ש דישו"ץ צירקלי"ש) doves desoz cercles ("נסרים מתחת לחישוקים").</small>
 3958 / (יואל ד,י) / <b>(אתיכם)[אתים]</b><br>קולטרי"ש / coltres / <b>קנקנים של מחרשות (היתדות הפולחות את הקרקע)</b><br><small></small>
 3959 / (יואל ד,י) / <b>(מזמרתיכם)[מזמרות]</b><br>שרפי"ש / sarpes / <b>מגלים, מזמרות</b><br><small></small>
 3960 / (יואל ד,יא) / <b>עשת</b><br>מש"א / mase / <b>גוש, עשת</b><br><small></small>
 3961 / (יואל ד,טז) / <b>מחסה</b><br>אבריאי"ר / abrier / <b>לתת מחסה, לחסות</b><br><small></small>
-<h3>עמוס<h3>
+<h3>עמוס</h3>
 3962 / (עמוס א,ג) / <b>חרצות</b><br>לימ"א / lime / <b>פצירה</b><br><small>שופינ"א אינו לעז, אלא מלה ארמית, והגרשיים נכתבו בטעות.</small>
 3963 / (עמוס ב,ז) / <b>שאפים</b><br>גולושי"ר / goloser / <b>לחשוק</b><br><small></small>
 3964 / (עמוס ב,ט) / <b>אלונים</b><br>קישני"ש / chesnes / <b>אלונים</b><br><small></small>
@@ -3482,22 +3482,22 @@
 3966 / (עמוס ד,יא) / <b>אוד</b><br>טישו"ן / tison / <b>אוד</b><br><small></small>
 3967 / (עמוס ו,ד) / <b>מרבק</b><br>קופל"א / cople / <b>צמד</b><br><small></small>
 3968 / (עמוס ח,יג) / <b>תתעלפנה</b><br>פשמי"ר / pasmer / <b>להתעלף</b><br><small></small>
-<h3>עובדיה<h3>
+<h3>עובדיה</h3>
 3969 / (עובדיה א,ג) / <b>(חגוי)[חגויים]</b><br>פרייטייני"א / freiteinie / <b>שבר, חור</b><br><small>מלטינית מאוחרת *fractanea.</small>
 3970 / (עובדיה א,יד) / <b>פרק</b><br>טרו"ג / trog / <b>סדק</b><br><small>רש"י מסביר: "מקום שהבורחים יוצאים דרך שם להמלט".</small>
 3971 / (עובדיה א,טז) / <b>דה"מ ולעו</b><br>אישטורדישו"ן / estordison / <b>עילפון, הלם, מבוכה</b><br><small></small>
 3972 / (עובדיה א,כ) / <b>צרפת</b><br>פרנצ"א / France / <b>צרפת</b><br><small>רש"י מייחס את הפירוש הזה ל"פותרים" (ר' בעניין (21-33,REJ XXXV) M. Banitt: Les Poterim, הפשט מצביע על עיר שבסוריה (מלכים א' יז, ט-י).</small>
 3973 / (עובדיה א,כא) / <b>לשפט</b><br>יושטישיי"ר / justisier / <b>להעניש</b><br><small></small>
 3974 / (עובדיה א,כא) / <b>לשפט</b><br>יושטישיי"ר / justisier / <b>להעניש</b><br><small></small>
-<h3>יונה<h3>
+<h3>יונה</h3>
 3974 / (יונה א,ו) / <b>רב החבל</b><br>גוברנדורי"ש / governdors / <b>קברניט</b><br><small>השי"ן מציגה שאלה, הפתרונים: א) יחיד בייחסת הנושא (?); ב) הלעז מתרגם "חבל", הנתפס כשם כללי של המלחים ("המלחים, שאף הם נקראים חובלי הים"). גוברניי"ל governeil שבדפוסים ודאי שגיאה.</small>
 3975 / (יונה ד,ח) / <b>ויתעלף</b><br>פשמי"ר / pasmer / <b>להתעלף</b><br><small></small>
-<h3>מיכה<h3>
+<h3>מיכה</h3>
 3976 / (מיכה א,יא) / <b>אצל</b><br>איושטימינ"ט / ajostement / <b>התקרבות</b><br><small>בעלי ההון בונים בתים צפופים זה לזה כדי להתעשר בקלות.</small>
 3977 / (מיכה ב,ד) / <b>נשדנו</b><br>שומ"ש דישגטירינ"ט נו"ש / soms desgaterent nos / <b>אנחנו שדדו אותנו</b><br><small>רש"י מסביר, כי צורת הפועל שלפנינו היא מיזוג של פעיל וסביל ("נשדדנו" ו"שדדונו"). בגרסת הדפוסים המי"ם טעות במקום שתי ווי"ם: דיוושטירינ"ט- דיגשטירינ"ט (אף היום בצרפתית יש לנו gater מול devaster מאותו גזרון).</small>
 3978 / (מיכה ב,ד) / <b>איך ימיש לי</b><br>קומ"א ש"י דישטולדר"א אמי"י / a mei come se destoldra / <b>כיצד יפנה אליי</b><br><small>בדפוסים (כמו באחד מכתבי-היד) דישטורניר"א destornera, באותה משמעות.</small>
 3979 / (מיכה ג,ג) / <b>קלחת</b><br>קלדייר"א / chaldiere / <b>דוד (להרתחת המים)</b><br><small></small>
-<h3>נחום<h3>
+<h3>נחום</h3>
 3980 / (נחום א,י) / <b>מלא</b><br>אשובי"ד / asovid / <b>מושלם</b><br><small></small>
 3982 / (נחום ב,ז) / <b>דה"מ נמוג</b><br>בומ"א / bome / <b>פיצוץ</b><br><small>הלעז לא נמצא במילונים. אך הוא נגזר כהלכה מלטינית bombum ("רעש גדול") או יותר נכון מצורת הנקבה bomba ("פצצה"), שנתקבלה בצרפתית מאיטליה בסוף ימי-הביניים עם כלי הירייה החדשים.</small>
 3983 / (נחום ב,ח) / <b>מנהגות</b><br>ש"י דימינטנ"ט / se dementant / <b>מקוננות</b><br><small></small>
@@ -3507,7 +3507,7 @@
 3987 / (נחום ג,ג) / <b>להב</b><br>אלימיל"א / alemele / <b>להב</b><br><small></small>
 3988 / (נחום ג,ג) / <b>ברק</b><br>פלנדו"ר / plandur / <b>ברק</b><br><small>ר' לעיל מס' 3265.</small>
 3989 / (נחום ג,יז) / <b>כגוב גובי</b><br>קו"ם לנגושטדי"ץ / com langostdiz / <b>כמו להקה של ארבה</b><br><small></small>
-<h3>חבקוק<h3>
+<h3>חבקוק</h3>
 3990 / (חבקוק א,ז) / <b>(משפטו)[משפט]</b><br>יושטיצ"א / justice / <b>עונש</b><br><small></small>
 3991 / (חבקוק א,י) / <b>דה"מ והוא במלכים יתקלס</b><br>פולידי"ץ / parlediz / <b>לעג</b><br><small>בעצם "דיבור" ובמקום אחר תרגמתי: "דיבה, רכילות".</small>
 3992 / (חבקוק ב,א) / <b>תוכחתי</b><br>מו"ן אפרובימינ"ט / mon aprovement / <b>הוכחתי</b><br><small></small>
@@ -3516,9 +3516,9 @@
 3995 / (חבקוק ב,יג) / <b>די</b><br>אשי"ץ / asez / <b>הרבה</b><br><small></small>
 3996 / (חבקוק ג,טז) / <b>דה"מ צללו</b><br>טינטי"ן / tintin / <b>קול, רעש</b><br><small>בכתבי-יד אחרים גורסים טיטי"ר tinter ("לרעוש, להשמיע קול") או טיטירינ"ט tinterent ("רעשו, השמיעו קול").</small>
 3997 / (חבקוק ג,יט) / <b>(נגינותי)[נגינות]</b><br>אורגינדור"ש / orgendors / <b>צלילי עוגב</b><br><small>המילונים נותנים רק את המשמעות "מנגן בעוגב".</small>
-<h3>צפניה<h3>
+<h3>צפניה</h3>
 3998 / (צפניה ג,טו) / <b>(משפטיך)[משפטים]</b><br>יושטיצי"ש / justices / <b>עונשים</b><br><small></small>
-<h3>זכריה<h3>
+<h3>זכריה</h3>
 3999 / (זכריה ד,יא) / <b>(שבלי)[שבלים]</b><br>טרוקי"ש / troches / <b>ענפים, אגודות</b><br><small></small>
 4000 / (זכריה ה,ט) / <b>חסידה</b><br>וולטוי"ר / woltoir / <b>עזנייה</b><br><small></small>
 4001 / (זכריה יא,ב) / <b>(אלוני)[אלונים]</b><br>קישני"ש / ביקדמקד / <b>אלונים</b><br><small></small>
@@ -3526,13 +3526,13 @@
 4003 / (זכריה יב,י) / <b>רוח</b><br>טלינ"ט / talent / <b>רצון</b><br><small></small>
 4004 / (זכריה יד,י) / <b>(יקבי)[יקבים]</b><br>פושי"ץ / fosez / <b>חפירות, תעלות</b><br><small>ברור, שרש"י מתכוון להדגיש, שלא מדובר כאן ביקבי יין.</small>
 4005 / (זכריה יד,כ) / <b>מצלות</b><br>טיטינונ"ץ / tintinonz / <b>פעמונים</b><br><small></small>
-<h3>מלאכי<h3>
+<h3>מלאכי</h3>
 4006 / (מלאכי א,א) / <b>משא</b><br>פורפור"ט / porport / <b>מסר (דבר-מה, שמעבירים למקומות הרבה)</b><br><small>מהפועל porporter "לשאת הנה והנה". אחד מכתבי-היד גורס (כפי הנראה בטעות) פרופט"א (קרי: פרופיט"א) profete ("נביא").</small>
 4007 / (מלאכי ב,יג) / <b>אנקה</b><br>דימונישמינ"ט / demonesment / <b>התמוטטות</b><br><small>רש"י מסביר, שהכוונה לצעקה פנימית.</small>
 4008 / (מלאכי ג,ב) / <b>ברית</b><br>אירב"א שבונייר"א / erbe savoniere / <b>עשב סבוני (סבונית)</b><br><small>המלה הראשונה של הלעז הושמטה בדפוסים.</small>
 4009 / (מלאכי ג,יז) / <b>סגלה</b><br>אישטו"י / estui / <b>משמרת</b><br><small>דבר הנשמר היטב (רש"י מפרש: אוצר).</small>
 4010 / (מלאכי ג,כ) / <b>מרבק</b><br>קופל"א / cople / <b>צמד</b><br><small></small>
-<h3>תהילים<h3>
+<h3>תהילים</h3>
 4011 / (תהלים א,א) / <b>אשרי</b><br>לי"ש פליישמינ"ץ / les pleismenz / <b>התענוגים</b><br><small>כוונת לע"ז זה, החסר בכתבי-היד, ולכאורה אינו מאת רש"י (וכן גם שני הלעזים הבאים*), להסביר את צורת הריבוי של "אשרי".</small>
 4012 / (תהלים א,ג) / <b>שתול</b><br>פלנטי"ץ / plantez / <b>נטוע</b><br><small>היינו מצפים לצורה פלנטי"ד planted, אבל גם plantez יכול להיות יחיד.</small>
 4013 / (תהלים א,ג) / <b>(פלגי)[פלגים]</b><br>ריוייר"ש / riwiers / <b>נחלים</b><br><small></small>
@@ -3674,7 +3674,7 @@
 4151 / (תהלים קמח,ח) / <b>ברד</b><br>גלצ"א / glace / <b>קרח</b><br><small></small>
 4152 / (תהלים קמח,ח) / <b>שלג</b><br>ניי"ף / neif / <b>שלג</b><br><small></small>
 4153 / (תהלים קמח,ח) / <b>קיטור</b><br>ברואינ"א / bruine / <b>ערפל</b><br><small>ר' להלן מס' 4239.</small>
-<h3>משלי<h3>
+<h3>משלי</h3>
 4154 / (משלי א,כז) / <b>סופה</b><br>טורביי"ל / torbeil / <b>נחשול (סופת-נחשול)</b><br><small>כמה כתבי-יד והדפוסים גורסים טורביילו"ן torbeilon, באותה משמעות.</small>
 4155 / (משלי א,לב) / <b>(משובת)[משובה]</b><br>אינויישדור"א / enweisdure / <b>הוללות, שובבות</b><br><small>חסר בדפוסים.</small>
 4156 / (משלי ג,כג) / <b>תגוף</b><br>אצופי"ר / acoper / <b>להיכשל</b><br><small>חסר בדפוסים. ר' אה"ל מס' 2040.</small>
@@ -3718,7 +3718,7 @@
 4194 / (משלי ל,לג) / <b>מיץ</b><br>פרימידור"א / premedure / <b>לחיצה</b><br><small></small>
 4195 / (משלי לא,יט) / <b>כישור</b><br>אורטויר"א / ortoire / <b>מנור אורגים</b><br><small>זה הפירוש של ברנדין. אולם כל הגרסאות מתחילות בוי"ו ולא באל"ף כפי שהיה מתקבל על הדעת ונמצא למשל לעיל מס' 3306. לכן יש נטייה לחשוב, שלפנינו כאן מלה אחרת, אולי וירטיי"ל werteil מהפועל wertir "לסובב"; אך טרם נמצאה במשמעות כזאת.</small>
 4196 / (משלי לא,יט) / <b>פלך</b><br>פושי"ל / fusel / <b>פלך</b><br><small></small>
-<h3>איוב<h3>
+<h3>איוב</h3>
 4197 / (איוב א,ה) / <b>וברכו</b><br>ביניישטר"א / beneistre / <b>לברך</b><br><small>הגרסה "ביניישטר"א" (של כתב-יד פריז) תמוהה, כי היינו מצפים להסברר, שכאן מדובר על קללה. לכן עדיפה גרסת כתב-יד פרמא: בלשטנייר"ט (קרי: בלשטניירינ"ט blastanjierent) "גידפו".</small>
 4198 / (איוב א,ח) / <b>תם</b><br>אנטייר"ש / antiers / <b>ישר, הגון</b><br><small>חסר בדפוסים. ה – s הסופית היא אולי סימן יחסת-הנושא.</small>
 4199 / (איוב א,יד) / <b>על ידיהם</b><br>אמיי"ן טיננ"ט / a mein tenant / <b>ניצב ליד</b><br><small>חסר בדפוסים. הפענוח השערה בלבד (גרסת כתבי-היד; אמונישטנמנ"ט, אמטונמנ"ט, אמונטמונ"ט, אמנממינ"ט, אמובמנ"ט).</small>
@@ -3787,7 +3787,7 @@
 4262 / (איוב מ,לא) / <b>צלצל</b><br>אמבורי"ץ /  / <b>?</b><br><small>חסר בכתבי-היד וקשה לפענוח. מצאתי רק השערה זו: אמברו"ץ ambruz (כמו lambris) כיסוי תקרה, ספין, אך אין זה מתאים לעניין.</small>
 4263 / (איוב מ,לב) / <b>תוסף</b><br>ריקריישטר"ש / recreistras / <b>תוסיף</b><br><small>חסר בכתבי-היד.</small>
 4265 / (איוב מב,יא) / <b>וינדו</b><br>קונפליינט"א / conpleinte / <b>קינה</b><br><small>חסר בכתבי-היד.</small>
-<h3>שיר השירים<h3>
+<h3>שיר השירים</h3>
 4266 / (שה"ש א,ח) / <b>(עקבי)[עקבים]</b><br>טרצי"ש / traces / <b>עקבות</b><br><small></small>
 4267 / (שה"ש א,ט) / <b>(ססתי([ססה]</b><br>קיבלקיא"ה / chevalchie / <b>קבוצת רוכבים</b><br><small></small>
 4268 / (שה"ש א,ט) / <b>דמיתיך</b><br>אדישמי"י / adesmei / <b>השוויתי</b><br><small></small>
@@ -3806,9 +3806,9 @@
 4281 / (שה"ש ז,ו) / <b>רהטים</b><br>קורנ"ץ / coranz / <b>רצים</b><br><small>לפי רש"י ה"רהטים" הם הגדילים התלויים בחגורה, שבהם סוגרים אותה.</small>
 4282 / (שה"ש ז,י) / <b>דובב</b><br>פרומיי"ר / fromier / <b>לשרוץ, לרחוש</b><br><small>ר' אה"ל מס' 1115.</small>
 4283 / (שה"ש ח,ו) / <b>קנאה</b><br>אינפרינמינ"ט / enprenment / <b>חרון-אף</b><br><small>חסר בכתבי-היד. ר' לעיל מס' 3217.</small>
-<h3>רות<h3>
+<h3>רות</h3>
 4284 / (רות ג,ב) / <b>זרה</b><br>וני"ר / waner / <b>לזרות</b><br><small></small>
-<h3>איכה<h3>
+<h3>איכה</h3>
 4285 / (איכה א,ח) / <b>נידה</b><br>אישמובימינ"ט / esmovement / <b>הנעה</b><br><small>במשמעות זו לא מצוי במקורות אחרים.</small>
 4286 / (איכה א,ח) / <b>נאנחה</b><br>שושפיר"א / sospira / <b>נאנחה</b><br><small></small>
 4287 / (איכה א,ח) / <b>נאנחה</b><br>שושפירוש"א / sospirose / <b>שופעות אנחות</b><br><small>רש"י מראה את הניגוד בין הפועל בעבר לבין התואר (בלשונו: "שם דבר"). אלא שהגרסה שלפנינו לא ברורה. לכאורה הכוונה היא ש"נאנחה" לבד הוא פועל, אבל אחרי הכינוי "היא" הוא תואר. אך היה יותר מתקבל על הדעת לראות כאן פועל, ובפסוק כ"א להלן תואר.</small>
@@ -3828,7 +3828,7 @@
 4301 / (איכה ג,יט) / <b>(מרודי)[מרוד]</b><br>קונפליינ"ט / conpleint / <b>צעקה, תלונה</b><br><small></small>
 4302 / (איכה ג,נג) / <b>צמתו</b><br>אישטריינירינ"ט / estreinirent / <b>לחצו, כבלו</b><br><small>קשה לקבוע את הצורה המדויקת של הלעז, כי יש הרבה גרסאות שונות. בחלק מהן קוראים אישטריינטור"א estreinture ("לחץ, כבילה").</small>
 4303 / (איכה ד,ח) / <b>עצם</b><br>קולו"ר / color / <b>צבע</b><br><small>הפירוש על "עצם" שייך לפסוק ז', ובטעות הועבר לפסוק ח'.</small>
-<h3>קהלת<h3>
+<h3>קהלת</h3>
 4304 / (קהלת א,ו) / <b>רוח</b><br>טלינ"ט / talent / <b>רצון</b><br><small>רש"י מסביר, שמדובר בשמש, בהמשך לפסוק הקודם; והיא הולכת וסובבת לפי רצונה.</small>
 4305 / (קהלת א,יד) / <b>רוח</b><br>טלינ"ט / talent / <b>רצון</b><br><small></small>
 4306 / (קהלת ז,ו) / <b>סירים</b><br>אישפיני"ש / espines / <b>קוצים</b><br><small></small>
@@ -3842,11 +3842,11 @@
 4314 / (קהלת יב,ה) / <b>קליבוסת</b><br>הנק"א / hanche / <b>מותן</b><br><small>המלה המתורגמת אינה מן המקרא אלא מפירושו המדרשי.</small>
 4315 / (קהלת יב,ה) / <b>ויסתבל</b><br>אי"ד איר"ט סורפיישיי"ץ / ed ert sorfeisiez / <b>ויהיה עמוס עודף עומס</b><br><small>הפועל נגזר מהשם (fais) feis, "משא, עומס". יש גרסאות שונות, שבהן הפועל הוא פורפיישיי"ר porfeisier או טרישקריי"ר trescharjier, אך המובן דומה.</small>
 4316 / (קהלת יב,יא) / <b>אספות</b><br>גרוש"א / grose / <b>שמנה</b><br><small>רש"י מסביר, לפי דונש בן לברט, שמדובר בסוג מסמרים, בעלי ראש עבה, ואולי כך שם המסמר.</small>
-<h3>אסתר<h3>
+<h3>אסתר</h3>
 4317 / (אסתר ג,יג) / <b>נשלוח</b><br>אישטר"א טרמי"ש / estre tramis / <b>להיות נמסרים</b><br><small></small>
 4318 / (אסתר ג,יד) / <b>פתשגן</b><br>דישריינימינ"ט / disreinement / <b>הרצאה</b><br><small></small>
 4319 / (אסתר ה,י) / <b>ויתאפק</b><br>אישיריטינ"ט / e se retint / <b>התאפק</b><br><small></small>
-<h3>דניאל<h3>
+<h3>דניאל</h3>
 4320 / (דניאל א,יא) / <b>מלצר</b><br>שינישק"ל /  / <b>ממונה על משק הבית</b><br><small>ר' אה"ל מס' 794. בדפוסים מופיע לעז שונה: מאיילרי"ב אל"ה, שחלקו הראשון הוא בלי ספק מיישטר"א meustre ("רב ממונה על") והחלק השני אולי דאל"ה d’ale ("של לשכה").</small>
 4321 / (דניאל ב,יד) / <b>רב טבחיא</b><br>אישטול"ט / estolt / <b>אימתן, מטיל אימה</b><br><small>יש שלוש מלים estolt: א) "טיפש" מלטינית stultus; ב)"שהוסר" (ex-tollere); ג)גאה, פראי (מגרמנית stolz). קשרתי את תרגומי לאפשרות השלישית. אך אין זו אלא השערה. חסר בדפוסים. הממצא במילונים אינו ברור כל צרכו.</small>
 4322 / (דניאל ב,מ) / <b>חשל</b><br>אטינביש"ט / atenvist / <b>מֵדֵק, מרדד</b><br><small>חסר בדפוסים.</small>
@@ -3862,7 +3862,7 @@
 4332 / (דניאל י,ט) / <b>נרדם</b><br>אינטומיץ / entomiz / <b>המום</b><br><small>חסר בדפוסים. ר' לעיל מס' 4328, אלא שכאן יש באחד מכתבי-היד שי"ן סופית.</small>
 4333 / (דניאל י,יא) / <b>מרעיד</b><br>טרינבלי"ר / trenbler / <b>לרעוד</b><br><small>חסר בדפוסים. בכמה כתבי-יד טרינבלנ"ט trenblant ("רועד").</small>
 4334 / (דניאל י,טז) / <b>(צירי)[ציר]</b><br>קרדוני"ל / chardonel / <b>ציר (של דלת וכדומה)</b><br><small>חסר בדפוסים. באה"ל מס' 2348 יש צורה שונה במקצת chrdenel.</small>
-<h3>עזרא<h3>
+<h3>עזרא</h3>
 4335 / (עזרא א,א) / <b>רוח</b><br>טלינ"ט / talent / <b>רצון</b><br><small>חסר בדפוסים.</small>
 4336 / (עזרא ד,כב) / <b>דה"מ שלו</b><br>דישטורבי"ר / destorber / <b>לשבש</b><br><small></small>
 4337 / (עזרא ה,ח) / <b>גלל</b><br>מרבר"א / marbre / <b>שיש</b><br><small></small>
@@ -3871,7 +3871,7 @@
 4340 / (עזרא ו,ח) / <b>אספרנא</b><br>אישפלייטושמינ"ט / espleitosment / <b>בזריזות</b><br><small></small>
 4341 / (עזרא ו,ט) / <b>לא שלו</b><br>שנ"ץ דישטורבי"ר / sanz destorber / <b>בלי לשבש</b><br><small></small>
 4342 / (עזרא ז,כו) / <b>לשרשי</b><br>דישרציני"ר / desraciner / <b>לשרש</b><br><small></small>
-<h3>נחמיה<h3>
+<h3>נחמיה</h3>
 4343 / (נחמיה ג,ג) / <b>מנעוליו</b><br>שי"ש וירול"ץ / ses werolz / <b>בריחיו</b><br><small></small>
 4344 / (נחמיה ג,ט) / <b>פלך</b><br>דויילמי"ש / dujelmes / <b>דוכסות</b><br><small>חסר בדפוסים. צורת הרבים מפתיעה. באחד מכתבי-היד: ריילמ"ש, שיכול להיות סתם טעות סופר, אבל גם אפשר לקרוא ריילמ"א reelme ("מלכות").</small>
 4345 / (נחמיה ד,ב) / <b>תועה</b><br>מישפרישו"ן / mesprison / <b>נזק</b><br><small>חסר בדפוסים.</small>
@@ -3884,7 +3884,7 @@
 4352 / (נחמיה ט,י) / <b>שם</b><br>רינו"ם / renom / <b>תהילה</b><br><small>במחצית כתבי-היד האות הסופית היא נו"ן: רינו"ן renon.</small>
 4353 / (נחמיה יא,כה) / <b>בשדתם</b><br>אי"ן לו"ר קנפניי"ש / en lor cnanpanies / <b>במישורם, בשדות הפתוחים שלהם</b><br><small>חסר בדפוסים, ואין שם בכלל פירוש רש"י על המלה.</small>
 4354 / (נחמיה יג,י) / <b>ואדעה</b><br>א"י אפריני"י / e aprenei / <b>ושמעתי</b><br><small>חסר בדפוסים. וגם כאן אין פירוש רש"י על המלה.</small>
-<h3>דברי הימים א<h3>
+<h3>דברי הימים א</h3>
 4355 / (דה"י א' ב,נב) / <b>הראה</b><br>פורמדדיפי"ו /  / <b>?</b><br><small>לא הצלחתי לפענח בשום אופן. רש"י מסביר את המלה, שלא כרגיל, "המושל", אבל לא ראיתי ביטוי צרפתי, שיתאים לאותיות אלו.</small>
 4356 / (דה"י א' יא,יח) / <b>ויבקעו</b><br>דור"ך ברעכ"ן ד"י / durch brechen die Tore (בגרמנית) / <b>לפרוץ את השערים</b><br><small>בלעז גרמנית זה, המופיע בדפוסים, המלים האחרונות כתובות "ד"י שאר"ה", וראיתי לנכון להציע את התיקון הנ"ל.</small>
 4357 / (דה"י א' יב,יט) / <b>רוח</b><br>טלינ"ט / talent / <b>רצון</b><br><small></small>
@@ -3895,7 +3895,7 @@
 4362 / (דה"י א' כט,ז) / <b>אדרכנים</b><br>קצונ"ש / cacons / <b>מטבעות</b><br><small></small>
 4363 / (דה"י א' כט,יא) / <b>ממלכה</b><br>ויקטורי"א / victorie / <b>ניצחון</b><br><small></small>
 4364 / (דה"י א' כט,יט) / <b>הכינותי</b><br>אפרישטי"י / aprestei / <b>הכנתי</b><br><small></small>
-<h3>דברי הימים ב<h3>
+<h3>דברי הימים ב</h3>
 4365 / (דה"י ב' א,ט) / <b>יאמן</b><br>שיר"א ויריטי"ל / sera weritel / <b>יהיה אמיתי</b><br><small>השערה לפי המופיע בדפוס: "פראבריט"ש".</small>
 4366 / (דה"י ב' א,טז) / <b>מקוא</b><br>שטוט"א / stute / <b>סוסה (בגרמנית)</b><br><small>כפי הנראה חסרה מילת-השלמה, כמו "בית-הסוסה" או כדומה (חוה לגידול סוסים בגרמנית: gestul, מאותו גזרון).</small>
 4367 / (דה"י ב' ב,ט) / <b>מכות</b><br>פו"ל אוי"ף / voll auf / <b>בשפע (בגרמנית)</b><br><small></small>
