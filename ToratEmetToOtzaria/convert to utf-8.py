@@ -6,17 +6,17 @@ from pathlib import Path
 
 
 path = 'books'
-for filename in glob.glob(path + '/*/*.txt'):
+for filename in glob.glob('books/**/**/**/**.txt'):
     if not filename.endswith('.txt'):
         continue
     file_path = filename
     print("Converting " + filename)
 
-    with open(file_path, 'r', encoding='cp1255') as f:
+    with open(file_path, 'r', encoding='ansi') as f:
             content = f.read()
     output_file = Path('output'+file_path)
     output_file.parent.mkdir(exist_ok=True, parents=True)
-    with open('output'+file_path, 'w', encoding='UTF-8') as f:
+    with open(file_path.split('.txt')[0]+'converted.txt', 'w', encoding='UTF-8') as f:
             f.write(content)
     print("Converted " + filename)
 
