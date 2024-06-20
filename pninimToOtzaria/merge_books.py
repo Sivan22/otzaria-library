@@ -1,23 +1,33 @@
 import os
 
 
-def merge_book(book_name):
+def merge_book(book_name:str):
     """
     Opens a book file, reads its content, processes lines that start with '+', and writes the modified content back to the file.
     :param book_name: The path of the book file to be processed.
     """
+    last_toc = ['','','','','']
     with open(book_name, 'r', encoding='utf-8') as index_file:
         text = index_file.readlines()
     for line in text:
-        if line.startswith('+'):            
+        if line.startswith('+'):   
+            toc = line[2:-2].split('/')
+            for i, t in enumerate(toc):
+                if last_toc[i]!= toc[i]:
+                    last_toc[i]=toc[i]
+                    text.append('<h'+ str(i+2)+ '>'+toc[i].replace('_',' ')+'</h'+ str(i+2)+'>'+'\n')            
             try :
                 with open(book_name.replace('\\index','')+'\\'+ line[2:-2], 'r', encoding='utf-8') as f:
                     text += f.readlines()
             except:
                 print(line)
+                text.append('חסר כאן'+'\n')
+
             text.remove(line)    
-    with open(book_name.replace('index','')+ '\\' + book_name.split('\\')[-2] + '.txt', 'w', encoding='utf-8') as f:
+    with open(book_name.replace('index','')+ '\\' + book_name.split('\\')[-2] + 'merged.txt', 'w', encoding='utf-8') as f:
         f.writelines(text)
+
+# merge_book('pninimToOtzaria\\pninim books\\תלמוד\\בבלי\מפרשים\\יד_דוד\\index')
 
 
 
