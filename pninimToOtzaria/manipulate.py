@@ -9,31 +9,38 @@ def manipulate(path):
                 lines[i] = f'<h1>{line.strip()}</h1>\n'
 
                 
-            pattern = r"\%\%\%(.*?)\n"  # Matches "*any-text*"
-            replacement = r"<h6>\1</h6>\n"  # Replaces with "<b>\1</b>" (where \1 is captured text)
+            pattern = r"\%\%\%(.*?)\n" 
+            replacement = r"<h6>\1</h6>\n" 
             lines[i] = re.sub(pattern, replacement, lines[i])
 
-            pattern = r"\%\%(.*?)\n"  # Matches "*any-text*"
-            replacement = r"<h5>\1</h5>\n"  # Replaces with "<b>\1</b>" (where \1 is captured text)
+            pattern = r"\%\%(.*?)\n" 
+            replacement = r"<h5>\1</h5>\n" 
             lines[i] = re.sub(pattern, replacement, lines[i])
 
-            pattern = r"\%(.*?)\n"  # Matches "*any-text*"
-            replacement = r"<h2>\1</h2>\n"  # Replaces with "<b>\1</b>" (where \1 is captured text)
+            pattern = r"\%(.*?)\n" 
+            replacement = r"<h2>\1</h2>\n"  
             lines[i] = re.sub(pattern, replacement, lines[i])
 
-            pattern = r"/(.*?)/"  # Matches "*any-text*"
-            replacement = r"<i>\1</i>"  # Replaces with "<b>\1</b>" (where \1 is captured text)
+            pattern = r"/(.*?)/" 
+            replacement = r"<i>\1</i>"  
             lines[i] = re.sub(pattern, replacement, lines[i])
 
-            pattern = r"\*(.*?)\*"  # Matches "*any-text*"
+            pattern = r"\*(.*?)\*"  
             replacement = r"<b>\1</b>"  # Replaces with "<b>\1</b>" (where \1 is captured text)
             lines[i] = re.sub(pattern, replacement, lines[i])
-
-
-
+            
             pattern = r"_(.*?)_"  # Matches "*any-text*"
             replacement = r"<u>\1</u>"  # Replaces with "<b>\1</b>" (where \1 is captured text)
             lines[i] = re.sub(pattern, replacement, lines[i])
+                        
+            pattern = r"\[\^(.*?)\]"  # Matches "*any-text*"
+            replacement = r"<sup>\1</sup>"  # Replaces with "<b>\1</b>" (where \1 is captured text)
+            lines[i] = re.sub(pattern, replacement, lines[i])
+
+            if (lines[i].startswith('<sup>')):
+                lines[i]=f'<small>{lines[i].strip()}</small>\n'
+
+        
 
         for i, line in enumerate(lines):
             if(line == '\n'):
@@ -41,9 +48,12 @@ def manipulate(path):
             if (i > 0 and re.sub('<[^<]+?>', '', line.replace(' ','')) == re.sub('<[^<]+?>', '', lines[i-1].replace(' ',''))):
                 lines.remove(line)
 
+
         
         with open(path.replace( 'merged.txt', '.txt'), 'w', encoding='utf-8') as f:
             f.writelines(lines)
+
+manipulate('pninim books\\הלכה\\דרכי_הוראה\\דרכי_הוראהmerged.txt')
 
 def process_dir(path):
     """
@@ -64,4 +74,4 @@ def process_dir(path):
             if file.endswith( 'merged.txt'):
                 manipulate(os.path.join(root, file))
 
-process_dir('pninimToOtzaria\pninim books')
+#process_dir('pninimToOtzaria\pninim books')
