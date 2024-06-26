@@ -30,7 +30,8 @@ def merge_and_rename(folder_path, text_files, log_file):
             # Append file content and add a line break unless it's the last file
             merged_content += file_content
             if index < len(text_files) - 1:
-                merged_content += ''
+                merged_content += ' '
+                #צריך עדיין לתקן שבירידות שורה זה לא יתווסף
 
     # Create a new merged file
     subfolder_name = os.path.basename(folder_path)
