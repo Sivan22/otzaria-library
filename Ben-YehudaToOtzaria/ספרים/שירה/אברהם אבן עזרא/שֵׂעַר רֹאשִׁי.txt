@@ -1,0 +1,6 @@
+<h1>שֵׂעַר רֹאשִׁי</h1>
+אברהם אבן עזרא
+<blockquote><p>שֵׂעַר רֹאשִׁי הָפַךְ לָבָן,</p></blockquote>
+<blockquote><p>עַל כֵּן אֶקְרָא רֹאשִׁי רֹאשִׁי,</p></blockquote>
+<blockquote><p>הִנֵּה דָּלַק אַחֲרַי לָבָן,</p></blockquote>
+<blockquote><p>רָץ וַיַעֲבֹר אֶת הַכּוּשִׁי.</p></blockquote>

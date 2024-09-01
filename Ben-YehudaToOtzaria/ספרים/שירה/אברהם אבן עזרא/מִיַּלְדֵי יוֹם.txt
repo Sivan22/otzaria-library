@@ -1,0 +1,8 @@
+<h1>מִיַּלְדֵי יוֹם</h1>
+אברהם אבן עזרא
+<blockquote><p>מִיַּלְדֵי יוֹם אַל תִּבָּהֵל,</p></blockquote>
+<blockquote><p>כִּי יַלְדֵי יוֹם לֹא יִרְגָּעוּ;</p></blockquote>
+<blockquote><p>אַל תִּשְׂמַח בָּם אִם יֵיטִיבוּ,</p></blockquote>
+<blockquote><p>גַּם אַל תֵּחַת אִם יָרֵעוּ;</p></blockquote>
+<blockquote><p>כִּי הַטּוֹבוֹת גַּם הָרָעוֹת,</p></blockquote>
+<blockquote><p>כַּאֲשֶׁר יַחֲנוּ כֵּן יִסָּעוּ.</p></blockquote>
