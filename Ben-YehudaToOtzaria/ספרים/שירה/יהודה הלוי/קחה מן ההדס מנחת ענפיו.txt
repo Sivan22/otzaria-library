@@ -13,4 +13,4 @@
 <blockquote><p>וְגַן נָעוּל שְׁמָרוּהוּ כְרוּבָיו</p></blockquote>
 <blockquote><p>וּפַרְדֵּס חֵן סְבָבוּהוּ שְׂרָפָיו</p></blockquote>
 <blockquote><p>קְרַב חָתָן וְאַל-תִּירָא, לְמַעַן</p></blockquote>
-<blockquote><p>בְּיָדָךְ אוֹת לְהָפֵר אֶת-כְּשָׁפָיו.</p></blockquote>
+<blockquote><p>בְּיָדָךְ אוֹת לְהָפֵר אֶת-כְּשָׁפָיו.<br/></p></blockquote>

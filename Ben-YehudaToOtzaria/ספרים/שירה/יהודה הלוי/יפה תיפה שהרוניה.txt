@@ -7,4 +7,4 @@
 <blockquote><p>יָפוּ אֲדַמְדַּמֵּי מְאוֹרֶיהָ</p></blockquote>
 <blockquote><p>תַּחַת יְרַקְרַקֵּי עֲנָנֶיהֶ</p></blockquote>
 <blockquote><p>חַמָּה בְּעֵת הִתְעַלְּמָה שָׂמָה</p></blockquote>
-<blockquote><p>עָבוֹת מְקוֹם עָבוֹת לְפָנֶיהָ.</p></blockquote>
+<blockquote><p>עָבוֹת מְקוֹם עָבוֹת לְפָנֶיהָ.<br/></p></blockquote>

@@ -7,4 +7,4 @@
 <blockquote><p>"מַה זֶּה דְּמוּת דּוֹדֵךְ, כַּלָּה יְפֵה‑פִיָּה,</p></blockquote>
 <blockquote><p>כִּי תֹאמְרִי אֵלַי: שִׁלְחָה וְקָחֵהוּ?</p></blockquote>
 <blockquote><p>הַהוּא יְפֵה עַיִן אָדֹם וְטוֹב רֹאִי?"</p></blockquote>
-<blockquote><p>“רֵעִי וְדוֹדִי זֶה – קוּמָה מְשָׁחֵהוּ!” </p></blockquote>
+<blockquote><p>“רֵעִי וְדוֹדִי זֶה – קוּמָה מְשָׁחֵהוּ!”<br/> </p></blockquote>

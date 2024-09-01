@@ -3,4 +3,4 @@
 <blockquote><p>טָעָה מְכַבֶּה אֵשׁ בְּקַשׁ לֹא רַב</p></blockquote>
 <blockquote><p>אוֹ רָב אֲשֶׁר מוֹסִיף לְהַבְעִיר הוּא</p></blockquote>
 <blockquote><p>[כֵּן גַּם] מְרַפֵּא בָּחֳלִי רַב מִן</p></blockquote>
-<blockquote><p>חָלְיוֹ לְחָלְיוֹ אוֹ בְכָמוֹהוּ. </p></blockquote>
+<blockquote><p>חָלְיוֹ לְחָלְיוֹ אוֹ בְכָמוֹהוּ.<br/> </p></blockquote>

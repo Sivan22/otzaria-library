@@ -7,4 +7,4 @@
 <blockquote><p>יֵקַל בְּעֵינֶיךָ מְאֹד קָלוֹן וְרִישׁ,</p></blockquote>
 <blockquote><p>מוֹת מִבְּלִי בֵּן כַּאֲשֶׁר מֵת סֶלֶד.</p></blockquote>
 <blockquote><p>דַּע נַפְשְׁך הֵיטֵב, בְּיַעַן הִיא לְבַד</p></blockquote>
-<blockquote><p>מִן הַשְּאֵר תִּשְאַר וּמִן הַגֶּלֶד. </p></blockquote>
+<blockquote><p>מִן הַשְּאֵר תִּשְאַר וּמִן הַגֶּלֶד.<br/> </p></blockquote>

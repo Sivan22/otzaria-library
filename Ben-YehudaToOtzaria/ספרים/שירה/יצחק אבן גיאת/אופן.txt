@@ -6,6 +6,7 @@
 <blockquote><p>כִּי אַתְּ מְחוֹלֵל / כֹּל בְּנִיב מִלֶּיךָ.</p></blockquote>
 <blockquote><p>רַבּוֹת עָשִׂיתָ / בְּעֹצֶם גָּדְלֶךָ,</p></blockquote>
 <blockquote><p>אֲדֹנָי אֱלֹהַי, אֵין עֲרֹךְ אֵלֶיךָ!</p></blockquote>
+<br/>
 <blockquote><p>צוֹפֶה לְכֹל – אַךְ / בְּעַיִן אֵין צוֹפֶה,</p></blockquote>
 <blockquote><p>וּפוֹעֵל בְּלִי יָד / וּמְדַבֵּר וְאֵין פֶּה,</p></blockquote>
 <blockquote><p>וְחַי לֹא כְּחַיֵּי / אֱנוֹשׁ לְמָחָר נִסְפֶּה,</p></blockquote>
@@ -13,6 +14,7 @@
 <blockquote><p>וְעוֹשֶׂה טוֹב וְרַע – / אַךְ שְׁנֵיהֶם יָפֶה,</p></blockquote>
 <blockquote><p>וְנִצְפֶּה בְשֵׂכֶל / וְלֹא בְעַיִן צוֹפֶה –</p></blockquote>
 <blockquote><p>כִּי מִפְעָלֶיךָ / יְעִידוּן עָלֶיךָ.</p></blockquote>
+<br/>
 <blockquote><p>חָכָם בְּחָכְמָה / נִפְלֵאת נִפְלֵאתָ</p></blockquote>
 <blockquote><p>וְדַעַת פְּלִיאָה / מִנִּי נִפְלֵיתָ</p></blockquote>
 <blockquote><p>וּמִבּוֹא בְמֶחְקַר / חֲכָמִים נַעֲלֵיתָ.</p></blockquote>
@@ -21,6 +23,7 @@
 <blockquote><p>נִכְסֶה – וְאוּלָם / בְּפִלְאֲךָ נִגְלֵיתָ,</p></blockquote>
 <blockquote><p>וְרָם בְּאֵין מָקוֹם / וְעוֹלָם מָלֵאתָ,</p></blockquote>
 <blockquote><p>אַתָּה תִּסְבְּלֵהוּ – / וְהוּא לֹא יִסְבְּלֶךָ!</p></blockquote>
+<br/>
 <blockquote><p>קָדוֹשׁ מְקֹרָא / וּמְשָׁרְתָיו קְדוֹשִים,</p></blockquote>
 <blockquote><p>טְהוֹרֵי עֶצֶם / כְּעֶצֶם תַּרְשִׁישִׁים,</p></blockquote>
 <blockquote><p>פְּלִיאֵי צוּרָה / וְלֹא תַבְנִית אִישִׁים,</p></blockquote>
@@ -28,3 +31,4 @@
 <blockquote><p>וּמַחֲנוֹת נִפְרָשִׁים / לְאַרְבַּעַת רָאשִׁים</p></blockquote>
 <blockquote><p>לְהַלֵּל נִגָּשִׁים / לְקֹדֶשׁ הַקֳּדָשִׁים</p></blockquote>
 <blockquote><p>וְיִהְיוּ מַקְדִּישִׁים / בְּתוֹךְ הֵיכָלֶךָ.</p></blockquote>
+<br/>

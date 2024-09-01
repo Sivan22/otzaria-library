@@ -1,6 +1,6 @@
 <h1>מִנְּדוֹד אָמוֹן</h1>
 אברהם אבן עזרא
-<blockquote><p>מִנְּדוֹד אָמוֹן בְּחֵיק</p></blockquote>
+<blockquote><br/><p>מִנְּדוֹד אָמוֹן בְּחֵיק</p></blockquote>
 <blockquote><p>מִשְׂרָה, יֵאָבְקוּ</p></blockquote>
 <blockquote><p>עִמִּי תְּלָאוֹת</p></blockquote>
 <blockquote><p>ולכנהם אלסבק</p></blockquote>

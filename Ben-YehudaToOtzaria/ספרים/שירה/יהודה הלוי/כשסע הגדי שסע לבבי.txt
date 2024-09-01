@@ -9,4 +9,4 @@
 <blockquote><p>וּמִדֵּי אֶעֱבֹר דֶּרֶךְ חֲצֵרוֹ</p></blockquote>
 <blockquote><p>לְבָבִי בַּבְּכִי נָמֵס וְנֹזֵל</p></blockquote>
 <blockquote><p>כְּאִלּוּ שַׁעֲרֵי אֶרֶץ גְּזֵרָה</p></blockquote>
-<blockquote><p>וְלִבִּי בַעֲדוֹ כִשְׁעִיר עֲזָאזֵל </p></blockquote>
+<blockquote><p>וְלִבִּי בַעֲדוֹ כִשְׁעִיר עֲזָאזֵל<br/> </p></blockquote>

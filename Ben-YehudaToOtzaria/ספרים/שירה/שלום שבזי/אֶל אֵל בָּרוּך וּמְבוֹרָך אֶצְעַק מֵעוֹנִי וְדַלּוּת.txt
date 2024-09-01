@@ -8,6 +8,7 @@
 <blockquote><p>הֵסִיר תַּחְלוּאִים וְעַצְלוּת.</p></blockquote>
 <blockquote><p>יִלְמַד סוֹד תּוֹרָה וְיַהְלָך,</p></blockquote>
 <blockquote><p>יַנְשֵׁינִי צַעַר וְאַבְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>יִלְמַד עִם בַּעְלֵי תְּעוּדָה,</p></blockquote>
 <blockquote><p>יָסִיר מִמֶּנִּי חֲלוּדָה.</p></blockquote>
 <blockquote><p>אַזְכִּירָה גֶּזַע יְהוּדָה</p></blockquote>
@@ -15,6 +16,7 @@
 <blockquote><p>וִינַהֵג דִּגְלִי בְּחִמְלוּת.</p></blockquote>
 <blockquote><p>שׁוּב שׁוֹבֵב לָאֵל בְּחַדְלָך,</p></blockquote>
 <blockquote><p>אַל תַּנְהִיגֵנִי בְּקַלּוּת.</p></blockquote>
+<br/>
 <blockquote><p>לָך צוּרִי נַפְשִׁי תְּקַוֶּה,</p></blockquote>
 <blockquote><p>אַתָּה מִשְׂגַּבִּי וְעָזִי.</p></blockquote>
 <blockquote><p>לִבִּי לָך בִּשְׁבָח יְחַוֶּוה,</p></blockquote>
@@ -23,6 +25,7 @@
 <blockquote><p>לָבִּינָה, סוֹדִי וְרָזִי.</p></blockquote>
 <blockquote><p>חַזֵּק דַּל נִכְאֶה וְנֶחְלָך,</p></blockquote>
 <blockquote><p>מֵעוֹל זֵידוֹנִים וְסַבְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>וּרְצֵה עַל יוֹנָה עֲלוּבָה,</p></blockquote>
 <blockquote><p>קַבֵּל <a class="footnote" href="#fn:1" id="fnref:1" title="see footnote"><sup>1</sup></a>מִמֶּנָּהּ תְּשׁוּבָה.</p></blockquote>
 <blockquote><p>צוֹפָה לָ תִּרְפָּא מְשׁוּבָה,</p></blockquote>
@@ -30,6 +33,7 @@
 <blockquote><p>תִּשְׁמוֹר נַפְשׁוֹתָם בְּגָלוּת</p></blockquote>
 <blockquote><p>כִּי גָּבַר אֵיבָם וְנִמְשָׁך,</p></blockquote>
 <blockquote><p>יַטְעֶה נִינֵיהֶם בְּסִכְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>שִׁמְ עוֹז יָהּ לַהֲמוֹנִים,</p></blockquote>
 <blockquote><p>תָּשׁוּרָה עַמָּך בְּרָצוֹן.</p></blockquote>
 <blockquote><p>תִּרְצֶה אָז תִּמְחוֹל עֲוֹנָם</p></blockquote>
@@ -38,6 +42,7 @@
 <blockquote><p>רֶוַוח תַּמְצִיאֵם וְעֶלְצוֹן.</p></blockquote>
 <blockquote><p>אָז נִמְצָא שָׁלוֹם בְּעִירָך,</p></blockquote>
 <blockquote><p>תָּאִירָה חוֹשֶׁך וְאַפְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>בַּת גַּלִּים תִּשְׂמַח וְתָגִיל</p></blockquote>
 <blockquote><p>יוֹם תָּקִים דִּגְלָהּ וְתַדְגִּיל.</p></blockquote>
 <blockquote><p>תַּפְצִיחַ בִּשְׁבָחָך וְתַרְגִּיל,</p></blockquote>
@@ -45,6 +50,7 @@
 <blockquote><p>תִּנְשֶׁה תַּחְלוּאִים וְגַלּוּת.</p></blockquote>
 <blockquote><p>יִשְׂמַח עַם קוֹדֶשׁ בְּחִירָך,</p></blockquote>
 <blockquote><p>יִשְׁכַּח תַּמְרוּרִים וְחַשְׁלוּת.</p></blockquote>
+<br/>
 <blockquote><p>בָּך בָּטַח לִבִּי וְנַפְשִׁי,</p></blockquote>
 <blockquote><p>שׁוֹמֵיַע שַׁוְעַת עֲנִיִּים.</p></blockquote>
 <blockquote><p>כִּי זִכְרָך מָעוֹז לְרֹאשִׁי,</p></blockquote>
@@ -53,6 +59,7 @@
 <blockquote><p>זַכֵּינִי בֵּין הַנְּקִיִּים.</p></blockquote>
 <blockquote><p>כִּי לָקָה גּוּפִי וְנִמְרָך,</p></blockquote>
 <blockquote><p>נִתְיַיסֵּר הַרְבֵּה בְּכַשְׁלוּת.</p></blockquote>
+<br/>
 <blockquote><p>אִם עַל זֶה חָטַאת לְשׁוֹנִי,</p></blockquote>
 <blockquote><p>תִּמְחוֹל חַטָּאתִי אֲדוֹנִי,</p></blockquote>
 <blockquote><p>כִּרְצוֹנָך אֵינוּ רְצוֹנִי.</p></blockquote>
@@ -60,6 +67,7 @@
 <blockquote><p>בִּטְעֹת חַיָּיתִי בְּשָׁלוּת.</p></blockquote>
 <blockquote><p>כִּי גּוּפִי חָבַר וְנֶחְרָך</p></blockquote>
 <blockquote><p>בִּיסוֹדוֹת אַרְבַּע בְּדַגְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>זָכְרָה לִּי חֶסֶד נְעוּרִים,</p></blockquote>
 <blockquote><p>בַּעֲלוֹת מֹשֶׁה וַאֲבוֹתָי.</p></blockquote>
 <blockquote><p>בָּך חוֹסִים יַחַד קְשׁוּרִים,</p></blockquote>
@@ -68,6 +76,7 @@
 <blockquote><p>וַתִּלְחוֹם אֶת מִלְחֲמוֹתַי.</p></blockquote>
 <blockquote><p>בֶּן עַמְרָם נִיהַג לְעֶדְרָך,</p></blockquote>
 <blockquote><p>וַיֵּדַע סוֹד הָאֲצִילוּת.</p></blockquote>
+<br/>
 <blockquote><p>הִשִּׂיג מַלְאָכִים וְגַלְגַּל,</p></blockquote>
 <blockquote><p>עִם צוּרַת רַגְלֵי סְגַלְגַּל,</p></blockquote>
 <blockquote><p>וִיסוֹדוֹת אַרְבַּע בְּמַעְגַּל.</p></blockquote>
@@ -75,6 +84,7 @@
 <blockquote><p>בִּימִינָהּ עוֹשֶׁר וְגַדְלוּת.</p></blockquote>
 <blockquote><p>הוּא שָׁמַע קוֹל מַאֲמָרָךָ,</p></blockquote>
 <blockquote><p>מִכְתָּב מִתְבָּאֵר וְחָרוּת.</p></blockquote>
+<br/>
 <blockquote><p>יָעִיר דּוֹד חַסְדּוֹ לְרַעְיָה,</p></blockquote>
 <blockquote><p>וִיקַבֵּץ בָּנִים נְדוּדִים,</p></blockquote>
 <blockquote><p>כִּי מֶנְהוּ חַיִּים וּמֵחְיָה</p></blockquote>
@@ -83,6 +93,7 @@
 <blockquote><p>צוֹפִים לִרְצוֹנוֹ גְּדוּדִים.</p></blockquote>
 <blockquote><p>תַּזְכִּיר שִׁיר וּשְׁבַח לְצוּרָך,</p></blockquote>
 <blockquote><p>הַמַּסְפִּיק לַכֹּל בְּנַהְלוּת.</p></blockquote>
+<br/>
 <blockquote><p>בָּרוּך הוּא עוֹשֵׂה בְּרֵאשִׁית,</p></blockquote>
 <blockquote><p>יִפְתַּח אֶת לִבִּי וְיָשִׁית</p></blockquote>
 <blockquote><p>לִימִינִי נֶפֶשׁ אֱנוּשִׁית.</p></blockquote>

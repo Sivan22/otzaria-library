@@ -11,4 +11,4 @@
 <blockquote><p>הֲיִי לִפְנֵי אֱלֹהַיִךְ וּמַלְכֵּךְ</p></blockquote>
 <blockquote><p>אֲשֶׁר בָּאת לַחֲסוֹת תַּחַת כְּנָפָיו</p></blockquote>
 <blockquote><p>שְׁמוֹ יִגְדַּל וְיִתְקַדֵּשׁ בְּפִי כֹל</p></blockquote>
-<blockquote><p>אֲשֶׁר נִשְׁמַת אֱלוֹהַּ חַי בְּאַפָּיו.</p></blockquote>
+<blockquote><p>אֲשֶׁר נִשְׁמַת אֱלוֹהַּ חַי בְּאַפָּיו.<br/></p></blockquote>

@@ -7,4 +7,4 @@
 <blockquote><p>חֲתֻלַּת רְקָמוֹת וְגָבִישׁ וְרָאמוֹת</p></blockquote>
 <blockquote><p>וּמִבְחַר עֲלָמוֹת לְמִבְחַר עֲלָמִים</p></blockquote>
 <blockquote><p>וְגַם הַנְּזָמִים עֲלֵיהֶם קְסָמִים</p></blockquote>
-<blockquote><p>לְבִלְתִּי הֱיוֹתָם לְבִלְתּוֹ שְׁלֵמִים.</p></blockquote>
+<blockquote><p>לְבִלְתִּי הֱיוֹתָם לְבִלְתּוֹ שְׁלֵמִים.<br/></p></blockquote>

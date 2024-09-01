@@ -13,4 +13,4 @@
 <blockquote><p>וְלֵב הַיָּם יְכַחֵשׁ בָּאֳנִיָּה</p></blockquote>
 <blockquote><p>כְּאִלּוּ הִיא בְּיַד הַיָּם גְּנֵבָה</p></blockquote>
 <blockquote><p>וְיָם יִזְעַף וְנַפְשִׁי תַעֲלֹז, כִּי</p></blockquote>
-<blockquote><p>אֱלֵי מִקְדַּשׁ אֱלֹהֶיהָ קְרֵבָה.</p></blockquote>
+<blockquote><p>אֱלֵי מִקְדַּשׁ אֱלֹהֶיהָ קְרֵבָה.<br/></p></blockquote>

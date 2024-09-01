@@ -11,6 +11,7 @@
 <blockquote><p>וּמַטְעַמָּיו בְּפִי מַמְתָּק וּמַשְׁמָן</p></blockquote>
 <blockquote><p>וְאָמְרוּ אֵין בְּתֵבֵל מָן עֲנִיתִים</p></blockquote>
 <blockquote><p>וְאִם אֵין מָן בְּתֵבֵל שָׁם אֲחִי מָן.</p></blockquote>
+<br/>
 <h2 id="ב">ב</h2>
 <blockquote><p>לְעֵת כָּזֹאת תְכַל עֵינִי וְתֵרַד</p></blockquote>
 <blockquote><p>וְתָשִׂים נַחֲלֵי דִמְעִי בְּמוֹרָד</p></blockquote>
@@ -21,4 +22,4 @@
 <blockquote><p>אֲבָל נָד מִמְּקוֹמוֹ עַל שְׁלֹמֹה</p></blockquote>
 <blockquote><p>אֲשֶׁר נָד וַעֲזָבַנִי מְפֹרָד</p></blockquote>
 <blockquote><p>אֲיָאֵשׁ מֵרְאוֹת אַחַי וְרֵעַי</p></blockquote>
-<blockquote><p>וְזֶה סוֹף כָּל יְדִידַי מִסְּפָרָד.</p></blockquote>
+<blockquote><p>וְזֶה סוֹף כָּל יְדִידַי מִסְּפָרָד.<br/></p></blockquote>

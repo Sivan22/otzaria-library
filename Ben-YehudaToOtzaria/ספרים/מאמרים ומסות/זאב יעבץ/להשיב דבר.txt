@@ -29,11 +29,11 @@
 <blockquote><p>תּוֹך יָם גָּדוֹל, מַיִם רַבִּים,</p></blockquote>
 <blockquote><p>מָלֵא גַלִּים, רֻכְסֵי הָרִים,</p></blockquote>
 <blockquote><p>עוֹמֵד סֶלַע וּכְמוֹ סוּסִים</p></blockquote>
-<blockquote><p>לוֹ יָרוּצוּ הַמִּשְׁבָּרִים.</p></blockquote>
+<blockquote><p>לוֹ יָרוּצוּ הַמִּשְׁבָּרִים.</p><br/></blockquote>
 <blockquote><p>כְּחַיְתוֹ טֶרֶף יַכְתִּירֻהוּ,</p></blockquote>
 <blockquote><p>יַעֲלוּ עָלָיו זַעַף רֶצַח—</p></blockquote>
 <blockquote><p>אַךְ לִרְסִיסִים יִתְפּוֹצָצוּ</p></blockquote>
-<blockquote><p>וְהוּא עַל עָמְדוֹ עוֹמֵד נֶצַח…</p></blockquote>
+<blockquote><p>וְהוּא עַל עָמְדוֹ עוֹמֵד נֶצַח…</p><br/></blockquote>
 <blockquote><p>בְּשֶׁצֶף קֶצֶף יִתְגַּלְגָּלוּ —</p></blockquote>
 <blockquote><p>אַךְ מִמְּקוֹמוֹ הוּא לֹא יָמִישׁ;</p></blockquote>
 <blockquote><p>הֵם יָדִיהוּ רַק חֶלְאָתוֹ,</p></blockquote>

@@ -44,7 +44,7 @@
 <blockquote><p>הִתְאַוְּתָה לִרְאוֹת הֲדַר פָּנָיו</p></blockquote>
 <blockquote><p>לוּ יַחְפְּצוּ יָמִים בְּמַאְוַיָּהּ</p></blockquote>
 <blockquote><p>כִּי לֹא לְאָדָם מַחְשְׁבוֹתָיו אַךְ</p></blockquote>
-<blockquote><p>כָּל הַדְּבָרִים יָד עֲלֵיכֶם יָהּ.</p></blockquote>
+<blockquote><p>כָּל הַדְּבָרִים יָד עֲלֵיכֶם יָהּ.<br/></p></blockquote>
 <h2 id="ב">ב</h2>
 <blockquote><p>עָמְדוּ בְרָקִים קָט וְהִתְמַהְמָהוּ</p></blockquote>
 <blockquote><p>מִי שָׂמְכֶם רֶכֶב לְיֹאשִׁיָּהוּ</p></blockquote>
@@ -61,4 +61,4 @@
 <blockquote><p>מִלֵּב אֲשֶׁר נִקְנָה בְּצוּף מִלָּיו וְהֵן</p></blockquote>
 <blockquote><p>נִמְשַׁךְ לְבָבִי לַאֲשֶׁר קָנָהוּ</p></blockquote>
 <blockquote><p>כַּמָּה בְעָלוּהוּ אֲדוֹנִים כֵּן אֲבָל</p></blockquote>
-<blockquote><p>מֵאֵן דְּבֹק כִּי אִם בְּיֹאשִׁיָּהוּ. </p></blockquote>
+<blockquote><p>מֵאֵן דְּבֹק כִּי אִם בְּיֹאשִׁיָּהוּ.<br/> </p></blockquote>

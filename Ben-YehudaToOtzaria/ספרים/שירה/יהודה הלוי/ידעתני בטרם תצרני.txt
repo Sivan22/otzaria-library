@@ -9,4 +9,4 @@
 <blockquote><p>דְּרַשְׁתִּיךָ בְּעֵת רָצוֹן עֲנֵנִי</p></blockquote>
 <blockquote><p>וְכַצִּנָּה רְצוֹנְךָ תַּעְטְרֵנִי</p></blockquote>
 <blockquote><p>הֲקִימֵנִי לְשַׁחֵר אֶת דְּבִירְךָ</p></blockquote>
-<blockquote><p>וְאֶת שִׁמְךָ לְבָרֵךְ עוֹרֲרֵנִי.</p></blockquote>
+<blockquote><p>וְאֶת שִׁמְךָ לְבָרֵךְ עוֹרֲרֵנִי.<br/></p></blockquote>

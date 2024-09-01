@@ -24,4 +24,5 @@
 <blockquote><p>שְׁהוּא מִסְעָד לְכָל הַנֶּעֱלָבִים.</p></blockquote>
 <blockquote><p>יְקַוּוּ לוֹ עֲנִיִּים וַעֲשִׁירִים,</p></blockquote>
 <blockquote><p>יְפַרְנֵסָה רְחוֹקִים עִם קְרוֹבִים.</p></blockquote>
+<br/>
 <ol><li id="fn:1"><p>פירוש: חֲזָקִים. <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li></ol>

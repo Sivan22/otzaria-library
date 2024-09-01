@@ -1,7 +1,7 @@
 <h1>אַרְבָּעָה עָמְדוּ עַל הַיָּם</h1>
 אברהם אבן עזרא
 <p>גאולה</p>
-<blockquote><p>אַרְבָּעָה עָמְדוּ עַל הַיָּם:</p></blockquote>
+<blockquote><br/><p>אַרְבָּעָה עָמְדוּ עַל הַיָּם:</p></blockquote>
 <blockquote><p>צוּר וְצִיר וְצֹאן וְצָר.</p></blockquote>
 <blockquote><p>צַר הִצִּיק לְצֹאן,</p></blockquote>
 <blockquote><p>וְצֹאן צָרַח לְצִיר,</p></blockquote>

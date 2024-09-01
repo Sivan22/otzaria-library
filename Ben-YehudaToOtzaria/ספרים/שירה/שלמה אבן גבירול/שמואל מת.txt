@@ -1,5 +1,6 @@
 <h1>שמואל מת</h1>
 שלמה אבן גבירול
+<br/>
 <blockquote><p>שְׁמוּאֵל! מֵת בְּנוֹ לַבְרַט</p></blockquote>
 <blockquote><p>וְעָמַדְתָּ עֲלֵי כַנוֹ,</p></blockquote>
 <blockquote><p>וְכָלִינוּ מְאֹד אֵלָיו –</p></blockquote>
@@ -30,4 +31,5 @@
 <blockquote><p>וְקָדִים מָלְאָה בִטְנוֹ!</p></blockquote>
 <blockquote><p>וְכָל עֶצֶם לְעַצְמוֹ שָׁב</p></blockquote>
 <blockquote><p>וְכָל מִין סָר אֱלֵי מִינוֹ.</p></blockquote>
+<br/>
 <p>(1038)</p>

@@ -7,4 +7,4 @@
 <blockquote><p>וּלְאִישׁ מְרִי סֹהַר וּפֶה לִלְשׁוֹן</p></blockquote>
 <blockquote><p>אָדָם חֲכַם-לֵבָב כְּמוֹ סֹהַר</p></blockquote>
 <blockquote><p>וּלְאֵם אֱמֶת יַלְדֵי אֱמֶת וּכְאֵם</p></blockquote>
-<blockquote><p>עַוְלָה יְהוּ בָנִים אֲשֶׁר תַּהַר. </p></blockquote>
+<blockquote><p>עַוְלָה יְהוּ בָנִים אֲשֶׁר תַּהַר.<br/> </p></blockquote>

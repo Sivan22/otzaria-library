@@ -7,4 +7,4 @@
 <blockquote><p>הֲלֹא דַי לָךְ שְׁכֹן חַדְרֵי חֲדָרִים</p></blockquote>
 <blockquote><p>צְאִי לִקְרַאת יְדִיד עוֹרֵר אֲהָבוֹת</p></blockquote>
 <blockquote><p>וְיַחְצֹב מִשְּׂפָתַיִךְ פְּנִינִים</p></blockquote>
-<blockquote><p>כְּמוֹ חָצַבְתְּ מִלִּבּוֹ לְבָבוֹת.</p></blockquote>
+<blockquote><p>כְּמוֹ חָצַבְתְּ מִלִּבּוֹ לְבָבוֹת.<br/></p></blockquote>

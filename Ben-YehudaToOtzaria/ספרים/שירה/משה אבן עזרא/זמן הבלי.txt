@@ -1,6 +1,7 @@
 <h1>[זמן הבלי]</h1>
 משה אבן עזרא
 <h2 id="זמןהבלימשהאבןעזרא">[זמן הבלי] / משה אבן עזרא</h2>
+<br/>
 <blockquote><p>זְמָן הֶבְלִי יְמֵי סִכְלֵי</p></blockquote>
 <blockquote><p>יִפּהָ לְלִ - בִּי שְׁקָרָיו,</p></blockquote>
 <blockquote><p>וְכוֹס פּעֳָלִי בְּיַד-אֵלִי</p></blockquote>
@@ -9,6 +10,7 @@
 <blockquote><p>הֳסִיתָהו מִבְּחֻרָיו,</p></blockquote>
 <blockquote><p>כִּי יֵצֶר לֵב הָאָ-</p></blockquote>
 <blockquote><p>דּם רַע מִנְּעֻרָיו!</p></blockquote>
+<br/>
 <blockquote><p>מֵאֲשָׁמִים נַעֲלָמִים</p></blockquote>
 <blockquote><p>וְעֲוֹנוֹת חוֹלָלְתִּי</p></blockquote>
 <blockquote><p>וְעַל-חָטָאִים נִפְלָאִים</p></blockquote>
@@ -17,10 +19,12 @@
 <blockquote><p>אַחֲרֵיהֶם הָבָלְתִּי,</p></blockquote>
 <blockquote><p>וְיוֹם אוֹרִי עֲלֵי שְֹעַרִי</p></blockquote>
 <blockquote><p>חָזִיתִי - נִבְהַלְתִּי</p></blockquote>
+<br/>
 <blockquote><p>וְאָז לִבִּי עֲלֵי חוֹבִי</p></blockquote>
 <blockquote><p>קָרַעְתִּי וְאָבָלְתִּי,</p></blockquote>
 <blockquote><p>וְאֵשׁ יָגוֹן בֵּין בְּתָרָיו</p></blockquote>
 <blockquote><p>עָבַר וְשָׁ - רַף גְּזָרָיו!</p></blockquote>
+<br/>
 <blockquote><p>שָׁכַחְתִּי יַמַי נַחְתִּי</p></blockquote>
 <blockquote><p>בּעֲַלוּמֵי, יְמֵי רָעָה,</p></blockquote>
 <blockquote><p>וְקִוִּיתִי וְחָסִיתִי</p></blockquote>
@@ -33,5 +37,6 @@
 <blockquote><p>יִקְרָא-קָ - רְבָה נְסִיעָה!"</p></blockquote>
 <blockquote><p>וְלִבִּי חָל בִּמְגוּרָיו,</p></blockquote>
 <blockquote><p>בְּמָה שֶׁיִּ - הְיֶה אַחְרָיו!</p></blockquote>
+<br/>
 <blockquote><p>הָאֵל, אָן אֵלֵךְ וְאָן</p></blockquote>
 <blockquote><p>אֶבְרַח מִ - פּנֶָיךָ?</p></blockquote>

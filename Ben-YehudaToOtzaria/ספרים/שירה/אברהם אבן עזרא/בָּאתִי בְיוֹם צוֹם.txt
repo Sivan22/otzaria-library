@@ -53,4 +53,4 @@
 <blockquote><p>אִם יֵש תְּשוּבָה לְךָ עֲנֵנִי נָא, חֲסַר</p></blockquote>
 <blockquote><p>דַּעַת, נְכֵה רֶגֶל וְרַע עֵינַיִם,</p></blockquote>
 <blockquote><p>עֹשֶּר אֲחֵרִים אַל תְּפַזֵּר, וַאֲנִי</p></blockquote>
-<blockquote><p>אֶבְרַח לְאֶרֶץ רַחֲבַת יָדַיִם. </p></blockquote>
+<blockquote><p>אֶבְרַח לְאֶרֶץ רַחֲבַת יָדַיִם.<br/> </p></blockquote>

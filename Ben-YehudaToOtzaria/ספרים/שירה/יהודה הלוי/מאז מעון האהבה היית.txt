@@ -9,4 +9,4 @@
 <blockquote><p>מִיּוֹם בְּזִיתַנִי בְּזִיתִינִי אֲנִי,</p></blockquote>
 <blockquote><p>כִּי לֹא אֲכַבֵּד אֶת‑אֲשֶׁר בָּזִיתָ –</p></blockquote>
 <blockquote><p>עַד יַעֲבָר‑זַעַם וְתִשְׁלַח עוֹד פְּדוּת</p></blockquote>
-<blockquote><p>אֶל‑נַחֲלָתְךָ זֹאת אֲשֶׁר פָּדִיתָ.</p></blockquote>
+<blockquote><p>אֶל‑נַחֲלָתְךָ זֹאת אֲשֶׁר פָּדִיתָ.<br/></p></blockquote>

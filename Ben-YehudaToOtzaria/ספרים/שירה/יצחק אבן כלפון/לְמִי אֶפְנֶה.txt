@@ -33,4 +33,4 @@
 <blockquote><p>בְּרַח- לָךְ אֶל- מְקוֹמָךְ, אַל- תְּיַחֵל</p></blockquote>
 <blockquote><p>אֲמָרוֹת לֹא תְבוֹאֶינָה, בְּטֵלוֹת.</p></blockquote>
 <blockquote><p>וְאֵל יִהְיֶה לְפָנֶיךָ וְעִימָּךְ</p></blockquote>
-<blockquote><p>אֲשֶׁר לוֹ נִתְכְּנוּ כָל- הָעֲלִילוֹת. </p></blockquote>
+<blockquote><p>אֲשֶׁר לוֹ נִתְכְּנוּ כָל- הָעֲלִילוֹת.<br/> </p></blockquote>

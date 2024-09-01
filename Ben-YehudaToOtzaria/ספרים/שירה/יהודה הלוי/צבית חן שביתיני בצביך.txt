@@ -7,4 +7,4 @@
 <blockquote><p>וְאֶסָּעֵד בְּתַפּוּחַ אֲדַמּדָּם</p></blockquote>
 <blockquote><p>אֲשֶׁר רֵיחוֹ כְּמֹר אַפֵּךְ וְעֶדְיֵךְ</p></blockquote>
 <blockquote><p>וְתַבְנִיתוֹ כְשָׁדַיִךְ וְעֵינוֹ</p></blockquote>
-<blockquote><p>כְּעֵין אֹדֶם אֲשֶׁר נִרְאָה בְלֶחְיֵךְ.</p></blockquote>
+<blockquote><p>כְּעֵין אֹדֶם אֲשֶׁר נִרְאָה בְלֶחְיֵךְ.<br/></p></blockquote>

@@ -53,4 +53,4 @@
 <blockquote><p>…… עֲלֵי לִבִּי וְיֵחַם</p></blockquote>
 <blockquote><p>לְזֹאת כָּאֵשׁ מְלַהֶטֶת יְעָרִים</p></blockquote>
 <blockquote><p>… [אֲ]שֶׁר תִּבְחַ[ר] לְךָ כִּי</p></blockquote>
-<blockquote><p>אֲנִי מַגִּיד אֲמִתַּת הַדְבָרִים… </p></blockquote>
+<blockquote><p>אֲנִי מַגִּיד אֲמִתַּת הַדְבָרִים…<br/> </p></blockquote>

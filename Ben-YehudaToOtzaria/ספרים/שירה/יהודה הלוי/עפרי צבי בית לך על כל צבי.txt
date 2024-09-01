@@ -5,4 +5,4 @@
 <blockquote><p>לוּלֵי הֱיוֹת מִשְׁפָּטְךָ מִשְׁפַּט צְבִי</p></blockquote>
 <blockquote><p>מִדְבָּר אֲשֶׁר אֵין עַל חֲטָאָיו כֹּפֶר</p></blockquote>
 <blockquote><p>מִי זֶה הֱסִיתְךָ בִי וּמִי הוֹדִיעֲךָ</p></blockquote>
-<blockquote><p>כִּי פִּשְׁעֲךָ נָשׂוּי וְכִי אַתְּ עֹפֶר.</p></blockquote>
+<blockquote><p>כִּי פִּשְׁעֲךָ נָשׂוּי וְכִי אַתְּ עֹפֶר.<br/></p></blockquote>

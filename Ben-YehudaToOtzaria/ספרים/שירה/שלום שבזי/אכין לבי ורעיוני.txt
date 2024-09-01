@@ -2,6 +2,7 @@
 שלום שבזי
 <h2 id="אכיןלביורעיונישלוםשבזי">אכין לבי ורעיוני / שלום שבזי</h2>
 <p>מאת אבו שמעון</p>
+<br/>
 <blockquote><p>אָכִין לִבִּי וְרַעְיוֹנָי,</p></blockquote>
 <blockquote><p>כִּי הוֹמֶה לִי לִבִּי.</p></blockquote>
 <blockquote><p>כִּי שְׂמֹאל גָּרַם זְדוֹנָי,</p></blockquote>
@@ -10,6 +11,7 @@
 <blockquote><p>וּבָרַח דּוֹדִי כִּצְבִי.</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>בְּלִבִּי תְּשׁוּבָה מְהַרְהֵר,</p></blockquote>
 <blockquote><p>לְרַצּוֹת אֵל חַי קוֹנִי.</p></blockquote>
 <blockquote><p>וּשְׂמֹאלִי מִתְיָהֵר,</p></blockquote>
@@ -20,6 +22,7 @@
 <blockquote><p>נֶעְזָר שַׁחְרִי וְעַרְבִּי.</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>וְעַרְבִּי אַנְעִים לְהוֹדוֹת,</p></blockquote>
 <blockquote><p>שִׁיר חָדָשׁ לְשַׁבֵּיַח,</p></blockquote>
 <blockquote><p>לְגוֹלֶה עֲמוּקּוֹת סוֹדוֹת,</p></blockquote>
@@ -30,6 +33,7 @@
 <blockquote><p>וְאוֹמֵר לְנַפְשִׁי: שׁוּבִי.</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>שׁוּבִי לִמְנוּחָיְכִי,</p></blockquote>
 <blockquote><p>חַלִּי פְּנֵי אֱלֹהַיִךְ.</p></blockquote>
 <blockquote><p>וְגוּף הֶעָצֵב מִשְׁכִי</p></blockquote>
@@ -40,6 +44,7 @@
 <blockquote><p>וְלִבִּי יִשְׂמַח בְּטוּבִי.</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>בְּטוּבִי וּבְשִׂמְחָתִי</p></blockquote>
 <blockquote><p>אַזְכִּיר יְרוּשָׁלַיִם.</p></blockquote>
 <blockquote><p>וְיָסִיר יָהּ אַנְחָתִי</p></blockquote>
@@ -50,6 +55,7 @@
 <blockquote><p>יְשַׂמֵּחַ צוּרִי עָצְבִּי <a class="footnote" href="#fn:3" id="fnref:3" title="see footnote"><sup>3</sup></a></p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>עָצְבִּי רְאוֹתִי דַּלִּים</p></blockquote>
 <blockquote><p>כַּהוֹמִים בַּפְּתָחִים.</p></blockquote>
 <blockquote><p>וְרָשָׁע קַל הַקַּלִּים</p></blockquote>
@@ -60,6 +66,7 @@
 <blockquote><p>וְנִרְאֶה מֶלֶךְ וְנָבִיא?</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>וְנָבִיא יַשְׁמִיַע בְּשׂוֹרָה</p></blockquote>
 <blockquote><p>עַל רָאשֵׁי הֶהָרים.</p></blockquote>
 <blockquote><p>וְעָלַיו שְׁכִינָה שׁוֹרָה,</p></blockquote>
@@ -70,6 +77,7 @@
 <blockquote><p>אַעֲלֶה צְפוּנֵי נֶגְבִּי.</p></blockquote>
 <blockquote><p>אוֹר פָּנֶיךָ ה',</p></blockquote>
 <blockquote><p>נָתַתָּה שִׂמְחָה בְּלִבִּי.</p></blockquote>
+<br/>
 <blockquote><p>נֶגְבִּי הוּא חֶסֶד אֵל,</p></blockquote>
 <blockquote><p>מְשַׂגֵּב דַּלִּים וְרָשִׁים.</p></blockquote>
 <blockquote><p>בְּבוֹא צֶמַח אִיתִיאֵל <a class="footnote" href="#fn:6" id="fnref:6" title="see footnote"><sup>6</sup></a></p></blockquote>

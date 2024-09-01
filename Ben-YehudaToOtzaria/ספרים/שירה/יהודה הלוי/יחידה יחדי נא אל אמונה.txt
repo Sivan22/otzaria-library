@@ -23,4 +23,4 @@
 <blockquote><p>זְכוּרָיו גֹּאֲלִי חַי עוֹד יְבָרֵךְ</p></blockquote>
 <blockquote><p>וְכֹה לֶחִי לְאֵל חַי קוֹל רְנָנָה</p></blockquote>
 <blockquote><p>קְהַל נַפְשׁוֹת חֲסִידָיו יַעֲרֹכוּן</p></blockquote>
-<blockquote><p>בְּסוֹד חַיִּים שֶׁהֵם חַיִּים עֲדֶנָה.</p></blockquote>
+<blockquote><p>בְּסוֹד חַיִּים שֶׁהֵם חַיִּים עֲדֶנָה.<br/></p></blockquote>

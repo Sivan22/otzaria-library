@@ -8,4 +8,4 @@
 <blockquote><p><strong>מִ</strong>נִּי חֲצוֹת לַיְלָה פֶּרֶא רְדָפַנִי</p></blockquote>
 <blockquote><p>אַחְרֵי אֲשֶׁר רָמַס אוֹתִי חֲזִיר יָעַר</p></blockquote>
 <blockquote><p><strong>הַ</strong>קֵּץ אֲשֶׁר נֶחְתַּם הוֹסִיף עֲלֵי מַכְאוֹב</p></blockquote>
-<blockquote><p>לִבִּי וְאֵין מֵבִין לִי וַאֲנִי בָעַר.</p></blockquote>
+<blockquote><p>לִבִּי וְאֵין מֵבִין לִי וַאֲנִי בָעַר.<br/></p></blockquote>

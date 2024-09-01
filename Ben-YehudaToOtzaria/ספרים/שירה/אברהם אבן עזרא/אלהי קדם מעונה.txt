@@ -1,6 +1,7 @@
 <h1>אלהי קדם מעונה</h1>
 אברהם אבן עזרא
 <h2 id="אלהיקדםמעונהראברהםאבןעזרא">[אלהי קדם מעונה] / ר' אברהם אבן עזרא</h2>
+<br/>
 <blockquote><p>אֱלֹהֵי קֶדֶם מְעוֹנָה</p></blockquote>
 <blockquote><p>יְשׁוֹבֵב יוֹנָה הֶגְלָה</p></blockquote>
 <blockquote><p>אֲשֶׁר פַּעַם רִאשׁוֹנָה</p></blockquote>
@@ -9,6 +10,7 @@
 <blockquote><p>חֲזִיר יַעַר הִבְהִילָהּ</p></blockquote>
 <blockquote><p>לֹא מָצְאָה הַיּוֹנָה</p></blockquote>
 <blockquote><p>מָנוֹחַ לְכַף רַגְלָהּ.</p></blockquote>
+<br/>
 <blockquote><p>בֵּין שְׁפַתַּיִם תַּחַת</p></blockquote>
 <blockquote><p>הָאֵפֶר נִרְמָסָה</p></blockquote>
 <blockquote><p>וּבְשׁוּב מַרְאָהּ מָשְׁחָת</p></blockquote>
@@ -21,6 +23,7 @@
 <blockquote><p>וְצָעֲקָה יוֹם נִתְפָּשָׂה</p></blockquote>
 <blockquote><p>כְּמוֹ נַעֲרָה מְאֹרָשָׂה</p></blockquote>
 <blockquote><p>אֲשֶׁר אֵין מוֹשִׁיעַ לָהּ.</p></blockquote>
+<br/>
 <blockquote><p>רָעָה גָזְרוּ שְׁחָקִים</p></blockquote>
 <blockquote><p>וְהִנֵּה בָאָה כֻלָּהּ</p></blockquote>
 <blockquote><p>לְיוֹנַת אֵלֶם רְחוֹקִים</p></blockquote>
@@ -33,6 +36,7 @@
 <blockquote><p>וְאִם תַּגְבִּיהַּ קוֹלָהּ</p></blockquote>
 <blockquote><p>אֵין אוֹמֵר "הַרְפֵּה לָהּ</p></blockquote>
 <blockquote><p>כִּי נַפְשָׁהּ מָרָהֿֿלָהּ!"</p></blockquote>
+<br/>
 <blockquote><p>הֶעָוֹן הוֹשִׁיבָהּ</p></blockquote>
 <blockquote><p>שׁוֹמֵמָה כְבִישִׁימוֹן</p></blockquote>
 <blockquote><p>וְקוֹלָהּ כְּאוֹב בִּכְאֵבָהּ</p></blockquote>

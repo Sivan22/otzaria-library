@@ -11,4 +11,4 @@
 <blockquote><p>וְאֶדֹּם מִלְּדַבֵּר עִמְּךָ עוֹד</p></blockquote>
 <blockquote><p>10   וְעֵינַי מִלְּהַבִּיטָךְ אֲנַקֵּר,</p></blockquote>
 <blockquote><p>וְקֶשֶת פִּי אֲזַי תִּהְיֶה דְרוּכָה</p></blockquote>
-<blockquote><p>וּמֵעֶיךָ בְּחֵץ הַשִּׁיר אֲדַקֵּר. </p></blockquote>
+<blockquote><p>וּמֵעֶיךָ בְּחֵץ הַשִּׁיר אֲדַקֵּר.<br/> </p></blockquote>

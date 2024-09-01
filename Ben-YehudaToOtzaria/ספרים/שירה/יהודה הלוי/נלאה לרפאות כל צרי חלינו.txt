@@ -27,4 +27,4 @@
 <blockquote><p>לֹא בַחֲטָאֶיךָ וְחָלִילָה לְּךָ</p></blockquote>
 <blockquote><p>אַךְ בַּחֲטָאֵינוּ וְרֹב מִרְיֵנוּ</p></blockquote>
 <blockquote><p>הָאֵל אֲשֶׁר גָּזַר לְנַסּוֹתְךָ בְזֹאת</p></blockquote>
-<blockquote><p>יָשִׁיב אֲבֵדָתְךָ וְאֶת שִׁבְיֵנוּ.מנחמו על מות בנו</p></blockquote>
+<blockquote><p>יָשִׁיב אֲבֵדָתְךָ וְאֶת שִׁבְיֵנוּ.<br/><br/>מנחמו על מות בנו</p></blockquote>

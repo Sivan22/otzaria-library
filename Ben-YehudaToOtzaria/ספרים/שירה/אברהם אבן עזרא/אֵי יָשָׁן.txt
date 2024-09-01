@@ -9,7 +9,7 @@
 <blockquote><p>הִנָּם חֹל עֲדֵי תַקְדִּישֵׁם,</p></blockquote>
 <blockquote><p>בָּרוּךְ טַעֲמֶךָ</p></blockquote>
 <blockquote><p>בֶּן רֵכָב לְנַפְשׁוֹ אָשֵׁם</p></blockquote>
-<blockquote><p>נִזְעָם זוֹעֲמֶךָ.</p><p>הָבִיאוּ צֳרִי אָדֹם אֶל</p></blockquote>
+<blockquote><p>נִזְעָם זוֹעֲמֶךָ.</p><br/><p>הָבִיאוּ צֳרִי אָדֹם אֶל</p></blockquote>
 <blockquote><p>מַכּוֹת לֵב אֲנוּשׁוֹת,</p></blockquote>
 <blockquote><p>וִיחִי עוֹד, וְהָיָה גוֹאֵל</p></blockquote>
 <blockquote><p>מַרְפֵּא הַנְּפָשׁוֹת,</p></blockquote>
@@ -18,7 +18,7 @@
 <blockquote><p>עַד אֵלֵךְ, וְאָנָה אֲבַקְּשֵׁם,</p></blockquote>
 <blockquote><p>יֶהֱמוּ רַחֲמֶיךָ</p></blockquote>
 <blockquote><p>עָלַי אֵל, וְהוֹד הַלְבִּישֵׁם</p></blockquote>
-<blockquote><p>מִסּוּת נָעֳמֶךָ.</p><p>בִּקַּשְׁתִּי בְּקַצְוֵי תֵבֵל</p></blockquote>
+<blockquote><p>מִסּוּת נָעֳמֶךָ.</p><br/><p>בִּקַּשְׁתִּי בְּקַצְוֵי תֵבֵל</p></blockquote>
 <blockquote><p>מִי הוּא רַב פְּעָלִים</p></blockquote>
 <blockquote><p>זֶה חוֹשֵׁב וְזֶה שַׂר נֵכֶל,</p></blockquote>
 <blockquote><p>זֶה נֹשֵׂא מְשָׁלִים</p></blockquote>
@@ -27,7 +27,7 @@
 <blockquote><p>יַעֲרֹף לִקְחֲךָ כַּגֶּשֶׁם</p></blockquote>
 <blockquote><p>כִּי אֵל חִכְּמֶךָ,</p></blockquote>
 <blockquote><p>וְהַשּׁוֹאֵל בְּטוּבוֹ לַשֵּׁם</p></blockquote>
-<blockquote><p>יָקִים נָאֳמֶךָ.</p><p>תִּפְאֶרֶת שִׁמְךָ רַבָּה</p></blockquote>
+<blockquote><p>יָקִים נָאֳמֶךָ.</p><br/><p>תִּפְאֶרֶת שִׁמְךָ רַבָּה</p></blockquote>
 <blockquote><p>צוּרְךָ יִצְרֶךָ;</p></blockquote>
 <blockquote><p>נֵר מַעֲרָב אֲשֶׁר לֹא יִכְבֶּה</p></blockquote>
 <blockquote><p>בִּנְךָ אַחֲרֶיךָ,</p></blockquote>

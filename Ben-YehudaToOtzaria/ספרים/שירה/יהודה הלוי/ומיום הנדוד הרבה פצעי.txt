@@ -6,4 +6,4 @@
 <blockquote><p>וְאִם אָבֹא לְמֶרְחָץ לֹא לְחַבְּשָׁם</p></blockquote>
 <blockquote><p>אֲבָל לִבְכּוֹת עֲלֵי דוֹדַי וְרֵעָי</p></blockquote>
 <blockquote><p>וְרֹאַי יַחְשְׁבוּ בִכְיִי רְחִיצָה</p></blockquote>
-<blockquote><p>וְלֹא יֵדְעוּ אֲשֶׁר אַזִּיל דְּמָעָי. </p></blockquote>
+<blockquote><p>וְלֹא יֵדְעוּ אֲשֶׁר אַזִּיל דְּמָעָי.<br/> </p></blockquote>

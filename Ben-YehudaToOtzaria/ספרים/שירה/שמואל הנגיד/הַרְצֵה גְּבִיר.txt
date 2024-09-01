@@ -3,4 +3,4 @@
 <blockquote><p>הַרְצֵה גְּבִיר חָזָק וְאַל תָּחוּשׁ</p></blockquote>
 <blockquote><p>בִּדְבַר מְשָׁרְתָיו בַּחֲרוֹת אַפָּם</p></blockquote>
 <blockquote><p>וּרְצוֹן מְשָׁרְתִים אֵת גְּבִיר חַלָּשׁ</p></blockquote>
-<blockquote><p>תַּעַשׂ וְאַל תַּבְעֵר בְּךָ קִצְפָּם. </p></blockquote>
+<blockquote><p>תַּעַשׂ וְאַל תַּבְעֵר בְּךָ קִצְפָּם.<br/> </p></blockquote>

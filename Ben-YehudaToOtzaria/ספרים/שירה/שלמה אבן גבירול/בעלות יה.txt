@@ -6,4 +6,4 @@
 <blockquote><p>בַּעֲלוֹת יָהּ עַל לְבָבִי</p></blockquote>
 <blockquote><p>כִּי בְכֹל אֵין לָךְ דְּמוּת אֵין</p></blockquote>
 <blockquote><p>זִכְרְךָ תַּבַּע שְׂפָתִי</p></blockquote>
-<blockquote><p>אִם חֲשַׂכְתִּיהָ תְמָאֵן </p></blockquote>
+<blockquote><p>אִם חֲשַׂכְתִּיהָ תְמָאֵן<br/> </p></blockquote>

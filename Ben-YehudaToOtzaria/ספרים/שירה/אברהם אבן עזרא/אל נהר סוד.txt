@@ -7,4 +7,4 @@
 <blockquote><p>רַב כְּבוֹד יֻלְּדוּ בְּלִי רֹאשׁ וְסוֹף,</p></blockquote>
 <blockquote><p>כִּי לְמַכַּת הַזְּמַן הוּא צֳרִי,</p></blockquote>
 <blockquote><p>מַהֲלַל הַבֵּן הֲיֵשׁ לוֹ עֲרוֹךְ,</p></blockquote>
-<blockquote><p>רָם וּמִתְנַשֵּׁא אֲרִי בֶן אֲרִי. </p></blockquote>
+<blockquote><p>רָם וּמִתְנַשֵּׁא אֲרִי בֶן אֲרִי.<br/> </p></blockquote>

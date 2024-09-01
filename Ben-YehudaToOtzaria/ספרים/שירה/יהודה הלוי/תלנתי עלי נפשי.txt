@@ -7,4 +7,4 @@
 <blockquote><p>בְּהַחְלִיפִי עֲצֵי עֵדֶן</p></blockquote>
 <blockquote><p>בְּמַלּוּחַ עֲלֵי שִׂיחַ,</p></blockquote>
 <blockquote><p>וְקַצְתִּי בֶאֱכֹל הַמָן</p></blockquote>
-<blockquote><p>וּבִקַשְׁתִּי אֲבַטִּיחַ! </p></blockquote>
+<blockquote><p>וּבִקַשְׁתִּי אֲבַטִּיחַ!<br/> </p></blockquote>

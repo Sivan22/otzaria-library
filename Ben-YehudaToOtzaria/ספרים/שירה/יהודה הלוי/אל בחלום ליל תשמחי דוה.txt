@@ -7,6 +7,7 @@
 <blockquote><p>בֹּקֶר מְבַקֵּר מִחְיַת מִכְוָה</p></blockquote>
 <blockquote><p>לִפְנֵי צְבָא שַׁחַק חֲצוֹת לַיִל</p></blockquote>
 <blockquote><p>עָבַר וְאֶל בֵּית אוֹהֲבוֹ נִלְוָה</p></blockquote>
+<br/>
 <blockquote><p>כִּמְעַט גְּזָלוּהוּ בְנֵי עַיִשׁ</p></blockquote>
 <blockquote><p>לוּלֵי הֱיוֹתוֹ מִבְּנֵי חַוָּה</p></blockquote>
 <blockquote><p>דִּמָּה לְדַלּוּתִי חֲלָצָיו וּלְ-</p></blockquote>
@@ -52,4 +53,4 @@
 <blockquote><p>וּלְרַב וְתַלְמִידָיו קְרָא כָזֹאת</p></blockquote>
 <blockquote><p>מֵאִישׁ הֱיוֹת בִּמְשָׁרֲתָיו אִוָּה</p></blockquote>
 <blockquote><p>וּלְכֻלְּכֶם יִקְרָא אֱלֹהֵי עַד</p></blockquote>
-<blockquote><p>רֹב עֹז וְרֹב שִׂמְחָה וְרֹב חֶדְוָה.</p></blockquote>
+<blockquote><p>רֹב עֹז וְרֹב שִׂמְחָה וְרֹב חֶדְוָה.<br/></p></blockquote>

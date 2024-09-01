@@ -6,3 +6,4 @@
 <blockquote><p>וְעִנָּה הַנְּדוֹד יִתְרוֹ;</p></blockquote>
 <blockquote><p>וְזֶה פֵּרַשׁ בְּפָרָשָׁה</p></blockquote>
 <blockquote><p>תְחִלָּתָהּ דְּבָר יִתְרוֹ.</p></blockquote>
+<br/>

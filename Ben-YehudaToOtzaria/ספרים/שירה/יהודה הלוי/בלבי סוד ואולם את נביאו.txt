@@ -7,4 +7,4 @@
 <blockquote><p>והִרְחַבְתִּיו לְתִתּוֹ מַחֲנֶה לָךְ</p></blockquote>
 <blockquote><p>עֲדֵי גָדַל וְגַלְגַּל לֹא נְשִׂיאוֹ</p></blockquote>
 <blockquote><p>וְלֹא אֶתְמַהּ עֲלֵי רֹחַב לְבָבִי</p></blockquote>
-<blockquote><p>וְאֶתְמַהּ כִּי יְדִידוּתְךָ מְלוֹאוֹ</p></blockquote>
+<blockquote><p>וְאֶתְמַהּ כִּי יְדִידוּתְךָ מְלוֹאוֹ<br/></p></blockquote>

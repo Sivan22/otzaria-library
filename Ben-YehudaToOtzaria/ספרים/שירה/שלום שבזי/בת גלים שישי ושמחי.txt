@@ -11,6 +11,7 @@
 <blockquote><p>שִׁבְטַי, חֶבֶל נַחֲלָתִי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>אִמְרָתִי בְּמַעֲמָד סִינַי</p></blockquote>
 <blockquote><p>תְּעוֹרֵר עַמִּי בְּגוֹלָה.</p></blockquote>
 <blockquote><p>אֲשֶׁר הֵם נִקְָאִים בָּנַי,</p></blockquote>
@@ -23,6 +24,7 @@
 <blockquote><p>תָּשׁוּבָה לִמְנוּחָתִי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>לִמְנוּחָתִי תָּשׁוּבָה</p></blockquote>
 <blockquote><p>רַעְיָה גּוֹלָה בְּתוֹךְ עַמִּים.</p></blockquote>
 <blockquote><p>אָז יִשְׂמְחוּ בְּנֵי הָאֲהוּבָה</p></blockquote>
@@ -35,6 +37,7 @@
 <blockquote><p>וְלָבוּשׁ מֵהוֹד שְׁכִינָתִי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>שְׁכִינָתִי, סוֹבְבִי דְּגָלַי</p></blockquote>
 <blockquote><p>הַקְּרוֹבִים בְּהֵיכָלַיִךְ .</p></blockquote>
 <blockquote><p>הָעִירִי זִקְנֵי קְהָלַי</p></blockquote>
@@ -47,6 +50,7 @@
 <blockquote><p>בַּשְּׂרִי דָּל בִּישׁוּעָתִי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>בִּישׁוּעָתִי בָּשְּׂרִי דָּל,</p></blockquote>
 <blockquote><p>עוֹשֶׂה צֶדֶק וּמֵישָׁרִים.</p></blockquote>
 <blockquote><p>קוֹרֵא בְּיוֹם זֶה לֹא יֶחְדָל</p></blockquote>
@@ -59,6 +63,7 @@
 <blockquote><p>חֶסֶד נְעוּרִים זָכַרְתִּי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>זָכַרְתִּי חֶסֶד נְעוּרִים</p></blockquote>
 <blockquote><p>לְבַת נָדִיב הַיְפֵיפִיָּה,</p></blockquote>
 <blockquote><p>וְאָדִין מְלָכִים אַכְזָרִים,</p></blockquote>
@@ -71,6 +76,7 @@
 <blockquote><p>כִּי בָּאָה עֵת יְשׁוּעָתִי.</p></blockquote>
 <blockquote><p>יַעֲרֹף כַּמָּטָר לִקְחִי,</p></blockquote>
 <blockquote><p>תִּזַּל כַּטַּל אִמְרָתִי.</p></blockquote>
+<br/>
 <blockquote><p>יְשׁוּעָתִי קְרוֹבָה לָבוֹא,</p></blockquote>
 <blockquote><p>זָכַרְתִּי בְּרִית רִאשׁוֹנִים.</p></blockquote>
 <blockquote><p>יָשׁוּב עַמִּי לְמוֹשָׁבוֹ,</p></blockquote>
@@ -81,4 +87,5 @@
 <blockquote><p>יֹאמַר שׁוּבוּ שׁוֹבָבִים.</p></blockquote>
 <blockquote><p>אָז עַל שַׁעַר בַּת רַבִּים</p></blockquote>
 <blockquote><p>תָּגִיל וְתִשְׂמַח יְחִידָתִי.</p></blockquote>
+<br/>
 <ol><li id="fn:1"><p>עפ“י בראשית י”ז א'. <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li><li id="fn:2"><p>אַהֲרֹן הַכֹּהֵן, עפ"י שמות ל‘ ז’. <a class="reversefootnote" href="#fnref:2" title="return to body"> ↩</a></p></li><li id="fn:3"><p>פירוש: שַחִיחַה לַגְ'בַה (אֲדָמָה צְחִיחָה וִ“יגֵעָה”). <a class="reversefootnote" href="#fnref:3" title="return to body"> ↩</a></p></li><li id="fn:4"><p>מחוק: יָבוֹא לְהֵיכָלוֹ. <a class="reversefootnote" href="#fnref:4" title="return to body"> ↩</a></p></li><li id="fn:5"><p>כינוי למשיח, עפ“י סנהדרין צ”ח ע"ב. <a class="reversefootnote" href="#fnref:5" title="return to body"> ↩</a></p></li></ol>

@@ -77,4 +77,4 @@
 <blockquote><p>נְעִימוֹת יָדְךָ שִׁדָּה וְשִׁדּוֹת</p></blockquote>
 <blockquote><p>וְכִנּוֹרוֹת וְצִנּוֹרוֹת וְעוֹפוֹת</p></blockquote>
 <blockquote><p>תְּשַׁלֵּמְנָה לְךָ הַשָּׂר שְׁלוֹמוֹת</p></blockquote>
-<blockquote><p>מְרֻבָּבוֹת כְּפוּלוֹת מַאֲלִיפוֹת.</p></blockquote>
+<blockquote><p>מְרֻבָּבוֹת כְּפוּלוֹת מַאֲלִיפוֹת.<br/></p></blockquote>

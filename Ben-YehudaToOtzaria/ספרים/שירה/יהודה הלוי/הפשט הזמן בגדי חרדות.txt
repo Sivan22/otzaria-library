@@ -67,4 +67,4 @@
 <blockquote><p>וְהִתַּרְתִּים לְעֵת כָּזֹאת לְבָנָיו</p></blockquote>
 <blockquote><p>וְלִמּוּדָיו, לְתִשְׁבָּחוֹת וְתוֹדוֹת</p></blockquote>
 <blockquote><p>וְהוּא רַחוּם וְלוֹ נָאֶה לְכַפֵּר</p></blockquote>
-<blockquote><p>וְאוֹדֶה לּוֹ וְלוֹ נָאֶה לְהוֹדוֹת.</p></blockquote>
+<blockquote><p>וְאוֹדֶה לּוֹ וְלוֹ נָאֶה לְהוֹדוֹת.<br/></p></blockquote>

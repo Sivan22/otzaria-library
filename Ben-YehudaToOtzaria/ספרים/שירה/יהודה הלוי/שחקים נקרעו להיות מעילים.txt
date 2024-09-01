@@ -9,4 +9,4 @@
 <blockquote><p>אֲשֶׁר תַּחְנֶה חֲנוֹת שֶׁמֶשׁ בְּהִלָּהּ</p></blockquote>
 <blockquote><p>בְּאֹהָלִים אֲרָגוּם הָאֲהָלִים</p></blockquote>
 <blockquote><p>תְּמַהּ אֵיךְ יַעֲשׂוּ סֻכָּה לְשֶׁמֶשׁ</p></blockquote>
-<blockquote><p>הֲשֶׁמֶשׁ תַּחֲנֶה תַּחַת צְלָלִים</p></blockquote>
+<blockquote><p>הֲשֶׁמֶשׁ תַּחֲנֶה תַּחַת צְלָלִים<br/></p></blockquote>

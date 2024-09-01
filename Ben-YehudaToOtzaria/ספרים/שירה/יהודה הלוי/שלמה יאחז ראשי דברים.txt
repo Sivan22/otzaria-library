@@ -4,4 +4,4 @@
 <blockquote><p>שְׁלֹמֹה יֶאֱחֹז רָאשֵׁי דְבָרִים</p></blockquote>
 <blockquote><p>וְיֹאמַר כִּי אֲנִי מַשְׂכִּיל וּמַעְרִים</p></blockquote>
 <blockquote><p>אֲחֵרִים יֹאמְרוּ כִּי אֵין תְּבוּנָה</p></blockquote>
-<blockquote><p>בְּקִרְבּוֹ וַהֲלָכָה כַּאֲחֵרִים.</p></blockquote>
+<blockquote><p>בְּקִרְבּוֹ וַהֲלָכָה כַּאֲחֵרִים.<br/></p></blockquote>

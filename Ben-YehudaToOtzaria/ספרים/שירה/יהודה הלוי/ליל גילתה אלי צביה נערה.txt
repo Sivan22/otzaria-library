@@ -5,4 +5,4 @@
 <blockquote><p>צָהֹב כְּעֵין אֹדֶם בְּכַסֹּתוֹ עֲלֵי</p></blockquote>
 <blockquote><p>רַקַּת בְּדֹלַח לַח תְּמוּנַת תָּאֳרָהּ</p></blockquote>
 <blockquote><p>דָמְתָה כְשֶׁמֶשׁ בַּעֲלֹתָהּ תַּאֲדִים</p></blockquote>
-<blockquote><p>אֶת עַנְנֵי נֶשֶׁף בְּלַהַב זָהֳרָהּ.</p></blockquote>
+<blockquote><p>אֶת עַנְנֵי נֶשֶׁף בְּלַהַב זָהֳרָהּ.<br/></p></blockquote>

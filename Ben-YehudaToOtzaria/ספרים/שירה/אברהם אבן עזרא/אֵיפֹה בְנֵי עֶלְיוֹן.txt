@@ -20,4 +20,4 @@
 <blockquote><p>חֶרֶב לְעָזְרֶהָ!</p></blockquote>
 <blockquote><p>אֶתְעוֹרְרָה, / אֶתְגַבְּרָה / עַל שׁוֹרְרָה / מִשְׂתּוֹרְרָה, / פֶּה פָעֲרָה</p></blockquote>
 <blockquote><p>עַל סֹעֲרָה, / וַאְחַבְּרָה / שֶׂה פֻזְּרָה / לִי שִׂבְּרָה, / לָהּ אֶזְכְּרָה</p></blockquote>
-<blockquote><p>חֶסֶד נְעוּרֶיהָ!״</p></blockquote>
+<blockquote><p>חֶסֶד נְעוּרֶיהָ!״</p><br/></blockquote>

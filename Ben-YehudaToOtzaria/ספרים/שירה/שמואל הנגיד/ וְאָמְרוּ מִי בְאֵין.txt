@@ -11,4 +11,4 @@
 <blockquote><p>וּמִמִּי אַתְּ בְּעוֹלַם-אֵל עֲנִיתִים</p></blockquote>
 <blockquote><p>אֲנִי מֵעָם לְאֵל פּוֹחְדִים וְרוֹהִים</p></blockquote>
 <blockquote><p>וּמַה-תַּעַשׂ בְּקוּם הָאֵל עֲנִיתִים</p></blockquote>
-<blockquote><p>אֲשׁוֹחֵחַ בְּעַד רַחְמָיו וְאָהִים.</p></blockquote>
+<blockquote><p>אֲשׁוֹחֵחַ בְּעַד רַחְמָיו וְאָהִים.<br/></p></blockquote>

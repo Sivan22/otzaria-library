@@ -9,4 +9,4 @@
 <blockquote><p>וּבִנְדִיבוּת מְקֻיֶּמֶת</p></blockquote>
 <blockquote><p>בְּתוֹךְ לִבּוֹ וּמִכְמַנּוֹ</p></blockquote>
 <blockquote><p>כְּמוֹ אֶזְרָח אֲשֶׁר הוּכַן</p></blockquote>
-<blockquote><p>עֲלֵי כַנוֹ וְעִם קִנּוֹ. </p></blockquote>
+<blockquote><p>עֲלֵי כַנוֹ וְעִם קִנּוֹ.<br/> </p></blockquote>

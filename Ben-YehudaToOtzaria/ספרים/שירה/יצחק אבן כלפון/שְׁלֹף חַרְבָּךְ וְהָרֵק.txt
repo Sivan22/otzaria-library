@@ -7,4 +7,4 @@
 <blockquote><p>וְאֵיךְ אוּכַל אֲבָנֶיךָ לְהָשִׁיב</p></blockquote>
 <blockquote><p>לְךָ אוֹ אֵיךְ חֲצָצֶיךָ [לְלַקֵּט],</p></blockquote>
 <blockquote><p>וְאַתְּ הָאָח אֲשֶׁר הִרְבָּה חֲסָדָיו</p></blockquote>
-<blockquote><p>וְהָיִיתִי בְשֻׁלְחָנוֹ מְלַקֵּט!</p></blockquote>
+<blockquote><p>וְהָיִיתִי בְשֻׁלְחָנוֹ מְלַקֵּט!<br/></p></blockquote>

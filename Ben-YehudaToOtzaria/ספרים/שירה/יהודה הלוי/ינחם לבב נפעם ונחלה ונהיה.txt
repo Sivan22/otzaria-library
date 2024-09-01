@@ -5,4 +5,4 @@
 <blockquote><p>הֲלֹא אִם יְמִיתֵנוּ חֲרוֹנוֹ וְנִגְוְעָה</p></blockquote>
 <blockquote><p>כְּמוֹ כֵן יְחַיּוּנוּ חֲסָדָיו וְנִחֲיֶה</p></blockquote>
 <blockquote><p>וְיִקְרָא לְאוֹר חָדָשׁ כְּרֶגַע וְיַעֲמֹד</p></blockquote>
-<blockquote><p>דְּבַר אֵל אֲשֶׁר אָמַר יְהִי אוֹר וְיִהֲיֶה.</p></blockquote>
+<blockquote><p>דְּבַר אֵל אֲשֶׁר אָמַר יְהִי אוֹר וְיִהֲיֶה.<br/></p></blockquote>

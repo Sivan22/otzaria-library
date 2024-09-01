@@ -7,4 +7,4 @@
 <blockquote><p>וְחֶשְׁבּוֹן מֵ"ם</p></blockquote>
 <blockquote><p>וּמַחְצִית מֵ"ם</p></blockquote>
 <blockquote><p>וְשִׁשָּׁה יִפְתְּרוּ-</p></blockquote>
-<blockquote><p>אֹתוֹ.יוסף</p></blockquote>
+<blockquote><p>אֹתוֹ.<br/><br/>יוסף</p></blockquote>

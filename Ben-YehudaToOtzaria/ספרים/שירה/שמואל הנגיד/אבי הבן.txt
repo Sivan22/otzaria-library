@@ -7,4 +7,4 @@
 <blockquote><p>וְנִפְּחוּ בוֹ לְהַשְׂכִּילוֹ</p></blockquote>
 <blockquote><p>וְלֹא נֻפַּח כְּפֶחָמִים</p></blockquote>
 <blockquote><p>עֲזֹב אֹתוֹ וְהִשָּעֵן</p></blockquote>
-<blockquote><p>בְּמוּסָרוֹ עֲלֵי יָמִים. </p></blockquote>
+<blockquote><p>בְּמוּסָרוֹ עֲלֵי יָמִים.<br/> </p></blockquote>

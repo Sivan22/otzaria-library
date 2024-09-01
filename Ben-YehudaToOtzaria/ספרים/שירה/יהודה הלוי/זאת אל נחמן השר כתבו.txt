@@ -13,4 +13,4 @@
 <blockquote><p>הִנֵּה זִכְרוֹ עַל מִגְדָּל זֶה</p></blockquote>
 <blockquote><p>נִצָּב לָעַד כַּדָּרְבֹנוֹת</p></blockquote>
 <blockquote><p>וּבְחוֹמֹתָיו לוֹ יָד וָשֵׁם</p></blockquote>
-<blockquote><p>טוֹב מִבָּנִים גַּם מִבָּנוֹת.בחזקו בדקי בית-הכנסת.</p></blockquote>
+<blockquote><p>טוֹב מִבָּנִים גַּם מִבָּנוֹת.<br/><br/>בחזקו בדקי בית-הכנסת.</p></blockquote>

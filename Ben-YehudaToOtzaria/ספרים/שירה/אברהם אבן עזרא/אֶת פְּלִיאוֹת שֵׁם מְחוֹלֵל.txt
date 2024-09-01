@@ -1,6 +1,7 @@
 <h1>[אֶת פְּלִיאוֹת שֵׁם מְחוֹלֵל]</h1>
 אברהם אבן עזרא
 <p>רשות לנשמת</p>
+<br/>
 <blockquote><p><strong>אֶ</strong>ת פְּלִיאוֹת שֵׁם מְחוֹלֵל</p></blockquote>
 <blockquote><p>כָּל מְחוֹלֵל אֵיךְ יְמַלֵּל?</p></blockquote>
 <blockquote><p><strong>בָּ</strong>א בְסוֹד מַעֲשָׂיו וְיָרִים</p></blockquote>

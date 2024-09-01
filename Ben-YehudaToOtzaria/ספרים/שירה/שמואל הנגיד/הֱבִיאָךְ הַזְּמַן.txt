@@ -7,4 +7,4 @@
 <blockquote><p>וְתִתְאַהֵב בְּיוֹם טוֹב לַחֲבֵרָךְ</p></blockquote>
 <blockquote><p>וְתִתְחַבֵּר בְּצָרָתוֹ לְצָרָיו</p></blockquote>
 <blockquote><p>הֲתַשְׁקֶה גַנְּךָ בַּסְּתָו וְתָשׁוּב</p></blockquote>
-<blockquote><p>וְתַשְׁקִיעַ בְּקַיִץ מֵי נְהָרָיו. </p></blockquote>
+<blockquote><p>וְתַשְׁקִיעַ בְּקַיִץ מֵי נְהָרָיו.<br/> </p></blockquote>

@@ -28,4 +28,4 @@
 <blockquote><p>מָה-אָנִי אוֹ פִשְׁעִי נֶגְדָּךְ</p></blockquote>
 <blockquote><p>אַל תִּקַּחֵנִי בִּפְשִׁיעָה</p></blockquote>
 <blockquote><p>אִם הֲרֵעוֹתִי אַל תָּרַע לִי</p></blockquote>
-<blockquote><p>כִּי לֹא תוֹעִיל לָךְ הָרָעָה. </p></blockquote>
+<blockquote><p>כִּי לֹא תוֹעִיל לָךְ הָרָעָה.<br/> </p></blockquote>

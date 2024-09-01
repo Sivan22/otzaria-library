@@ -24,4 +24,4 @@
 <blockquote><p>וָאָבִין כִּי אֶרֶץ שָׁפְלָה</p></blockquote>
 <blockquote><p>וּשְׁמֵי שָׁמַיִם גָּבָהוּ</p></blockquote>
 <blockquote><p>גַּם שׁוֹכְנֵיהֶם אֵל יַשְׁחִיתֵם</p></blockquote>
-<blockquote><p>עַד אֵין עוֹלָם יִשּׁאֶר הוּא. </p></blockquote>
+<blockquote><p>עַד אֵין עוֹלָם יִשּׁאֶר הוּא.<br/> </p></blockquote>

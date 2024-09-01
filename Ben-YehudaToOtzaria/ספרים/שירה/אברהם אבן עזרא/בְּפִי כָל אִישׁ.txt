@@ -1,7 +1,7 @@
 <h1>בְּפִי כָל אִישׁ</h1>
 אברהם אבן עזרא
 <p>על שם אברהם</p>
-<blockquote><p>בְּפִי כָל אִישׁ מְזִמָּתוֹ,</p></blockquote>
+<blockquote><br/><p>בְּפִי כָל אִישׁ מְזִמָּתוֹ,</p></blockquote>
 <blockquote><p>וְחָכְמַת פִּיו תְּהִלָּתוֹ,</p></blockquote>
 <blockquote><p>וְאִוַּלְתּוֹ</p></blockquote>
 <blockquote><p>תְּשׁוּעָתוֹ.</p></blockquote>

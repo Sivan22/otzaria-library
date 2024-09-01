@@ -21,4 +21,4 @@
 <blockquote><p>הָבָה נְחַדֵּשׁ אֶת מְלוּכַת הַבְּרִית</p></blockquote>
 <blockquote><p>כִּימֵי זְמַן קֶדֶם תְּהִי נִמְשָׁחַת</p></blockquote>
 <blockquote><p>יִהְיוּ כְלֵי הָרִיב וְהַמָּדוֹן כְּלֹא</p></blockquote>
-<blockquote><p>הָיוּ וְנִבְטַח מֵרְאוֹת מִשְׁלָחַת. </p></blockquote>
+<blockquote><p>הָיוּ וְנִבְטַח מֵרְאוֹת מִשְׁלָחַת.<br/> </p></blockquote>

@@ -9,4 +9,4 @@
 <blockquote><p>וְעַמּוּד אֵשׁ וְעַמּוּדֵי עֲנָנִים</p></blockquote>
 <blockquote><p>וְעֵינֵי כֹל מְצַפּוֹת בָּם וְחוֹזוֹת</p></blockquote>
 <blockquote><p>וּמִשָּׁם חֻצְּבוּ בַּעְלֵי בְרִית אֵל</p></blockquote>
-<blockquote><p>וּפִנּוֹת עַם אֲדֹנָי שָׁם גְּרוּזוֹת.</p></blockquote>
+<blockquote><p>וּפִנּוֹת עַם אֲדֹנָי שָׁם גְּרוּזוֹת.<br/></p></blockquote>

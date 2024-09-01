@@ -7,4 +7,4 @@
 <blockquote><p>אַל נָא בְּנִי תִּהְיֶה כְּכֹרֵת אֶת-</p></blockquote>
 <blockquote><p>יָדוֹ בְיָדוֹ בַּעֲלוֹת אַפּוֹ</p></blockquote>
 <blockquote><p>מִי יַעֲשֶׂה כָזֹאת בְּעֵת קִצְפּוֹ</p></blockquote>
-<blockquote><p>יִבְכֶּה בְלֹא הוֹעִיל כְּשֹׁךְ קִצְפּוֹ. </p></blockquote>
+<blockquote><p>יִבְכֶּה בְלֹא הוֹעִיל כְּשֹׁךְ קִצְפּוֹ.<br/> </p></blockquote>

@@ -7,4 +7,4 @@
 <blockquote><p>עֹצֶם כְּבוֹדוֹ הֵכִיל כֹּל וְכֵן נִקְרָא</p></blockquote>
 <blockquote><p>מָקוֹם לְכֹל כִּי לֹא מָקוֹם יְכִילֵהוּ</p></blockquote>
 <blockquote><p>רֹאָה וְלֹא נִרְאֵית לְרֹאֶה וְלֹא נִרְאֶה</p></blockquote>
-<blockquote><p>בֹּאִי וְהוֹדִי אֶת אֲדֹנָי וּבָרְכֵהוּ.</p></blockquote>
+<blockquote><p>בֹּאִי וְהוֹדִי אֶת אֲדֹנָי וּבָרְכֵהוּ.<br/></p></blockquote>

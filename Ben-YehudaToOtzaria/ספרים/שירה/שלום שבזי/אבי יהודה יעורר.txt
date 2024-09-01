@@ -29,4 +29,4 @@
 <blockquote><p>יְחַיֵּנוּ           בְּחַסְדּוֹ יוֹצְרֵנוּ       וְיִרְצֵנוּ</p></blockquote>
 <blockquote><p>עֲבוּר יַעְקֹב בְּחִירוֹ:</p></blockquote>
 <blockquote><p>וּמֵרוּחוֹ          יְלַבֵּשׁ אֶת מְשִׁיחוֹ     וְיַצְלִיחוֹ</p></blockquote>
-<blockquote><p>וְיָאִירָה לְנֵרוֹ:</p></blockquote>
+<blockquote><p>וְיָאִירָה לְנֵרוֹ:<br/></p></blockquote>

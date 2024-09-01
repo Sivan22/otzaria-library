@@ -55,4 +55,4 @@
 <blockquote><p>בְּהִלָּחֵם אֱנוֹש יֻכָּת חֲנִיתוֹ,</p></blockquote>
 <blockquote><p>וְעֵת יָרוּץ אֲזַי יִמְעַד אֲשׁוּרוֹ-</p></blockquote>
 <blockquote><p>וְכֵן אִישׁ יַדְבְּקוּ אוֹתוֹ תְלָאוֹת,</p></blockquote>
-<blockquote><p>וְלוּ יָשִׂים בְּבֵית נֹגַהּ דְּבִירוֹ. </p></blockquote>
+<blockquote><p>וְלוּ יָשִׂים בְּבֵית נֹגַהּ דְּבִירוֹ.<br/> </p></blockquote>

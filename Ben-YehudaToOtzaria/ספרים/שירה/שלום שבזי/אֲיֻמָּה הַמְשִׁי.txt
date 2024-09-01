@@ -10,7 +10,7 @@
 <blockquote><p>עֲדַת אֵיתָנִים</p></blockquote>
 <blockquote><p>שֶׁהֶם נֶאֱמָנִים</p></blockquote>
 <blockquote><p>בְּאֶרֶץ קָדְשִׁי    /    נִשְׂמַח בְּבוֹא כַּלָּה כְּלוּלָה</p></blockquote>
-<blockquote><p>וּמַה טוֹב שָׁרְשִׁי  /   צַמֶּרֶת אֶרֶז הַשְּׁתוּלָה:</p></blockquote>
+<blockquote><p>וּמַה טוֹב שָׁרְשִׁי  /   צַמֶּרֶת אֶרֶז הַשְּׁתוּלָה:<br/></p></blockquote>
 <h3 id="ב">ב</h3>
 <blockquote><p>לְדוֹדִי חוֹשֵׁק     /   כִּי הוּא מְנַת כּוֹסִי וְחַלְקִי</p></blockquote>
 <blockquote><p>וּמִיַּד עוֹשֵׁק     /   הוּא גּוֹאֲלִי תָּמִיד וְחַזְקִי</p></blockquote>
@@ -20,6 +20,7 @@
 <blockquote><p>עַל יַד בַּת כֹּל</p></blockquote>
 <blockquote><p>בְּחֵן וּבְרַחְשִׁי    /    טוּבוֹ בְּכָל מָקוֹם מְמֻלָּא</p></blockquote>
 <blockquote><p>וְקָו הַשִּׁשִּׁי     /    הִנְחִיל עֲדָתוֹ הָאֲצֻלָּה:</p></blockquote>
+<br/>
 <h3 id="ג">ג</h3>
 <blockquote><p>שְׁמוֹ יִתְבָּרַךְ נוֹרָא,  /  מָעוֹן כָּל הַבְּרָכוֹת</p></blockquote>
 <blockquote><p>לְשֻׁלְחָן עָרַךְ לָנוּ,   /   וְרֹב טוֹבוֹת מְשׁוּכוֹת</p></blockquote>
@@ -29,6 +30,7 @@
 <blockquote><p>לְהוֹסִיף טַלִּים</p></blockquote>
 <blockquote><p>וְיַזְרִיח שִׁמְשִׁי    /   וִיקוֹמְמָה קִרְיָה שְׁכוּלָה</p></blockquote>
 <blockquote><p>וְיָרוּם רָאשִׁי     /   נַפְשִׁי בְּחֵן תִּהְיֶה גְּאֻלָּה:</p></blockquote>
+<br/>
 <h3 id="ד">ד</h3>
 <blockquote><p>בְּלִיל חָלַמְתִּי    /    וַאֲנִי בְּאוּזַל הַבְּנוּיָה</p></blockquote>
 <blockquote><p>וְנִתְחַבַּרְתִּי     /    עִם הַיְּשִׁיבָה הַשְׁרוּיָה</p></blockquote>
@@ -38,6 +40,7 @@
 <blockquote><p>מִשְׁמָר אִנְבִּי</p></blockquote>
 <blockquote><p>וְגֶפֶן שִׁבְשִׁי     /    הֵם כַּחֲצִי גֹּרֶן עֲגֻלָה</p></blockquote>
 <blockquote><p>לִבְשִׁי בִּגְדֵי פָּאֵר,   /  שִׂמְחִי כְּאַוְלָא</p></blockquote>
+<br/>
 <h3 id="ה">ה</h3>
 <blockquote><p>זְכוּת הַתּוֹרָה   /     תָּגֵן עָלַי שִׁבְטֵי עֲדָתִי</p></blockquote>
 <blockquote><p>בַּקֶּרֶן אוֹרָה    /    אַל חַי יְסוֹבֵב נַחַלָתִי</p></blockquote>
@@ -47,6 +50,7 @@
 <blockquote><p>וְאֵשׁ דָּת לָמוֹ</p></blockquote>
 <blockquote><p>בְּיוֹם וּבְרַמְשִׁי    /   תַּנְהִיר לְדַרְכִּי הַסְּלוּלָה</p></blockquote>
 <blockquote><p>יְחִידָה חוּשִׁי     /   רַב לָךְ בְּיָם טָבַע מְצוּלָה:</p></blockquote>
+<br/>
 <h3 id="ו">ו</h3>
 <blockquote><p>יִלּוֹד מִשַּׁתָּא   /  שִׁית לִבְּךָ לְחָבֵר שִׁיר נְגִינָה</p></blockquote>
 <blockquote><p>וְקַח לְךָ רֵאשִׁית  / תּוֹרַת אֱמֶת חָכְמָה וּבִינָה</p></blockquote>
@@ -55,4 +59,4 @@
 <blockquote><p>וְהָכֵן צֵידָה</p></blockquote>
 <blockquote><p>וְקָרְבָּן תּוֹדָה</p></blockquote>
 <blockquote><p>וְטוֹב לֹא תִּנְשִׁי   /    סוֹד הַתְּעוּדָה לֹא יְסוּלָּא</p></blockquote>
-<blockquote><p>וְתָשׁוּב חָפְשִׁי    /    חַטָּתְךָ תִּהְיֶה מְחוּלָה </p></blockquote>
+<blockquote><p>וְתָשׁוּב חָפְשִׁי    /    חַטָּתְךָ תִּהְיֶה מְחוּלָה<br/> </p></blockquote>
