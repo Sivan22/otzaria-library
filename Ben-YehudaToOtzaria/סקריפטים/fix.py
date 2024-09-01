@@ -47,7 +47,7 @@ def process_body_html(body_html):
         if tag.name not in supported_tags:
             tag.unwrap()
     for tag in soup.find_all():
-        if not tag.get_text(strip=True):  # If the tag has no text
+        if not tag.get_text(strip=True) and tag.name != "br":  # If the tag has no text
             tag.decompose() 
         
     for tag in soup.find_all(recursive=False):
