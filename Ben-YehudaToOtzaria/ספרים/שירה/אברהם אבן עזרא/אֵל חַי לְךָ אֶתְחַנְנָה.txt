@@ -1,0 +1,11 @@
+<h1>אֵל חַי לְךָ אֶתְחַנְנָה</h1>
+אברהם אבן עזרא
+<p>על ספר ״כלי נחשת״ לתלמידו חנניה</p>
+<blockquote><p>אֵל חַי לְךָ אֶתְחַנְנָה,</p></blockquote>
+<blockquote><p>עֵזֶר לְבֶן עֶזְרָא תְּנָה,</p></blockquote>
+<blockquote><p>נַפְשׁוֹ בְגָלוּת נַעֲנָה,</p></blockquote>
+<blockquote><p>עַל רַחֲמֶיךָ נִשְׁעֲנָה,</p></blockquote>
+<blockquote><p>גַּלֵּה תְבוּנָה נִצְפְּנָה</p></blockquote>
+<blockquote><p>אֵלָיו, וּמַעֲשָׂיו כּוֹנֲנָה,</p></blockquote>
+<blockquote><p>תַּלְמִיד חֲכַם לֵב חוֹנְנָה,</p></blockquote>
+<blockquote><p>כִּי בֵן שְׁמוֹ וּנְרַנְנָה.</p></blockquote>

@@ -1,0 +1,10 @@
+<h1>אָבִי אָבִי</h1>
+אברהם אבן עזרא
+<blockquote><p>אָבִי אָבִי מָתַי תָּבִיא</p></blockquote>
+<blockquote><p>אֶת אֵלִיָּהוּ הַנָּבִיא;</p></blockquote>
+<blockquote><p>בְּלֵב נִשְׁבָּר אֲקַדֶּמְךָ,</p></blockquote>
+<blockquote><p>וְאֶמְצָא חֵן בְּעֵינֶיךָ;</p></blockquote>
+<blockquote><p>רְאֵה נִשְׁאַר מְעַט מִזְעָר,</p></blockquote>
+<blockquote><p>וְלֹא כַבִּיר אֲבָל נַעַר.</p></blockquote>
+<blockquote><p>מִנְעִי קוֹלֵךְ מִבֶּכִי,</p></blockquote>
+<blockquote><p>וְהַטִּי בַת וּלְכִי.</p></blockquote>

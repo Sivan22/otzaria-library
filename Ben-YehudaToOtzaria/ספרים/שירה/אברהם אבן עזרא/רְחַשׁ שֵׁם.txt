@@ -1,0 +1,8 @@
+<h1>רְחַשׁ שֵׁם</h1>
+אברהם אבן עזרא
+<blockquote><p>רְחַשׁ שֵׁם מִשְׁתֵי אוֹתוֹת,</p></blockquote>
+<blockquote><p>אֲשֶׁר כָּל אוֹת לְבַדּוֹ שֵׁם,</p></blockquote>
+<blockquote><p>וְאוֹתוֹת נִכְפְּלוּ בַפֶּה</p></blockquote>
+<blockquote><p>אֲלֵיהֶם חֵן וְהַגִּישֵׁם,</p></blockquote>
+<blockquote><p>וְתֵמְצָא שֵׁם צְבִי עֹשֵׁק,</p></blockquote>
+<blockquote><p>וְלֹא יָדַע וְהוּא אָשֵׁם.</p></blockquote>

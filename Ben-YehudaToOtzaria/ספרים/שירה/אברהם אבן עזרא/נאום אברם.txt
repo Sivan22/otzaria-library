@@ -1,0 +1,9 @@
+<h1>נאום אברם</h1>
+אברהם אבן עזרא
+<blockquote><p>נְאֻם אַבְרָם אֲסִיר תִּקְוָה</p></blockquote>
+<blockquote><p>אֲשֶׁר פִּתַּח עֳנִי יִתְרוֹ</p></blockquote>
+<blockquote><p>עֲדֵי הָלַךְ חֲצִי לִבּוֹ</p></blockquote>
+<blockquote><p>וְעִנָּה הַנְּדוֹד יִתְרוֹ;</p></blockquote>
+<blockquote><p>וְזֶה פֵּרַשׁ בְּפָרָשָׁה</p></blockquote>
+<blockquote><p>תְחִלָּתָהּ דְּבָר יִתְרוֹ.</p></blockquote>
+<br/>
