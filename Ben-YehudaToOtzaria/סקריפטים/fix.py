@@ -80,12 +80,11 @@ def main(book_file, target_file, file_name):
     html_content = re.sub(pattern, '', html_content)
     title, author, body = extract_html_info(html_content)
     processed_text = process_body_html(body).splitlines()
-    output_text = [f"<h1>{title}</h1>" if title else f"<h1>{file_name}</h1>", author if author else ""] + [line.strip() for line in processed_text if line and line.strip() != "<!DOCTYPE html>"]
+    output_text = [f"<h1>{title}</h1>" if title else f"<h1>{file_name}</h1>", author if author else ""] + [adjust_html_tag_spaces(line).strip() for line in processed_text if line and line.strip() != "<!DOCTYPE html>"]
     if output_text[2] == title:
     	output_text.pop(2)
         
     join_lines = html.unescape("\n".join(output_text))
-    join_lines = adjust_html_tag_spaces(join_lines)
     with open(target_file, "w", encoding = "utf-8") as output:
         output.write(join_lines)
 
