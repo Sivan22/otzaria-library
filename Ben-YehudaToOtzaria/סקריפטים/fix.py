@@ -22,7 +22,7 @@ def extract_html_info(html):
     return title, author, body
 
 def process_body_html(body_html):
-    body_html = body_html.replace("\n", "")
+    body_html = body_html.replace("\n", " ")
     supported_tags = {
     "a", "abbr", "acronym", "address", "article", "aside", "audio", "b", "bdi", "bdo", "big",
     "blockquote", "br", "caption", "cite", "code", "data", "dd", "del", "details", "dfn", "dl", "dt", "em", "figcaption", "figure", "footer", "font", "h1", "h2", "h3", "h4",
@@ -70,6 +70,8 @@ def main(book_file, target_file, file_name):
     	output_text.pop(2)
         
     join_lines = html.unescape("\n".join(output_text))
+    while "  " in join_lines:
+        join_lines = join_lines.replace("  ", " ")
     with open(target_file, "w", encoding = "utf-8") as output:
         output.write(join_lines)
 
