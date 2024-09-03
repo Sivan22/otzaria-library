@@ -3,6 +3,21 @@ import re
 import os
 import html
 
+def adjust_html_tag_spaces(html):
+    start_pattern = r'(<[^/<>]+?>)([ ]+)' 
+    end_pattern = r'([ ]+)(</[^<>]+?>)' 
+    # Move spaces from inside the closing tag to after the tag
+    while re.findall(end_pattern , html):
+        html = re.sub(end_pattern, r'\2\1', html)
+
+    # Move spaces from the beginning of tags to before the tags
+    while re.findall(start_pattern, html):
+        html = re.sub(start_pattern , r'\2\1', html)
+    # Clean up any double spaces created by the previous step
+    html = re.sub(r'[ ]{2,}', ' ', html)
+
+    return html
+    
 def extract_html_info(html):
     # Parse the HTML content
     soup = BeautifulSoup(html, 'html.parser')
@@ -70,8 +85,7 @@ def main(book_file, target_file, file_name):
     	output_text.pop(2)
         
     join_lines = html.unescape("\n".join(output_text))
-    while "  " in join_lines:
-        join_lines = join_lines.replace("  ", " ")
+    join_lines = adjust_html_tag_spaces(join_lines)
     with open(target_file, "w", encoding = "utf-8") as output:
         output.write(join_lines)
 
