@@ -3,4 +3,4 @@
 <blockquote><p>אָחִי בְכָל הוֹנָךְ לְךָ</p></blockquote>
 <blockquote><p>אָח כַּאֲשֶׁר אֹמַר קְנֵה</p></blockquote>
 <blockquote><p>כִּי תֶחֱטָא יִשָּא וְכִי</p></blockquote>
-<blockquote><p>תִקְרָא בְיוֹם צַר יַעֲנֶה.<br/> </p></blockquote>
+<blockquote><p>תִקְרָא בְיוֹם צַר יַעֲנֶה. <br/></p></blockquote>

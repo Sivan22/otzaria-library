@@ -75,4 +75,4 @@
 <blockquote><p>בִּשְׁלוֹם יְדִידֵךְ יַעֲלַת חֵן שַׁאֲלִי</p></blockquote>
 <blockquote><p>אִם הַזְּמָן יִשְׁאַל שְׁאֵלוֹתָיִךְ</p></blockquote>
 <blockquote><p>שׁוּבִי וְצוּרֵנוּ יְשִׁיבֵךְ אֶל מְחוֹז</p></blockquote>
-<blockquote><p>חֶפְצֵךְ וְאֶל אֶרֶץ מְכֻרוֹתָיִךְ.<br/></p></blockquote>
+<blockquote><p>חֶפְצֵךְ וְאֶל אֶרֶץ מְכֻרוֹתָיִךְ. <br/></p></blockquote>

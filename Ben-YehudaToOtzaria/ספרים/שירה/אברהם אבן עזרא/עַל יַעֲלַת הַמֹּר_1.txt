@@ -2,7 +2,7 @@
 אברהם אבן עזרא
 <blockquote><p>עַל יַעֲלַת הַמֹּר,</p></blockquote>
 <blockquote><p>מְקֻטֶּרֶת לְבוֹנָה,</p></blockquote>
-<blockquote><p>אָשִׁירָה שִׁיר מִזְמוֹר.</p><br/><p>אוֹרְךָ מָתוֹק מִנֹּפֶת,</p></blockquote>
+<blockquote><p>אָשִׁירָה שִׁיר מִזְמוֹר.</p> <br/> <p>אוֹרְךָ מָתוֹק מִנֹּפֶת,</p></blockquote>
 <blockquote><p>נָגְהוֹ יִנְוֶה אוֹר חַמָּה,</p></blockquote>
 <blockquote><p>קוֹלְךָ עָרֵב מִתֹּפֶת,</p></blockquote>
 <blockquote><p>לְכָל קוֹל יָשִׂים דְּמָמָה.</p></blockquote>

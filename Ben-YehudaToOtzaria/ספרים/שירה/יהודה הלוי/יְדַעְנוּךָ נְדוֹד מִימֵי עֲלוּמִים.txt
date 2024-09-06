@@ -67,4 +67,4 @@
 <blockquote><p>וְצָרְכִּי לַזְּמָן נָקֵל, וְנִדְמֶה</p></blockquote>
 <blockquote><p>כְמוֹ צֹרֶךְ נְשָׁמָה לַגְּשָׁמִים,</p></blockquote>
 <blockquote><p>אֲשֶׁר מִדֵּי יְכִילוּהָ תְּחַיֵּם,</p></blockquote>
-<blockquote><p>וְאִם נִלְאוּ – עֲזָבָתַם צְלָמִים.<br/> </p></blockquote>
+<blockquote><p>וְאִם נִלְאוּ – עֲזָבָתַם צְלָמִים. <br/></p></blockquote>

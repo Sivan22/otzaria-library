@@ -23,4 +23,4 @@
 <blockquote><p>יְצַו הָאֵל לְהָשִׁיב הַגְּזֵלָה</p></blockquote>
 <blockquote><p>בְּצִדְקָתוֹ וְלִגְאֹל הָעֲשׁוּקִים</p></blockquote>
 <blockquote><p>וְיָכִין הָעֲצָמוֹת הַפְּרוּקִים</p></blockquote>
-<blockquote><p>וְיִפְרֹק בַּחֲסָדָיו הַיְצוּקִים.<br/> </p></blockquote>
+<blockquote><p>וְיִפְרֹק בַּחֲסָדָיו הַיְצוּקִים. <br/></p></blockquote>

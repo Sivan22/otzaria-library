@@ -83,4 +83,4 @@
 <blockquote><p>כֻּלָה כְּפַח זָהָב וְלֹא נָגַע כְּלִי</p></blockquote>
 <blockquote><p>בָהּ, כִּי בְלֵב יָקַד יְקוֹד רֻקָּעָה</p></blockquote>
 <blockquote><p>אִם סִפְּרָהּ מַשְׂכִּיל לְאִיש נָבוּב, הֲלֹא</p></blockquote>
-<blockquote><p>יִזְעַק: לְאַט עָלַי, וְלֹא אֶטְבָּעָה!<br/> </p></blockquote>
+<blockquote><p>יִזְעַק: לְאַט עָלַי, וְלֹא אֶטְבָּעָה! <br/></p></blockquote>

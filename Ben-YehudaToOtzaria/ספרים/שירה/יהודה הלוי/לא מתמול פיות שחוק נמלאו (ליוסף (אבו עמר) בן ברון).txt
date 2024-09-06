@@ -20,4 +20,4 @@
 <blockquote><p>הֵא לָךְ מְעַט זִמְרַת זְמִירוֹתַי אֲשֶׁר</p></blockquote>
 <blockquote><p>יִלְאוּ לְהַגִּיד בַּעֲדָךְ מָה רָאוּ</p></blockquote>
 <blockquote><p>גַּם נֶחְפְּזוּ לָצֵאת בְּעֵת רָאוּ בְרַק</p></blockquote>
-<blockquote><p>אוֹרְךָ וְלִקְרַאת חַסְדְּךָ יָצָאוּ.<br/></p></blockquote>
+<blockquote><p>אוֹרְךָ וְלִקְרַאת חַסְדְּךָ יָצָאוּ. <br/></p></blockquote>

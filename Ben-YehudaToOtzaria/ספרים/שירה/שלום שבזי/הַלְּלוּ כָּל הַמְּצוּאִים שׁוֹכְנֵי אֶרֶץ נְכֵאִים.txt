@@ -78,4 +78,4 @@
 <blockquote><p>תֶּחֱזֶה נַפְשִׁי לְחוּפָּה,</p></blockquote>
 <blockquote><p>תַּעֲלֶה כִּסֵּא מְחוּפָּה,</p></blockquote>
 <blockquote><p>מֵהֲדַר דּוֹד צַח וְיָפָה,</p></blockquote>
-<blockquote><p>יִשְׂמְחוּן אֶרֶץ וְהָרִים.<br/> </p></blockquote>
+<blockquote><p>יִשְׂמְחוּן אֶרֶץ וְהָרִים. <br/></p></blockquote>

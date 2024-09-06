@@ -9,4 +9,4 @@
 <blockquote><p>חֲדֵה וּשְׁמַח וְרַוֵּה עִם כְּבוּדָה</p></blockquote>
 <blockquote><p>וּבַת מֶלֶךְ פְּנִימָה שַׁאֲנַנָּה</p></blockquote>
 <blockquote><p>הֲלֹא דוֹדִים יְרַוּוּךָ בְדַדִּים</p></blockquote>
-<blockquote><p>וּמַרְבַדִּים וְעֶרֶשׂ רַעֲנָנָה.<br/></p></blockquote>
+<blockquote><p>וּמַרְבַדִּים וְעֶרֶשׂ רַעֲנָנָה. <br/></p></blockquote>

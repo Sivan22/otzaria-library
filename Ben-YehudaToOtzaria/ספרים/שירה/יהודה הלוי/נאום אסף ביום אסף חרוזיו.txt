@@ -33,4 +33,4 @@
 <blockquote><p>אֱמֹר לִנְדוֹד וְיִרֶף מִקְּרָבוֹ</p></blockquote>
 <blockquote><p>וְאַל יַשְׁלֵט עֲלֵי נַפְשִׁי רְגָזָיו</p></blockquote>
 <blockquote><p>וּמוֹקֵד אַהֲבָה יַשְׁקִיט לְהָבָיו</p></blockquote>
-<blockquote><p>וְאוּלַי יִתְּנוּ פוּגָה מְחָזָיו.<br/></p></blockquote>
+<blockquote><p>וְאוּלַי יִתְּנוּ פוּגָה מְחָזָיו. <br/></p></blockquote>

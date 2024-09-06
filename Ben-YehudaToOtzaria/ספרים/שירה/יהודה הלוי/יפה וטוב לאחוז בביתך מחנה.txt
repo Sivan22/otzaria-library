@@ -9,4 +9,4 @@
 <blockquote><p>דַרְכּוֹ מְאֹד קָרְבָה וְלִמְאֹד רָחֲקָה</p></blockquote>
 <blockquote><p>כִּי כֹל אֲשֶׁר פָּעַל לְיֵשׁ וּלְמַעֲנֶה</p></blockquote>
 <blockquote><p>הֵן עַל לְבָבִי מֵאֱלֹהַי מַחֲשָׁב</p></blockquote>
-<blockquote><p>גַּם עַל לְשׁוֹנִי מֵאֲדֹנָי מַעֲנֶה.<br/></p></blockquote>
+<blockquote><p>גַּם עַל לְשׁוֹנִי מֵאֲדֹנָי מַעֲנֶה. <br/></p></blockquote>

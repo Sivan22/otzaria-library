@@ -51,4 +51,4 @@
 <blockquote><p>צוֹעֲקִים וּמִתְחַנֲנִים לְנֶגְדּוֹ.</p></blockquote>
 <blockquote><p>חָסֹן, שְׁעֵה הַיּוֹם עַמְּךָ וּסְכֹת סִלּוּדוֹ,</p></blockquote>
 <blockquote><p>קְדֻשָּׁתוֹ תְקַבֵּל בְּנֹעַם מַעְבָּדוֹ –</p></blockquote>
-<blockquote><p>מְלֹא כָל הָאָרֶץ כְּבוֹדוֹ.<br/></p></blockquote>
+<blockquote><p>מְלֹא כָל הָאָרֶץ כְּבוֹדוֹ. <br/></p></blockquote>

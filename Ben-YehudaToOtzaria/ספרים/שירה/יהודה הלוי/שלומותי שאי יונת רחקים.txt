@@ -39,4 +39,4 @@
 <blockquote><p>הֲנָשָׁה בִי יְדִיד נַפְשְׁי חֲרוּזִים</p></blockquote>
 <blockquote><p>יְהוּ שִׁירַי מְקוֹם נִשְׁיוֹ עֲרָבִים</p></blockquote>
 <blockquote><p>אֲשִׁיבֵם לוֹ כְּפוּלִים כַּעֲנָקִים</p></blockquote>
-<blockquote><p>רְבוּעִים לַעֲנַק חֶלְיוֹ מְשִׁיבִים.<br/></p></blockquote>
+<blockquote><p>רְבוּעִים לַעֲנַק חֶלְיוֹ מְשִׁיבִים. <br/></p></blockquote>

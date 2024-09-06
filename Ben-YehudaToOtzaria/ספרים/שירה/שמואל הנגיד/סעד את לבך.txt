@@ -9,4 +9,4 @@
 <blockquote><p>זְמַן שׂוֹחֵק, לְרַע מִטּוֹב וּמִטּוֹב</p></blockquote>
 <blockquote><p>אֱלֵי רָעָה בְּעֵת יַחְפּוֹץ יְמִישָׁךְ</p></blockquote>
 <blockquote><p>וְאִם תֶּחְכַּם שׂחֹק אַתָּה בְּחֶלְקָךְ</p></blockquote>
-<blockquote><p>בְּיוֹם אִמֵּץ לְךָ אוֹ הֶחֱלִישָׁךְ.<br/></p></blockquote>
+<blockquote><p>בְּיוֹם אִמֵּץ לְךָ אוֹ הֶחֱלִישָׁךְ. <br/></p></blockquote>

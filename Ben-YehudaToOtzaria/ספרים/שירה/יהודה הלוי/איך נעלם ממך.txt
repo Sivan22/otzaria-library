@@ -3,4 +3,4 @@
 <blockquote><p>אֵיךְ נֶעֱלַם מִמְּךָ</p></blockquote>
 <blockquote><p>הַשֵּׁם וְהוּא נִרְאֶה</p></blockquote>
 <blockquote><p>קַדֵּם חֲצִי אַחְרוֹן</p></blockquote>
-<blockquote><p>וַהְפֹךְ חֲצִי רִאשׁוֹן.<br/><br/>אהרן</p></blockquote>
+<blockquote><p>וַהְפֹךְ חֲצִי רִאשׁוֹן. <br/><br/> אהרן</p></blockquote>

@@ -22,7 +22,7 @@
 <blockquote><p>מַחְתָּה לְאַהְרֹן בֵּין גְּחָלֶיהָ</p></blockquote>
 <blockquote><p>עַל רִצְפַת שֵׁשׁ שָׁחֲקוּ מַיִם</p></blockquote>
 <blockquote><p>זַכּוּ כְאַהְבָתָם גְּחָלֶיהָ</p></blockquote>
-<blockquote><p>יִשְׁתַּקְשְׁקוּ גַּלִּים וְיֶהְמוּ עַד<br/><br/>הָיוּ לְפִימוֹת עַל כְּסָלֶיהָ</p></blockquote>
+<blockquote><p>יִשְׁתַּקְשְׁקוּ גַּלִּים וְיֶהְמוּ עַד <br/><br/> הָיוּ לְפִימוֹת עַל כְּסָלֶיהָ</p></blockquote>
 <blockquote><p>תִּסֹּב עֲלֵיהֶם כּוֹס מְלֵאָה אוֹר</p></blockquote>
 <blockquote><p>לֵב הַנְּזִירִים יֵשְׂט ְ אֵלֶיהָ</p></blockquote>
 <blockquote><p>כִּתְמֵי זְהַב אוֹפִיר גְּנָזֶיהָ</p></blockquote>
@@ -88,4 +88,4 @@
 <blockquote><p>הִנֵּה לְךָ בַּת אַהֲבָה מֵאֵת</p></blockquote>
 <blockquote><p>נֶפֶשׁ בְךָ חִשְׁקָהּ וְגִילֶיהָ</p></blockquote>
 <blockquote><p>אִם לֹא בְךָ תַּפִּיל חֲבָלֶיהָ</p></blockquote>
-<blockquote><p>תָּחִיל וְתִזְעַק בַּחֲבָלֶיהָ.<br/> </p></blockquote>
+<blockquote><p>תָּחִיל וְתִזְעַק בַּחֲבָלֶיהָ. <br/></p></blockquote>

@@ -1,7 +1,7 @@
 <h1>אֲנִי אֶל אֵל אֶדְרוֹשׁ</h1>
 אברהם אבן עזרא
 <p>על פרוש שיר השירים לתלמידו בנימין</p>
-<blockquote><br/><p>אֲנִי אֶל אֵל אֶדְרוֹשׁ,</p></blockquote>
+<blockquote><br/> <p>אֲנִי אֶל אֵל אֶדְרוֹשׁ,</p></blockquote>
 <blockquote><p>וְאוֹדֶנּוּ בָרֹאשׁ</p></blockquote>
 <blockquote><p>בְּטֶרֶם שֶׁאֶפְרוֹשׁ</p></blockquote>
 <blockquote><p>דְּבָרִים הַיְשָׁרִים;</p></blockquote>

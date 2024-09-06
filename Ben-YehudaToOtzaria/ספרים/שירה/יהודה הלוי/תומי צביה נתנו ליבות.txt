@@ -7,4 +7,4 @@
 <blockquote><p>וַיֹאמְרוּ לִרְעוֹת בְּגַן בֹּשֶׂם</p></blockquote>
 <blockquote><p>וּנְטֹש נְאוֹת מִדְבָּר וְתַלְאוּבֹת</p></blockquote>
 <blockquote><p>מָצְאוּ בְעֶרֶשׂ רַעֲנָנָה גַּן</p></blockquote>
-<blockquote><p>הִתְלוֹנְנוּ שָׁם בֵּין עֲצֵי עָבוֹת.<br/></p></blockquote>
+<blockquote><p>הִתְלוֹנְנוּ שָׁם בֵּין עֲצֵי עָבוֹת. <br/></p></blockquote>

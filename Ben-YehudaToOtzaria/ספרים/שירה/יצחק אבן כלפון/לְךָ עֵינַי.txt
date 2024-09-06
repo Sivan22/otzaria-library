@@ -28,4 +28,4 @@
 <blockquote><p>וְדַי לִי מִמְּךָ שִׁפּוּךְ עֲתִירוֹת.</p></blockquote>
 <blockquote><p>בְּמוֹ עֶתֶר שְׂפָתֶיךָ שְׁמוּרוֹת.</p></blockquote>
 <blockquote><p>אֲבָל אַתָּה כְּמוֹ אַתָּה וְאָנִי</p></blockquote>
-<blockquote><p>כְּמוֹ תַעְנֶה בְמָשָׁל מַאֲמָרוֹת.<br/></p></blockquote>
+<blockquote><p>כְּמוֹ תַעְנֶה בְמָשָׁל מַאֲמָרוֹת. <br/></p></blockquote>

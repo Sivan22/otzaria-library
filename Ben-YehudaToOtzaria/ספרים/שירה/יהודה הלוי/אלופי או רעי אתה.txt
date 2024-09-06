@@ -5,4 +5,4 @@
 <blockquote><p>בִּלְבֶן סִפְרָךְ טוּרֵי קַדְרוּת</p></blockquote>
 <blockquote><p>וּבְסַפִּירְךָ כִּתְבֵי נֹפֶךְ</p></blockquote>
 <blockquote><p>כָּתוּב בָּהֶם כִּי מִלֶּחְיָךְ</p></blockquote>
-<blockquote><p>דָּם נָקִי עוֹד לֹא יִשָּׁפֵךְ.<br/></p></blockquote>
+<blockquote><p>דָּם נָקִי עוֹד לֹא יִשָּׁפֵךְ. <br/></p></blockquote>

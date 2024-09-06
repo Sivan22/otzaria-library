@@ -75,4 +75,4 @@
 <blockquote><p>הַשְׁמְעָנוּ יוֹם חֲתוּנָה,</p></blockquote>
 <blockquote><p>בָּא זְמָן קֵץ הַגְּאוּלָּה!</p></blockquote>
 <br/>
-<ol><li id="fn:1"><p>נוסח מחוק: סִבָּה וְעִלָּה. <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li><li id="fn:2"><p>מתחת לכתוב: לְדוֹדֵך. <a class="reversefootnote" href="#fnref:2" title="return to body"> ↩</a></p></li><li id="fn:3"><p>מחוק: וְלָטְשָׁה. <a class="reversefootnote" href="#fnref:3" title="return to body"> ↩</a></p></li></ol>
+<ol><li id="fn:1"><p>נוסח מחוק: סִבָּה וְעִלָּה. <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li> <li id="fn:2"><p>מתחת לכתוב: לְדוֹדֵך. <a class="reversefootnote" href="#fnref:2" title="return to body"> ↩</a></p></li> <li id="fn:3"><p>מחוק: וְלָטְשָׁה. <a class="reversefootnote" href="#fnref:3" title="return to body"> ↩</a></p></li></ol>

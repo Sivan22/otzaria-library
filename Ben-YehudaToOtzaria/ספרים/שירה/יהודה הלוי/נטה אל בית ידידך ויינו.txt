@@ -9,4 +9,4 @@
 <blockquote><p>יְבוֹאֵנִי וְיָנִיס כָּל יְגוֹנִי</p></blockquote>
 <blockquote><p>וְזֹאת אוֹת הַבְּרִית בֵּינִי וּבֵינוֹ</p></blockquote>
 <blockquote><p>וְשָׁרִים אַחֲרֵי נֹגְנִים סְבִיבִי</p></blockquote>
-<blockquote><p>לְמִינֵיהֶם וְכָל יָפֶה לְמִינוֹ.<br/> </p></blockquote>
+<blockquote><p>לְמִינֵיהֶם וְכָל יָפֶה לְמִינוֹ. <br/></p></blockquote>

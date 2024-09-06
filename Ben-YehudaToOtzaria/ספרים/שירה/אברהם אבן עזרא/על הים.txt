@@ -81,4 +81,4 @@
 <blockquote><p>מִדֵּי הֱיוֹתִי זֹאת אֶזְכֹּרָה</p></blockquote>
 <blockquote><p>בְּבוֹא רוּחַ צָפוֹן בִּסְעָרָה</p></blockquote>
 <blockquote><p>וְעָבַר עָלַי בַּיָּם צָרָה</p></blockquote>
-<blockquote><p>יוֹם קָרָאתִי וַתַּעֲנֵנִי / לֵאמֹר “הִנֵּנִי הִנֵּנִי!”<br/> </p></blockquote>
+<blockquote><p>יוֹם קָרָאתִי וַתַּעֲנֵנִי / לֵאמֹר “הִנֵּנִי הִנֵּנִי!” <br/></p></blockquote>

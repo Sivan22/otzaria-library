@@ -20,4 +20,4 @@
 <blockquote><p>מִי בָרָא אֵלֶּה? / הֲלֹא אָב אֶחָד!</p></blockquote>
 <blockquote><p>מִי לַעֲשׂוֹת יַפְלֵא / עִם עַם אֶחָד?</p></blockquote>
 <blockquote><p>הִשְׁקִיף – וַיְמַלֵּא / אֶת יַד אֶחָד.</p></blockquote>
-<blockquote><p>צוּר יִשְׂרָאֵל, / אֱלֹהִים אֱלֹהֵינוּ – / שֵׁם הָאֶחָד.<br/></p></blockquote>
+<blockquote><p>צוּר יִשְׂרָאֵל, / אֱלֹהִים אֱלֹהֵינוּ – / שֵׁם הָאֶחָד. <br/></p></blockquote>

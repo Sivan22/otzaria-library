@@ -102,4 +102,4 @@
 <blockquote><p>יֹאמַר: ‘מְרִירָה, דַּי!’ וּלְמַשְׁחִית: ‘הֶרֶף!’</p></blockquote>
 <blockquote><p>אַף עוֹד מְעַט: 'יַחְדָּיו בִּירוּשָׁלָיִם</p></blockquote>
 <blockquote><p>הִתְנַחֲמוּ!' יֹאמַר מִן הַשָּׁמָיִם.</p></blockquote>
-<p><a href="../benveniste/index.html">לתוכןהענינים</a></p>
+<p><a href="../benveniste/index.html">לתוכן הענינים</a></p>

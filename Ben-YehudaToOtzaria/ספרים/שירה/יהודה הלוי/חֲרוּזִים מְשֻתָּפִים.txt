@@ -50,5 +50,5 @@
 <blockquote><p>קוּם וַחֲזֵה פַּרְדֵּס בְּסִפְרֵי דוֹד</p></blockquote>
 <blockquote><p>וּרְוֵה וְהִתְעַנַּג בְּטוּב נִרְדָּם</p></blockquote>
 <blockquote><p>בַּקַּע אֱשׁוּן חשֶׁךְ בְּדַם אֶשְׁכֹּל</p></blockquote>
-<blockquote><p>אִם אֵין לְךָ נֵר אֵשׁ עֲרֹךְ נֵר דָּם.<br/></p></blockquote>
+<blockquote><p>אִם אֵין לְךָ נֵר אֵשׁ עֲרֹךְ נֵר דָּם. <br/></p></blockquote>
 <p>ידידות בלילה והוא ישן</p>

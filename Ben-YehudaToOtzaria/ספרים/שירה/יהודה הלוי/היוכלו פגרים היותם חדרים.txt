@@ -69,4 +69,4 @@
 <blockquote><p>אֲבָל יֵשׁ בְּטֹחַ בְּמַרְבֶּה סְלֹחַ</p></blockquote>
 <blockquote><p>וְחַיִל וְכֹחַ לְמוֹצִיא אֲסִירִים</p></blockquote>
 <blockquote><p>וְאִם דָּן וְנִפְרַע וְיוֹסִיף וְיִגְרָע</p></blockquote>
-<blockquote><p>עֲלֵי טוֹב וְעַל רָע שְׁפָטָיו יְשָׁרִים.<br/></p></blockquote>
+<blockquote><p>עֲלֵי טוֹב וְעַל רָע שְׁפָטָיו יְשָׁרִים. <br/></p></blockquote>

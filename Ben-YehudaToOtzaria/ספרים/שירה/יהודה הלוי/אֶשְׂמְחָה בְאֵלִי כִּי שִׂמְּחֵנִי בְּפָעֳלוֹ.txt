@@ -13,13 +13,13 @@
 <blockquote><p>וְאוּלָם לַחֲסִידָיו צָפַן יְקָרָהּ</p></blockquote>
 <blockquote><p>לֹא תֹהוּ בְרָאָה לָשֶׁבֶת יְצָרָהּ.</p></blockquote>
 <br/>
-<pre><code>                                 *</code></pre>
+<pre><code>*</code></pre>
 <blockquote><p>יְצָרָה תְּמִים פֹּעַל מַעֲשָׂיו לֹא יֶחְסָרוּ</p></blockquote>
 <blockquote><p>הָאֵל אֲשֶר מִשְׁפָּטָיו לֶאֳמוּנָה גָבָרוּ</p></blockquote>
 <blockquote><p>וַיִּשָּא דֳכִי הַנְּהָרוֹת וְגַלֵּי יָם סָעָרוּ</p></blockquote>
 <blockquote><p>וְיַבֶּשֶׁת יָדָיו יָצָרוּ.</p></blockquote>
 <br/>
-<pre><code>              *</code></pre>
+<pre><code>*</code></pre>
 <blockquote><p>זֶה יָדַעְתִּי כִּי נוֹצַרְתִּי אַךְ בִּדְבָרוֹ</p></blockquote>
 <blockquote><p>חֹמֶר בְּיַד הַיוֹצֵר וְכִי לֹא יְצָרוֹ</p></blockquote>
 <blockquote><p>הֲיֹאמַר חֹמֶר לְיֹצְרוֹ</p></blockquote>
@@ -32,7 +32,7 @@
 <blockquote><p>לְהוֹדִיעַ כִּי בְכָל אֱלֹהִים אַין כָּאֵל</p></blockquote>
 <blockquote><p>וּלְפָנָיו לֹא נוֹצַר אֵל.</p></blockquote>
 <br/>
-<pre><code>                                        *</code></pre>
+<pre><code>*</code></pre>
 <blockquote><p>לְפָנָיו אֶתְנַפֵּל וְאַחֲרָיו לְבָבִי יִמָּשֵׁךְ</p></blockquote>
 <blockquote><p>לַאֲשֶּׁר יָאִיר בִּרְצוֹנוֹ וּבַחֲרוֹנוֹ יֵחֲשֵׁךְ</p></blockquote>
 <blockquote><p>יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ.</p></blockquote>

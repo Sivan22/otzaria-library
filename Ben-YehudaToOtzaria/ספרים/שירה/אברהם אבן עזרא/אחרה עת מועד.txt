@@ -24,4 +24,4 @@
 <blockquote><p>מִפְּנֵי צַר לוֹחֵם / אַחֲרֶיךָ רָצָה.</p></blockquote>
 <blockquote><p>בַּחֲזוֹנָךְ נַחֵם / עַם בְּגָלוּת יָצָא –</p></blockquote>
 <blockquote><p>עֵת פְּלָאִים תַּפְלִיא / בִי, וְתִהְיֶה חוֹמָה</p></blockquote>
-<blockquote><p>לִי, וְתָאִיר נֵרִי / אָז כְּאוֹר הַחַמָּה.<br/> </p></blockquote>
+<blockquote><p>לִי, וְתָאִיר נֵרִי / אָז כְּאוֹר הַחַמָּה. <br/></p></blockquote>

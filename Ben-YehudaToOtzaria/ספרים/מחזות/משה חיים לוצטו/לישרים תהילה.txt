@@ -173,7 +173,7 @@
 <br/>
 <p><strong>שיחה ב'</strong></p>
 <p>רהב ותרמית</p>
-<blockquote><p><strong>רהב</strong>:   מָתַי אֲשַׁלֵּם אוֹ מֶה לָךְ אָשִׁיבָה</p></blockquote>
+<blockquote><p><strong>רהב</strong>: מָתַי אֲשַׁלֵּם אוֹ מֶה לָךְ אָשִׁיבָה</p></blockquote>
 <blockquote><p>אָחִי, כְּעַל כָּל טוּב כָּל תַּגְמוּלֶיךָ?</p></blockquote>
 <blockquote><p>הֵן מָצְאָה כַּבִּיר עֹצֶם יָדֶךָ</p></blockquote>
 <blockquote><p>לָתֵת שְׁאֵלָתִי וּלְהַמְצִיאֵנִי</p></blockquote>
@@ -195,7 +195,7 @@
 <blockquote><p>לוּלֵי בְּתַחְבּוּלוֹת אָז הִתְחַזַּקְתִּי,</p></blockquote>
 <blockquote><p>לוּ בַּחֲלָקוֹת לֹא אוֹתוֹ דָּחִיתִי,</p></blockquote>
 <blockquote><p>מִנַּחֲלָתוֹ זֶה לָעַד גֹּרָשְׁתָּ.</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   אַךְ מֶה בְּנַפְשִׁי עָוֶל</p></blockquote>
+<blockquote><p><strong>רהב</strong>: אַךְ מֶה בְּנַפְשִׁי עָוֶל</p></blockquote>
 <blockquote><p>מָצָא לְהַרְחִיקֵנִי,</p></blockquote>
 <blockquote><p>כִּי כֵן לְעֶזְרָתִי צֵאת הִתְחַזָּקְתָּ?</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: רַהַב יְדִידִי! אִלּוּ</p></blockquote>
@@ -215,7 +215,7 @@
 <p><strong>שיחה ג'</strong></p>
 <p>שכל יושר וסבלנות</p>
 <br/>
-<blockquote><p><strong>שכל</strong>:   רֵעִי כְּאָח לִי! יִוָּדַע לָךְ אֹמֶן</p></blockquote>
+<blockquote><p><strong>שכל</strong>: רֵעִי כְּאָח לִי! יִוָּדַע לָךְ אֹמֶן</p></blockquote>
 <blockquote><p>כִּי צַר מְאֹד לִי עַל צָרַת נַפְשֶׁךָ,</p></blockquote>
 <blockquote><p>וּכְאֵבְךָ אַךְ כִּכְאֵבִי יָדָעְתִּי;</p></blockquote>
 <blockquote><p>הֵן זֶה בְּרִית רֵעִים חָק־אַחְוָה סֶלָה.</p></blockquote>
@@ -271,7 +271,7 @@
 <blockquote><p>סוּגָה בְּאִוַּלְתָּהּ, כִּי לֹא שׁוֹמָעַת,</p></blockquote>
 <blockquote><p>נוֹתֵן לְלֵץ מוּסָר עֵצָה אֶל־פֶּתִי,</p></blockquote>
 <blockquote><p>עוֹכֵר שְׁאֵרוֹ הוּא אַף חוֹמֵס דָּעַת.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   שֶׂכֶל מְאוֹר עֵינַי אַלּוּפִי סֶלָה,</p></blockquote>
+<blockquote><p><strong>יושר</strong>: שֶׂכֶל מְאוֹר עֵינַי אַלּוּפִי סֶלָה,</p></blockquote>
 <blockquote><p>אַנְחוֹת לְבָבִי רַבּוּ,</p></blockquote>
 <blockquote><p>דָּמִי בְּקִרְבִּי אֵשׁ, רוּחִי שַׁלְהָבֶת,</p></blockquote>
 <blockquote><p>אַף כָּל־אֲשֶׁר סָבִיב עֵינַי תִּרְאֶינָה,</p></blockquote>
@@ -370,9 +370,9 @@
 <p><strong>שיחה ד'</strong></p>
 <p>המון וסכלות, אח"כ ילך המון ונשארה סכלות לבדה.</p>
 <br/>
-<blockquote><p><strong>המון</strong>:   קוּמִי אֲמָתִי, נָא!</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      אָדוֹן, הִנֵּנִי!</p></blockquote>
-<blockquote><p><strong>המון</strong>:   קוּמִי, לְכִי נָא אֵצֶל</p></blockquote>
+<blockquote><p><strong>המון</strong>: קוּמִי אֲמָתִי, נָא!</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: אָדוֹן, הִנֵּנִי!</p></blockquote>
+<blockquote><p><strong>המון</strong>: קוּמִי, לְכִי נָא אֵצֶל</p></blockquote>
 <blockquote><p>בִּתִּי וְלָהּ הַגִּידִי,</p></blockquote>
 <blockquote><p>כִּי יוֹם חֲתֻנָּתָהּ וּכְלוּלוֹתֶיהָ</p></blockquote>
 <blockquote><p>הָלוֹךְ וְקָרֵב בָּא, וּלְרַהַב שַׂמְתִּי</p></blockquote>
@@ -382,7 +382,7 @@
 <br/>
 ילך המון וסכלות נשארת לבדה
 <br/>
-<blockquote><p><strong>סכלות</strong>:  הִנֵּה כְּבָר יוֹם בָּא שֶׁקִּוִּיתִיהוּ!</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: הִנֵּה כְּבָר יוֹם בָּא שֶׁקִּוִּיתִיהוּ!</p></blockquote>
 <blockquote><p>הִנֵּה כְּבָר רָאִיתִי</p></blockquote>
 <blockquote><p>כָּל־תַּאֲוַת נַפְשִׁי. יָבֹא נָא שֶׂכֶל</p></blockquote>
 <blockquote><p>עַתָּה בְּחָכְמוֹתָיו, אִם יַעְצָר־כֹּחַ</p></blockquote>
@@ -437,7 +437,7 @@
 <br/>
 <p><strong>שיחה א'</strong></p>
 <p>שכל ויושר בשדה, אח"כ הולך שכל ונשאר יושר לבדו.</p>
-<blockquote><p><strong>שכל</strong>:   יֹשֶׁר יְדִיד נַפְשִׁי, יַאְמֵץ לִבֶּךָ,</p></blockquote>
+<blockquote><p><strong>שכל</strong>: יֹשֶׁר יְדִיד נַפְשִׁי, יַאְמֵץ לִבֶּךָ,</p></blockquote>
 <blockquote><p>שַׁנֵּס כְּאֵזוֹר חָיִל,</p></blockquote>
 <blockquote><p>כִּי כַּאֲשֶׁר יוֹתֵר מֵרָחוֹק יֶשַׁע</p></blockquote>
 <blockquote><p>נִרְאֶה, הֲלֹא פִתְאֹם אָז יִרְוַח לָנוּ.</p></blockquote>
@@ -455,12 +455,12 @@
 <blockquote><p>וִיהִי כְּלֹא הָיָה אָז כָּל־הַסָּעַר;</p></blockquote>
 <blockquote><p>כֵּן אֶל־אֱנוֹשׁ נִדְכֶּה רֶגַע יַצְמִיחַ</p></blockquote>
 <blockquote><p>מֹשֵׁל בְּעֹז עוֹלָם מִצָּרָה רֶוַח.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   שֶׂכֶל מְשׂוֹשׂ לִבִּי, תַּנְחוּמוֹתֶיךָ</p></blockquote>
+<blockquote><p><strong>יושר</strong>: שֶׂכֶל מְשׂוֹשׂ לִבִּי, תַּנְחוּמוֹתֶיךָ</p></blockquote>
 <blockquote><p>לִבִּי הֲלֹא יַרְחִיבוּ,</p></blockquote>
 <blockquote><p>כִּי עֵת כְּמוֹ אַבִּיט מֵאִמְרֵי פִיךָ</p></blockquote>
 <blockquote><p>פֶּתַח לְתוֹחַלְתִּי, אָכֵן הוֹאִילָה</p></blockquote>
 <blockquote><p>אִם יֵשׁ בְּשׂוֹרָה לָךְ אַל תִּמְנַע מֶנִּי.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   לוּ הָיְתָה אִתִּי לֹא כִחַדְתִּיהָ,</p></blockquote>
+<blockquote><p><strong>שכל</strong>: לוּ הָיְתָה אִתִּי לֹא כִחַדְתִּיהָ,</p></blockquote>
 <blockquote><p>אָכֵן אֲקַו תִּתָּהּ גַּם כִּי אֵין עָתָּה.</p></blockquote>
 <blockquote><p>כִּי לֹא לְעוֹלָם מָט כָּל־פּוֹעֵל צֶדֶק,</p></blockquote>
 <blockquote><p>תִּקְוַת תְּמִימִים לֹא תֹאבַד לָנֶצַח.</p></blockquote>
@@ -482,7 +482,7 @@
 <blockquote><p>גַּם הֵן שְׂמָחוֹת הֵנָּה</p></blockquote>
 <blockquote><p>יַחְדָּו בְּיוֹם טוֹבָה, כִּי גִיל תַּרְבֶּינָה</p></blockquote>
 <blockquote><p>כָּל עֵת אֲשֶׁר נִזְכָּרוּ.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   אֹבֶה אֲשֶׁר אוּכַל, כִּי אֶעְצָר כֹּחַ,</p></blockquote>
+<blockquote><p><strong>יושר</strong>: אֹבֶה אֲשֶׁר אוּכַל, כִּי אֶעְצָר כֹּחַ,</p></blockquote>
 <blockquote><p>לִסְבּוֹל כְּמוֹ חָפַצְתִּי,</p></blockquote>
 <blockquote><p>(שֶׂכֶל) מְרִי שִׂיחִי; אַךְ כָּבֵד מֶנִּי</p></blockquote>
 <blockquote><p>כָּל־עֵת אֲשֶׁר תִּרְאֶינָה</p></blockquote>
@@ -510,7 +510,7 @@
 <blockquote><p>יִשֹּׁךְ בְּעֵת יִשַּׁק, וּבְעֵת תִּרְפֶּינָה</p></blockquote>
 <blockquote><p>יָדָיו אֲזַי יִמְחָץ, וּבְכָל־חֶפְצֵהוּ</p></blockquote>
 <blockquote><p>עוֹשֶׂה וְגַם־מַצְלִיחַ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אָכֵן שְׁגָגָה הִיא זֹאת אֶל־עֵינֵינוּ</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אָכֵן שְׁגָגָה הִיא זֹאת אֶל־עֵינֵינוּ</p></blockquote>
 <blockquote><p>כִּי עֵין בְּשָׂרִים הֵמָּה,</p></blockquote>
 <blockquote><p>עַל־כֵּן אֱמֶת בִּדְבַר־כָּזָב יָמִירוּ,</p></blockquote>
 <blockquote><p>חֹשֶׁךְ לְאוֹר שָׂמִים וָאוֹר לַחֹשֶׁךְ.</p></blockquote>
@@ -562,7 +562,7 @@
 <p><strong>שיחה ב'</strong></p>
 <p>יושר נשאר לבדו ומוצא מחקר מתבודד בהר.</p>
 <br/>
-<blockquote><p><strong>יושר</strong>:   אֵין טוֹב אֲשֶׁר אֶפְנֶה לִרְאוֹת פֹּה אֵלֶּה</p></blockquote>
+<blockquote><p><strong>יושר</strong>: אֵין טוֹב אֲשֶׁר אֶפְנֶה לִרְאוֹת פֹּה אֵלֶּה</p></blockquote>
 <blockquote><p>דִּשְׁאֵי נְאוֹת שָׂדַי, עֵינוֹת הַמָּיִם</p></blockquote>
 <blockquote><p>הַנּוֹזְלִים מֵרֹאשׁ הַצּוּרִים הֵנָּה,</p></blockquote>
 <blockquote><p>אַטֶּה לְקוֹל הַתּוֹר אוֹ צִפּוֹר אֹזֶן,</p></blockquote>
@@ -580,7 +580,7 @@
 <blockquote><p>שָׁלוֹם לְךָ מֶחְקָר! אָן תִּתְהַלַּכְנָה</p></blockquote>
 <blockquote><p>כָּעֵת מְזִמּוֹתֶיךָ</p></blockquote>
 <blockquote><p>בֵּין הַרְרֵי בָדָד וּנְחָלִים אֵלֶּה?</p></blockquote>
-<blockquote><p><strong>מחקר</strong>:  הוֹלֵךְ וְתָר הִנֵּנִי</p></blockquote>
+<blockquote><p><strong>מחקר</strong>: הוֹלֵךְ וְתָר הִנֵּנִי</p></blockquote>
 <blockquote><p>פִּלְאֵי תְבוּנוֹת מֵאֵין חֵקֶר לָמוֹ,</p></blockquote>
 <blockquote><p>בּוֹרֵא וְיוֹצֵר כֹּל הֶרְאָה הוֹדִיעַ</p></blockquote>
 <blockquote><p>אֶל־כֹּל אֲשֶׁר־עֵינָיו לֹא עִוֵּר סֶכֶל</p></blockquote>
@@ -676,7 +676,7 @@
 <blockquote><p>אָדָם לְהַבִּיט יָשֶׁת.</p></blockquote>
 <blockquote><p>אַשְׁרֵי אֲשֶׁר חָכְמָה מָצָא וָדָעַת,</p></blockquote>
 <blockquote><p>אַשְׁרֵי מְדַבֵּר עַל־אֹזֶן שׁוֹמָעַת!</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   בָּרוּךְ תְּהִי מֶחְקָר, כִּי נִחַמְתָּנִי</p></blockquote>
+<blockquote><p><strong>יושר</strong>: בָּרוּךְ תְּהִי מֶחְקָר, כִּי נִחַמְתָּנִי</p></blockquote>
 <blockquote><p>עֵת מִשְׁבְּרֵי יָגוֹן עַד־נַפְשִׁי בָּאוּ,</p></blockquote>
 <blockquote><p>כִּי עֵת בְּצוּף לִקְחֶךָ</p></blockquote>
 <blockquote><p>מָרַת לְבָבִי זֶה אוֹתִי הִשְׁכָּחְתָּ,</p></blockquote>
@@ -689,7 +689,7 @@
 <p><strong>שיחה ג'</strong></p>
 <p>תהלה באה בשדה לבדה, אח"כ רואה את יושר מרחוק ובורחת.</p>
 <br/>
-<blockquote><p><strong>תהלה</strong>:  הֵן פֹּה אֲשֶׁר עוֹמֶדֶת</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: הֵן פֹּה אֲשֶׁר עוֹמֶדֶת</p></blockquote>
 <blockquote><p>עַתָּה לְבַדִּי אָנִי,</p></blockquote>
 <blockquote><p>אֶשָּׂא לְבָבִי אַף־כַּפַּי אֶפְרֹשָׂה,</p></blockquote>
 <blockquote><p>אֶשְׁפּוֹךְ בְּמַר נַפְשִׁי אַף־רוּחִי יַחַד</p></blockquote>
@@ -773,77 +773,77 @@
 <p><strong>שיחה ד'</strong></p>
 <p>סכלות ותהלה</p>
 <br/>
-<blockquote><p><strong>סכלות</strong>:  מַה־זֶּה, גְּבִרְתִּי, אָן הָיִית עַד עָתָּה</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: מַה־זֶּה, גְּבִרְתִּי, אָן הָיִית עַד עָתָּה</p></blockquote>
 <blockquote><p>כִּי לֹא מְצָאתִיךְ?</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       אַךְ הֵנָּה הָיִיתִי.</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  הִנֵּה לְרֹאשׁ הָהָר כִּדְבָרֵךְ בָּאתִי,</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: אַךְ הֵנָּה הָיִיתִי.</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: הִנֵּה לְרֹאשׁ הָהָר כִּדְבָרֵךְ בָּאתִי,</p></blockquote>
 <blockquote><p>וָאֵלְכָה הָעָיְנָה</p></blockquote>
 <blockquote><p>אַךְ לֹא מְצָאתִיךְ.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       מַה דִּבֶּר אֵלַיִךְ</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: מַה דִּבֶּר אֵלַיִךְ</p></blockquote>
 <blockquote><p>אָבִי וּמַה צִּוָּה עָלָי?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      צִוַּנִי</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: צִוַּנִי</p></blockquote>
 <blockquote><p>שִׂמְחָה לְבַשֵּׂר לָךְ.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       מִי יִתֵּן יֶהִי!</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  אָמְנָם הֲלֹא כֵן הוּא.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       כֵּן יִהְיֶה סֶלָה</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: מִי יִתֵּן יֶהִי!</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: אָמְנָם הֲלֹא כֵן הוּא.</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: כֵּן יִהְיֶה סֶלָה</p></blockquote>
 <blockquote><p>אַךְ אֶת־אֲשֶׁר אִתָּךְ אִמְרִי.</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      תֵּדָעִי,</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: תֵּדָעִי,</p></blockquote>
 <blockquote><p>כִּי יוֹם כְּלוּלוֹתַיִךְ,</p></blockquote>
 <blockquote><p>מוֹעֵד חֲתֻנָּתֵךְ אֶל־יוֹם הַחֹדֶשׁ</p></blockquote>
 <blockquote><p>הוּשָׂם.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       וְעִם מִי?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      עִם מִי לֹא יָדַעַתְּ?</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: וְעִם מִי?</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: עִם מִי לֹא יָדַעַתְּ?</p></blockquote>
 <blockquote><p>מִי הוּא חֲתָנֵךְ, לֹא רַהַב?</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       אַךְ לָמָּה</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: אַךְ לָמָּה</p></blockquote>
 <blockquote><p>לֹא אֶת־שְׁמוֹ הִזְכַּרְתְּ?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  מִי הוּא אֲשֶׁר אֶת־זֹאת לֹא־יָדַע עָתָּה,</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: מִי הוּא אֲשֶׁר אֶת־זֹאת לֹא־יָדַע עָתָּה,</p></blockquote>
 <blockquote><p>מִי בַּשְּׁעָרִים אִישׁ נוֹדַע מִמֶּנּוּ?</p></blockquote>
-<blockquote><p><strong>תהלה</strong> לעצמה:    מִי יִתְּנֵנִי לֹא־הִכַּרְתִּיו אָנִי!</p></blockquote>
-<blockquote><p>אל <strong>סכלות</strong>:      אַךְ אִישׁ וְאִשָּׁה שָׁם עַל־עֵין הַמַּיִם</p></blockquote>
+<blockquote><p><strong>תהלה</strong> לעצמה: מִי יִתְּנֵנִי לֹא־הִכַּרְתִּיו אָנִי!</p></blockquote>
+<blockquote><p>אל <strong>סכלות</strong>: אַךְ אִישׁ וְאִשָּׁה שָׁם עַל־עֵין הַמַּיִם</p></blockquote>
 <blockquote><p>מָצָאת בְּבוֹאֵךְ שָׁמָּה?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  חֶבְרַת אֲנָשִׁים שָׁם הִנֵּה רָאִיתִי</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: חֶבְרַת אֲנָשִׁים שָׁם הִנֵּה רָאִיתִי</p></blockquote>
 <blockquote><p>מִשְׁתּוֹמְמִים יַחְדָּו אִישׁ אֶל־רֵעֵהוּ,</p></blockquote>
 <blockquote><p>אַךְ מוֹצְאוֹתָם לֹא אוֹתָם שָׁאָלְתִּי.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:  אָמְנָם עֲשֹׂה הִסְכָּלְתְּ!</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: אָמְנָם עֲשֹׂה הִסְכָּלְתְּ!</p></blockquote>
 <blockquote><p>עַתָּה לְכִי מַהֵר, רוּצִי וָשׁוּבִי,</p></blockquote>
 <blockquote><p>טֶרֶם עֲרוֹב הַיּוֹם וּדְעִי מָה־אֵלֶּה.</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  כֵּן אֶעֱשֶׂה.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:       מַהֵר רוּצִי וָבֹאִי!</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: כֵּן אֶעֱשֶׂה.</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: מַהֵר רוּצִי וָבֹאִי!</p></blockquote>
 <blockquote><p>לִבִּי מְקַפֵּץ בִּי, נַפְשִׁי מַגֶּדֶת</p></blockquote>
 <blockquote><p>אֵלַי חֲדָשׁוֹת, אַךְ יָדִי קָצָרָה</p></blockquote>
 <blockquote><p>אוֹתָם לְהָבִין. בֵּין תִּקְוָה וָפַחַד</p></blockquote>
 <blockquote><p>רוּחִי כְּקָנֶה נָד הֵנָּה וָהֵנָּה.</p></blockquote>
 <blockquote><p>צוּרִי! פְּתַח־נָא לִי פִּתְחֵי חַסְדֶּךָ,</p></blockquote>
 <blockquote><p>לֵבָב אֲשֶׁר נִשְׁבַּר יִמְצָא־נָא רֶוַח,</p></blockquote>
-<blockquote><p>נִגְעוֹ רְפָא נָא וּכְאֵבָיו יִתָּמּוּ    (תָּמּוּ)</p></blockquote>
+<blockquote><p>נִגְעוֹ רְפָא נָא וּכְאֵבָיו יִתָּמּוּ (תָּמּוּ)</p></blockquote>
 <blockquote><p>מַה קּוֹל בְּאָזְנָי, מִי לִדְבָרַי עַתָּה</p></blockquote>
-<blockquote><p>עוֹנֶה וְלֹא קָרָאתִי?    (אַתְּ הִיא)</p></blockquote>
+<blockquote><p>עוֹנֶה וְלֹא קָרָאתִי? (אַתְּ הִיא)</p></blockquote>
 <blockquote><p>הַאַתְּ אֲשֶׁר תֵּשֵׁבִי</p></blockquote>
 <blockquote><p>סִכְלוּת לְצַחֶק בִּי שָׁמָּה בַּסָּתֶר?</p></blockquote>
 <blockquote><p>קוּמִי מְהֵרָה לֵכִי!</p></blockquote>
-<blockquote><p>כִּי פֹה מְצַפָּה לָךְ הִנֵּה הִנֵּנִי.    (אֵינִי)</p></blockquote>
+<blockquote><p>כִּי פֹה מְצַפָּה לָךְ הִנֵּה הִנֵּנִי. (אֵינִי)</p></blockquote>
 <blockquote><p>אִם־אֵינְךָ סִכְלוּת מִי־אֵפוֹא אַתָּה</p></blockquote>
-<blockquote><p>לוֹעֵג לְרֵישִׁי שׂוֹחֵק אֶל־אֵבֶל?   (הֶבֶל)</p></blockquote>
+<blockquote><p>לוֹעֵג לְרֵישִׁי שׂוֹחֵק אֶל־אֵבֶל? (הֶבֶל)</p></blockquote>
 <blockquote><p>הוֹי קוֹל בְּלִי יָדַעְתִּי!</p></blockquote>
 <blockquote><p>לוּ הָיְתָה נַפְשֵׁךְ תַּחְתַּי, אָז אֵרֶא</p></blockquote>
 <blockquote><p>אִם־תִּשְׂחֲקִי כָעֵת אוֹ אִם תָּגִילִי. (גִּילִי)</p></blockquote>
 <blockquote><p>אָגִיל! וְעַל־מִי־זֶה (אִמְרִי) אָגִילָה?</p></blockquote>
-<blockquote><p>אָגִיל עֲלֵי רַהַב אוֹ אַשִּׂיג יֹשֶׁר!  (יֹשֶׁר)</p></blockquote>
+<blockquote><p>אָגִיל עֲלֵי רַהַב אוֹ אַשִּׂיג יֹשֶׁר! (יֹשֶׁר)</p></blockquote>
 <blockquote><p>מַה־זֶּה אֲדַמֶּה עַתָּה?</p></blockquote>
 <blockquote><p>מָה אֶחֱלוֹם עַתָּה, אוֹ מָה אֶשְׁמָעָה?</p></blockquote>
 <blockquote><p>יֹשֶׁר אֲשֶׁר מִמֶּנִּי</p></blockquote>
 <blockquote><p>מִנִּי שְׁחָקִים יִמְנָעוּן, אַשִּׂיגָה!</p></blockquote>
-<blockquote><p>אָנָה מְזִמּוֹתַי כַּיּוֹם הָלָכוּ?    (לָךְ הוּא)</p></blockquote>
+<blockquote><p>אָנָה מְזִמּוֹתַי כַּיּוֹם הָלָכוּ? (לָךְ הוּא)</p></blockquote>
 <blockquote><p>יֹשֶׁר יְהִי שֶׁלִּי? הָהּ מִי מִמֶּנִּי</p></blockquote>
 <blockquote><p>עַלְמָה מְאֻשָּׁרָה תִּהְיֶה בָּאָרֶץ!</p></blockquote>
-<blockquote><p>לוּ נֶאֱמָן קוֹל זֶה חֶזְיוֹנֵךְ יֶהִי!  (יֶהִי)</p></blockquote>
+<blockquote><p>לוּ נֶאֱמָן קוֹל זֶה חֶזְיוֹנֵךְ יֶהִי! (יֶהִי)</p></blockquote>
 <blockquote><p>יִהְיֶה, אֱלֹהַי יוֹאֶל.</p></blockquote>
 <blockquote><p>כִּי רַק עֱזוּזוֹ, אַךְ עֹצֶם יָדֵהוּ</p></blockquote>
 <blockquote><p>יוּכַל עֲשׂוֹת זֹאת עַתַָּה,</p></blockquote>
 <blockquote><p>וּבְתוֹךְ תְּהוֹם הַחֹשֶׁךְ</p></blockquote>
 <blockquote><p>יִזְרַח כַּשַּׁחַר לָנוּ,</p></blockquote>
-<blockquote><p>יוֹצִיא בְּרָב־כֹּחוֹ לָאוֹר צִדְקֵנוּ.  (כֵּן הוּא)</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  עַתָּה, גְּבִרְתִּי, שַׁבְתִּי</p></blockquote>
+<blockquote><p>יוֹצִיא בְּרָב־כֹּחוֹ לָאוֹר צִדְקֵנוּ. (כֵּן הוּא)</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: עַתָּה, גְּבִרְתִּי, שַׁבְתִּי</p></blockquote>
 <blockquote><p>וּבְפִי פְלָאִים, מִשָּׁמְעָם נִבְהָלְתִּי:</p></blockquote>
 <blockquote><p>רַהַב לְאִטּוֹ אֶת־תַּרְמִית בַּיַּעַר</p></blockquote>
 <blockquote><p>מִתְהַלְּכִים הָיוּ, עֵת נִרְאֶה פֶּתַע</p></blockquote>
@@ -851,16 +851,16 @@
 <blockquote><p>מִדֵּי אֲדַבֵּר), דֹּב, נָמֵר וָשַׁחַל</p></blockquote>
 <blockquote><p>רַבִּים כְּחוֹל הַיָּם, וַיִּתְיַצָּבוּ</p></blockquote>
 <blockquote><p>אוֹתָם כְּשֶׂה אֶחָד לִטְרוֹף גַּם־יָחַד.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:  וַיִּטְרְפוּ אוֹתָם?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      לֹא, כִּי נִצּוֹלוּ.</p></blockquote>
-<blockquote><p><strong>תהלה</strong> לעצמה:    צַר לִי מְאֹד.</p></blockquote>
-<blockquote><p>אל <strong>סכלות</strong>:          אַךְ אֵיכָכָה נִצּוֹלוּ?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  רָעַשׁ לְעֻמָּתָם הָהָר מִנֶּגֶד</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: וַיִּטְרְפוּ אוֹתָם?</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: לֹא, כִּי נִצּוֹלוּ.</p></blockquote>
+<blockquote><p><strong>תהלה</strong> לעצמה: צַר לִי מְאֹד.</p></blockquote>
+<blockquote><p>אל <strong>סכלות</strong>: אַךְ אֵיכָכָה נִצּוֹלוּ?</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: רָעַשׁ לְעֻמָּתָם הָהָר מִנֶּגֶד</p></blockquote>
 <blockquote><p>וַיֶּחֱרַד הָעֵמֶק,</p></blockquote>
 <blockquote><p>וַיִּבְרְחוּ כֻלָּם וּלְמֶרְחָק נָסוּ,</p></blockquote>
 <blockquote><p>רַהַב וְתַרְמִית אָז מֵהֶם נִמְלָטוּ</p></blockquote>
 <blockquote><p>וַיְמַהֲרוּ וַיָּשׁוּבוּ הָעִירָה.</p></blockquote>
-<blockquote><p><strong>תהלה</strong> לעצמה:    הֵן קִנְּאוּ עַתָּה חַיְתוֹ בַּיַּעַר</p></blockquote>
+<blockquote><p><strong>תהלה</strong> לעצמה: הֵן קִנְּאוּ עַתָּה חַיְתוֹ בַּיַּעַר</p></blockquote>
 <blockquote><p>עַל תּוֹךְ בְּנֵי אָדָם עַוְלַת יָדֵימוֹ!</p></blockquote>
 <blockquote><p>אָמְנָם מְתֵי רִשְׁעָה אֵלֶּה פָּלָטוּ,</p></blockquote>
 <blockquote><p>אַךְ לֹא עֲדֶן גָּמָרוּ</p></blockquote>
@@ -870,7 +870,7 @@
 <blockquote><p>מָה אַחֲרִית כָּל־אֵלֶּה,</p></blockquote>
 <blockquote><p>כִּי רַק לְיוֹם נָקָם וּלְמוֹעֵד זַעַם</p></blockquote>
 <blockquote><p>לַָכֵן שְׁמוּרִים הֵמָּה.</p></blockquote>
-<blockquote><p>אל <strong>סכלות</strong>:      עַתָּה לְכִי נָבוֹאָה</p></blockquote>
+<blockquote><p>אל <strong>סכלות</strong>: עַתָּה לְכִי נָבוֹאָה</p></blockquote>
 <blockquote><p>מַהֵר לְבֵית אָבִי, פֶּן־יִדְאַג לָנוּ</p></blockquote>
 <blockquote><p>כִּי רַד מְאֹד הַיּוֹם וּבְשָׂדֶה אָנוּ.</p></blockquote>
 <blockquote><p>לִבִּי וְנַפְשִׁי! הֵן אֶתְכֶם אֶשְׁמָעָה,</p></blockquote>
@@ -885,7 +885,7 @@
 <p><strong>שיחה א'</strong></p>
 <p>המון, תהלה, רהב, תרמית ושאר קרואים במשתה בבקר קודם החופה.</p>
 <br/>
-<blockquote><p><strong>המון</strong>:   אִכְלוּ, שְׁתוּ, אַחַי, רֵעַי, הֵיטִיבוּ</p></blockquote>
+<blockquote><p><strong>המון</strong>: אִכְלוּ, שְׁתוּ, אַחַי, רֵעַי, הֵיטִיבוּ</p></blockquote>
 <blockquote><p>אֶת־לִבְּכֶם הַיּוֹם, כִּי עוֹד אוֹחִילָה,</p></blockquote>
 <blockquote><p>עַל־צֶאֱצָאֵי אֵלֶּה</p></blockquote>
 <blockquote><p>בָּנַי, בְּשִׂמְחָה עוֹד נָשׁוּב נָגִילָה.</p></blockquote>
@@ -893,17 +893,17 @@
 <blockquote><p>הַיּוֹם מְתֵי סוֹדֶךָ,</p></blockquote>
 <blockquote><p>כֵּן בֶּן־מְאַת שָׁנָה אוֹתָם תָּשִׂישָׂה,</p></blockquote>
 <blockquote><p>עוֹד רַעֲנָן, דָּשֵׁן וּשְׂבַע כָּל־נָחַת.</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   אָבִי! הֲלֹא תִרְאֶה, אֵיכָכָה פֶתַע</p></blockquote>
+<blockquote><p><strong>רהב</strong>: אָבִי! הֲלֹא תִרְאֶה, אֵיכָכָה פֶתַע</p></blockquote>
 <blockquote><p>הִתְקַדְּרוּ שָׁמָיִם.</p></blockquote>
 <blockquote><p>הַבֵּט עֲרָפֶל זֶה נִצָּב נֶגְדֵּנוּ,</p></blockquote>
 <blockquote><p>אָיֹם כְּמֵפִיץ אַף וּכְשׁוֹפֵךְ זָעַם.</p></blockquote>
 <blockquote><p>שׁוּר־נָא חֲגוֹרָה זֹאת חָגַר רָקִיעַ</p></blockquote>
 <blockquote><p>כַּדָּם אֲדֻמָּה.</p></blockquote>
-<blockquote><p><strong>המון</strong>:       כֵּן, הִנֵּה גַם־אָנִי</p></blockquote>
+<blockquote><p><strong>המון</strong>: כֵּן, הִנֵּה גַם־אָנִי</p></blockquote>
 <blockquote><p>רֹאֶה, וְלֹא חָדַלְתִּי</p></blockquote>
 <blockquote><p>לִדְאֹג, אֲשֶׁר כַּיּוֹם, יוֹם שִׂמְחָתֵנוּ,</p></blockquote>
 <blockquote><p>כָּזֹאת תְּאֻנֶּה.</p></blockquote>
-<blockquote><p><strong>תרמית</strong>:      מַה־יִּפּוֹל לִבֶּךָ,</p></blockquote>
+<blockquote><p><strong>תרמית</strong>: מַה־יִּפּוֹל לִבֶּךָ,</p></blockquote>
 <blockquote><p>הָמוֹן, הֲלֹא תֵבוֹשׁ, מַה־תִּפְחַד פַּחַד</p></blockquote>
 <blockquote><p>מֵעָב קְטַנָּה כִּי תִרְאֶה, מִגֶּשֶׁם</p></blockquote>
 <blockquote><p>קָטֹן אֲשֶׁר יָבֹא? קוּם, קוּם, הַנִּיחָה</p></blockquote>
@@ -911,15 +911,15 @@
 <blockquote><p>לִכְבוֹדְךָ כּוֹס זֶה אֶשְׁתֶּה־נָּא עַתָּה</p></blockquote>
 <blockquote><p>כָּל־טוֹב לְבַשֶּׂר לָךְ, אַף אַתָּה קוּמָה</p></blockquote>
 <blockquote><p>אִתִּי שְׁתֵה וּלְךָ יִנְעַם לָנֶצַח.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   מַה־זֶּה, בְּנִי, הָרַחְמָן יַצִּילֵנוּ?</p></blockquote>
+<blockquote><p><strong>המון</strong>: מַה־זֶּה, בְּנִי, הָרַחְמָן יַצִּילֵנוּ?</p></blockquote>
 <blockquote><p>מָה הַסְּעָרָה זֹאת מִתֵּימָן בָּאָה?</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   חָרֵד לְבָבִי בִּי מִקּוֹל הָרָעַם.</p></blockquote>
-<blockquote><p><strong>תהלה</strong>:  אֵיךְ תִּהֲלַךְ כָּזֹאת (אָבִי!) אֵשׁ אָרְצָה.</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   הַקִּיר, רְאֵה, נוֹטֶה לִנְפּוֹל הִנֵּהוּ.</p></blockquote>
+<blockquote><p><strong>רהב</strong>: חָרֵד לְבָבִי בִּי מִקּוֹל הָרָעַם.</p></blockquote>
+<blockquote><p><strong>תהלה</strong>: אֵיךְ תִּהֲלַךְ כָּזֹאת (אָבִי!) אֵשׁ אָרְצָה.</p></blockquote>
+<blockquote><p><strong>רהב</strong>: הַקִּיר, רְאֵה, נוֹטֶה לִנְפּוֹל הִנֵּהוּ.</p></blockquote>
 <blockquote><p><strong>קרואים</strong>: מִנִּי שְׁמֵי מָרוֹם נִלְחָמִים בָּנוּ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   סַעַר אֲשֶׁר כָּזֶה עוֹד לֹא רָאִיתִי.</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   שׁוֹמֵם אֲנִי.</p></blockquote>
-<blockquote><p><strong>קרואים</strong>:     אָנָה נָנוּסָה, אָנָה?</p></blockquote>
+<blockquote><p><strong>המון</strong>: סַעַר אֲשֶׁר כָּזֶה עוֹד לֹא רָאִיתִי.</p></blockquote>
+<blockquote><p><strong>רהב</strong>: שׁוֹמֵם אֲנִי.</p></blockquote>
+<blockquote><p><strong>קרואים</strong>: אָנָה נָנוּסָה, אָנָה?</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: מַה־תִּירְאוּ? לָמָּה כָזֶה תֵּחָתּוּ?</p></blockquote>
 <blockquote><p>מַה־זֶּה, הֲלֹא מִקְרֶה הוּא מִימֵי קֶדֶם,</p></blockquote>
 <blockquote><p>קָרָה וְיִקְרֶה עוֹד דּוֹר וָדוֹר סֶלָה,</p></blockquote>
@@ -944,7 +944,7 @@
 <blockquote><p>אַךְ פֹּה, בְּצֵל קוֹרַת עֹפֶל וָבַחַן,</p></blockquote>
 <blockquote><p>מַה־תִּירְאוּ רַכֵּי הַלֵּבָב? בֹּשׁוּ</p></blockquote>
 <blockquote><p>יַחְדָּו שְׁפַנֵּי סָלַע!</p></blockquote>
-<blockquote><p><strong>המון</strong>:   אָמְנָם לְבָבִי נָע, רוּחִי חֻבָּלָה.</p></blockquote>
+<blockquote><p><strong>המון</strong>: אָמְנָם לְבָבִי נָע, רוּחִי חֻבָּלָה.</p></blockquote>
 <blockquote><p>יָרֵא אֲנִי, אִם־זֶה מוֹרָא אוֹ מֹרֶךְ</p></blockquote>
 <blockquote><p>לֹא אֵדְעָה, אָכֵן יָרֵא אָנֹכִי.</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: נָכוֹן וְרָאוּי אַתָּה</p></blockquote>
@@ -954,12 +954,12 @@
 <blockquote><p>הַמַּחֲנֶה נֶעְזָב הִנֵּה תַּנִּיחַ</p></blockquote>
 <blockquote><p>וּבְמַהֲמוֹר אֶחָד אוֹ תַּחַת בֶּטֶן</p></blockquote>
 <blockquote><p>סוּס רִכְבְּךָ הֵן תִּתְחַבֵּא נַפְשֶׁךָ!</p></blockquote>
-<blockquote><p><strong>המון</strong>:   תַּרְמִית! הֲלֹא דָבָר הוּא, כִּי מִמַּעַל</p></blockquote>
+<blockquote><p><strong>המון</strong>: תַּרְמִית! הֲלֹא דָבָר הוּא, כִּי מִמַּעַל</p></blockquote>
 <blockquote><p>הַיּוֹם כְּצָר נִצָּבוּ</p></blockquote>
 <blockquote><p>לֹא אֵדְעָה שַׁלָּמָּה?</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: הֶרֶף מְעַט נָא, הֶרֶף,</p></blockquote>
 <blockquote><p>הָמוֹן, חֲדַל, כִּי אֵין דָּבָר, הַרְגִּיעָה!</p></blockquote>
-<blockquote><p><strong>המון</strong>:   לֹא אוּכְלָה הַרְגִּיעַ,</p></blockquote>
+<blockquote><p><strong>המון</strong>: לֹא אוּכְלָה הַרְגִּיעַ,</p></blockquote>
 <blockquote><p>אֵין יֵשׁ הֲפוּגוֹת אֶל־לִבִּי, כִּי תַּחַת</p></blockquote>
 <blockquote><p>בֹּא כָּל־דְּמָמָה מִתְגַּבֵּר הַסָּעַר.</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: הִנֵּה כְּאֵלֶּה אֶלֶף</p></blockquote>
@@ -999,15 +999,15 @@
 <blockquote><p>רַק לֵב נְעָרִים הוּא יִפְחַד מֵהֵמָּה,</p></blockquote>
 <blockquote><p>אוֹ אִישׁ חֲסַר לֵב, גַּם שׁוֹגֶה וָפֶתִי,</p></blockquote>
 <blockquote><p>כִּי גַם בְּזִקְנָתוֹ עוֹדֶנּוּ נָעַר.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   לֹא אֶשְׁמְעָה לָּךְ סֶלָה,</p></blockquote>
+<blockquote><p><strong>המון</strong>: לֹא אֶשְׁמְעָה לָּךְ סֶלָה,</p></blockquote>
 <blockquote><p>תַּרְמִית, בְּדָבָר זֶה, לֹא, לֹא!</p></blockquote>
-<blockquote><p><strong>תרמית</strong>:      יָדַעְתִּי,</p></blockquote>
+<blockquote><p><strong>תרמית</strong>: יָדַעְתִּי,</p></blockquote>
 <blockquote><p>הָמוֹן, כְּבָר יָדַעְתִּי,</p></blockquote>
 <blockquote><p>כִּי זֶה כְּבָר מֵאָז רַבּוֹת רָאִיתִי,</p></blockquote>
 <blockquote><p>דֵּעָה אֲשֶׁר זָקָנָה</p></blockquote>
 <blockquote><p>לֶב־אִישׁ מְאֹד תִּמְשׁוֹל גַּם כִּי־כּוֹזָבֶת.</p></blockquote>
-<blockquote><p><strong>עבד</strong>:   אָדוֹן, כְּבָר נִשְׁבַּר עַמּוּד הַתָּוֶךְ.</p></blockquote>
-<blockquote><p><strong>זקן</strong>:    מָה עוֹד נְצַפֶּה עַתָּה?</p></blockquote>
+<blockquote><p><strong>עבד</strong>: אָדוֹן, כְּבָר נִשְׁבַּר עַמּוּד הַתָּוֶךְ.</p></blockquote>
+<blockquote><p><strong>זקן</strong>: מָה עוֹד נְצַפֶּה עַתָּה?</p></blockquote>
 <blockquote><p>אֶת־מַה נְּקַוֶּה, אוֹ מֶה עוֹד נוֹחִילָה?</p></blockquote>
 <blockquote><p>עַד־מוֹת וְהִקָּבֵר לֹא נִירָא מָוֶת?</p></blockquote>
 <blockquote><p>אֶצְבַּע אֱלֹהִים הִיא, בִּינוּ־נָא, בִּינוּ!</p></blockquote>
@@ -1034,11 +1034,11 @@
 <blockquote><p>הֹוָה עֲלֵי הֹוָה, שֶׁבֶר עַל־שֶׁבֶר</p></blockquote>
 <blockquote><p>הִשְׂתָּרְגוּ עָלוּ עַל־צַוָּארֵימוֹ,</p></blockquote>
 <blockquote><p>לֹא יָדְעוּ שַׁחְרָם, אוֹר לֹא יַשִּׂיגוּ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   אָכֵן בְּמָה אָשֵׁם, אָחִי, אָנֹכִי</p></blockquote>
+<blockquote><p><strong>המון</strong>: אָכֵן בְּמָה אָשֵׁם, אָחִי, אָנֹכִי</p></blockquote>
 <blockquote><p>הַיּוֹם וּמֶה עָשִׂיתִי?</p></blockquote>
 <blockquote><p>הוֹאֵל וְהוֹדִיעֵנִי</p></blockquote>
 <blockquote><p>פִּשְׁעִי וְחַטָּאתִי, כִּי־אָסוּר מֶנּוּ.</p></blockquote>
-<blockquote><p><strong>זקן</strong>:    אוֹמֵר לְבָבִי לִי וּכְמוֹ אֶזְכֹּרָה,</p></blockquote>
+<blockquote><p><strong>זקן</strong>: אוֹמֵר לְבָבִי לִי וּכְמוֹ אֶזְכֹּרָה,</p></blockquote>
 <blockquote><p>כִּי־עֵת אֲשֶׁר שָׁלָלוּ</p></blockquote>
 <blockquote><p>הַמַּעֲטִירָה זֹאת, קִרְיַת גִּילֵנוּ,</p></blockquote>
 <blockquote><p>צִבְאוֹת מְבוּכָה, לָנֶצַח יֹאבֵדוּ,</p></blockquote>
@@ -1063,26 +1063,26 @@
 <blockquote><p>הַיּוֹם אֲשֵׁמִים אָנוּ,</p></blockquote>
 <blockquote><p>כִּי בֶּן־אֱמֶת לֹא יֶהִי</p></blockquote>
 <blockquote><p>רַהַב, כְּמוֹ דִּמִּינוּ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   אוֹי, מַה־מְּנָת חֶלְקִי! מַה זֶּה יִקְרֵנִי?</p></blockquote>
-<blockquote><p><strong>רהב</strong>:   אוֹי, מַה יְּהִי זֶה לָנוּ?</p></blockquote>
+<blockquote><p><strong>המון</strong>: אוֹי, מַה־מְּנָת חֶלְקִי! מַה זֶּה יִקְרֵנִי?</p></blockquote>
+<blockquote><p><strong>רהב</strong>: אוֹי, מַה יְּהִי זֶה לָנוּ?</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: נָמֵס לְבָבִי בִּי, בִּרְכַּי כָּשָׁלוּ!</p></blockquote>
-<blockquote><p><strong>זקן</strong>:    מַה תַּעֲרוֹץ, הָמוֹן? הוֹחֵל עַד־נֵרֶא</p></blockquote>
+<blockquote><p><strong>זקן</strong>: מַה תַּעֲרוֹץ, הָמוֹן? הוֹחֵל עַד־נֵרֶא</p></blockquote>
 <blockquote><p>אֵיכָה יְהִי נוֹפֵל דָּבָר, אָז נֵדַע</p></blockquote>
 <blockquote><p>מַה נַּעֲשֶׂה.</p></blockquote>
-<blockquote><p><strong>המון</strong>:       אַתֶּם אַנְשֵׁי הַשֶּׁקֶר,</p></blockquote>
+<blockquote><p><strong>המון</strong>: אַתֶּם אַנְשֵׁי הַשֶּׁקֶר,</p></blockquote>
 <blockquote><p>רַהַב וְתַרְמִית יַחַד,</p></blockquote>
 <blockquote><p>אֵיךְ כֹּה לְכַזֵּב בִּי זַדְתֶּם, אֵיכָכָה?</p></blockquote>
 <blockquote><p><strong>תרמית</strong>: הַאִם כְּבָר רָאִיתָ,</p></blockquote>
 <blockquote><p>הָמוֹן, וְנוֹדַע כִּי רַהַב אֵינֶנּוּ</p></blockquote>
 <blockquote><p>זֶרַע אֱמֶת?</p></blockquote>
-<blockquote><p><strong>המון</strong>:       עַוָּל, עוֹד תִּפְתַּח פִּיךָ?</p></blockquote>
+<blockquote><p><strong>המון</strong>: עַוָּל, עוֹד תִּפְתַּח פִּיךָ?</p></blockquote>
 <blockquote><p>סוּרוּ מְרֵעִים, סוּרוּ!</p></blockquote>
 <blockquote><p>סוּרוּ בְּנֵי עַוְלָה, סוּרוּ מִמֶּנִּי!</p></blockquote>
 <blockquote><p>מִי יִתְּנֵנִי נֶפֶל</p></blockquote>
 <blockquote><p>אוֹ עִם־חֲלָלִים קָבֶר</p></blockquote>
 <blockquote><p>אָז אֶשְׁכְּבָה טֶרֶם אֶתְכֶם יָדָעְתִּי,</p></blockquote>
 <blockquote><p>חֵרֵשׁ אֱהִי טֶרֶם לָכֶם שָמָעְתִּי.</p></blockquote>
-<blockquote><p><strong>זקן</strong>:    הַשְׁקֵט מְעַט, הָמוֹן, קוּם נָא וָבֹאָה,</p></blockquote>
+<blockquote><p><strong>זקן</strong>: הַשְׁקֵט מְעַט, הָמוֹן, קוּם נָא וָבֹאָה,</p></blockquote>
 <blockquote><p>כִּי נֵלְכָה אֶל־בֵּית מִשְׁפָּט כֻּלָּנוּ,</p></blockquote>
 <blockquote><p>הוּא לַאֲשׁוּרוֹ הַדָּבָר יוֹדִיעַ,</p></blockquote>
 <blockquote><p>דִּינוֹ לְאוֹר עַמִּים נָכוֹן יַרְגִּיעַ,</p></blockquote>
@@ -1110,36 +1110,36 @@
 <blockquote><p>בַּל־אוֹתְךָ אֶמְצָא, וּכְבָר נוֹאַשְׁתִּי</p></blockquote>
 <blockquote><p>וָאַחְדְּלָה לִדְרוֹשׁ, לוּלֵי כִּי עַתָּה</p></blockquote>
 <blockquote><p>לִרְאוֹת דְּמוּתָךְ מֵרָחוֹק דִּמִּיתִי.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   מַה־זֶּה וְעַל־מַה־זֶּה, סִכְלוּת, מַדּוּעַ</p></blockquote>
+<blockquote><p><strong>שכל</strong>: מַה־זֶּה וְעַל־מַה־זֶּה, סִכְלוּת, מַדּוּעַ</p></blockquote>
 <blockquote><p>אוֹתִי תְּבַקְשִׁי? מַה יֵּשׁ אִתָּךְ לָנוּ?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  אִתִּי חֲדָשׁוֹת, אוֹת נוֹרָא וָפֶלֶא,</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: אִתִּי חֲדָשׁוֹת, אוֹת נוֹרָא וָפֶלֶא,</p></blockquote>
 <blockquote><p>דָּבָר, אֲשֶׁר תִּצַּלְנָה</p></blockquote>
 <blockquote><p>אֶל־שׁוֹמְעָיו אָזְנָיִם.</p></blockquote>
 <blockquote><p>לֹא אַאֲמִין לוּלֵי עֵינַי רָאוּהוּ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   מַה־זֶּה אֲשֶׁר קָרָה? אִמְרִי, הַגִּידִי!</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  לִּבִּי סְחַרְחַר, מִשְׁתָּאָה עוֹדֶנִּי</p></blockquote>
+<blockquote><p><strong>שכל</strong>: מַה־זֶּה אֲשֶׁר קָרָה? אִמְרִי, הַגִּידִי!</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: לִּבִּי סְחַרְחַר, מִשְׁתָּאָה עוֹדֶנִּי</p></blockquote>
 <blockquote><p>(שֶׂכֶל) וְלֹא אֵדָעָה</p></blockquote>
 <blockquote><p>אִם רָאֲתָה עֵינִי אוֹ אִם־חָלָמְתִּי.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אַךְ מָה אֲשֶׁר נִהְיָה אִמְרִי, סַפֵּרִי.</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  מָה אֹמְרָה לָכֶם? רַהַב גֵּרֵשׁוּ</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַךְ מָה אֲשֶׁר נִהְיָה אִמְרִי, סַפֵּרִי.</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: מָה אֹמְרָה לָכֶם? רַהַב גֵּרֵשׁוּ</p></blockquote>
 <blockquote><p>מִהְיוֹת חֲתַן הָמוֹן.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:       מַה־זֶּה בָּאת עַתָּה</p></blockquote>
+<blockquote><p><strong>יושר</strong>: מַה־זֶּה בָּאת עַתָּה</p></blockquote>
 <blockquote><p>סִכְלוּת לְצַחֶק בִּי?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:      לֹא, כִּי שֹׂחֶקֶת</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: לֹא, כִּי שֹׂחֶקֶת</p></blockquote>
 <blockquote><p>בָּךְ אֵין אֲנִי, אַךְ אֶל־עֵינַי גֵּרֵשׁוּ</p></blockquote>
 <blockquote><p>אוֹתוֹ וְכֵן נִבְהָלְתִּי.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אֵיךְ נִהְיְתָה זֹאת? נָא!</p></blockquote>
-<blockquote><p><strong>יושר</strong>:       צוּרִי, מָה אֵלֶּה</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  אֵיךְ, אֵין אֲנִי יוֹדָעַת,</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אֵיךְ נִהְיְתָה זֹאת? נָא!</p></blockquote>
+<blockquote><p><strong>יושר</strong>: צוּרִי, מָה אֵלֶּה</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: אֵיךְ, אֵין אֲנִי יוֹדָעַת,</p></blockquote>
 <blockquote><p>אָמְנָם אֲשֶׁר רָאִיתִי,</p></blockquote>
 <blockquote><p>כִּי גֵרְשׁוּ רַהַב וַיַּבְרִיחוּהוּ</p></blockquote>
 <blockquote><p>וַיֵּלְכוּ אֶל־בֵּית מִשְׁפָּט כֻּלָּמוֹ,</p></blockquote>
 <blockquote><p>לֹא אֵדְעָה עַל־מָה אוֹ מַה־זֶּה יֶהִי</p></blockquote>
 <blockquote><p>עוֹד אַחֲרִית כָּל־אֵלֶּה.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אַךְ מִי אֲשֶׁר הֵעִיר אֶת־כָּל־זֶה עַתָּה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַךְ מִי אֲשֶׁר הֵעִיר אֶת־כָּל־זֶה עַתָּה</p></blockquote>
 <blockquote><p>פִּתְאֹם, וְאֵיךְ הֵחֵלָּה</p></blockquote>
 <blockquote><p>זֹאת הַהֲמֻלָּה? לֹא הָיִית אַתְּ שָׁמָּה?</p></blockquote>
-<blockquote><p><strong>סכלות</strong>:  שׁוֹתִים בְּמִשְׁתֵּיהֶם הָיוּ לָבֶטַח,</p></blockquote>
+<blockquote><p><strong>סכלות</strong>: שׁוֹתִים בְּמִשְׁתֵּיהֶם הָיוּ לָבֶטַח,</p></blockquote>
 <blockquote><p>עֵת כִּי סְעָרָה קָמָה,</p></blockquote>
 <blockquote><p>עָנָן וְרַעַשׁ, אַף אֵשׁ מִתְלַקַּחַת,</p></blockquote>
 <blockquote><p>וּבְתוֹךְ שְׁאוֹן פַּחְדָּם רִיבוֹת נָפָלוּ,</p></blockquote>
@@ -1147,18 +1147,18 @@
 <blockquote><p>קָשׁוֹת מְדַבֵּר, וּלְקוֹלוֹ עָמָדוּ</p></blockquote>
 <blockquote><p>וַיְגָרְשׁוּ רַהַב, אַחַר הָלָכוּ</p></blockquote>
 <blockquote><p>כֻּלָּם נְבוּכִים אֶל־בֵּית מִשְׁפָּט יָחַד.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   יֹשֶׁר יְדִידִי, אֵלֶּה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: יֹשֶׁר יְדִידִי, אֵלֶּה</p></blockquote>
 <blockquote><p>פִּלְאֵי תְּמִים דֵּעִים, סִתְרֵי צוּרֵנוּ!</p></blockquote>
 <blockquote><p>קוּם־נָא לְכָה נָבוֹאָה</p></blockquote>
 <blockquote><p>אֶל שַׁעֲרֵי מִשְׁפָּט, נִרְאֶה, נֵדָעָה,</p></blockquote>
 <blockquote><p>מַה־יַּעֲשֶׂה עִמָּנוּ</p></blockquote>
 <blockquote><p>הָאֵל יְיָ, כִּי יֶשַׁע יַצְמִיחַ</p></blockquote>
 <blockquote><p>הַיּוֹם לְנַפְשׁוֹתֵינוּ.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   יוֹאֵל אֱלֹהַי נָא, כִּי כִּדְבָרֶךָ</p></blockquote>
+<blockquote><p><strong>יושר</strong>: יוֹאֵל אֱלֹהַי נָא, כִּי כִּדְבָרֶךָ</p></blockquote>
 <blockquote><p>כֵּן יַעֲשֶׂה, אָכֵן בִּין לֹא אוּכָלָה,</p></blockquote>
 <blockquote><p>מַה־זֶּה אֲשֶׁר יֻלַּד בֵּינֵיהֶם פֶּתַע,</p></blockquote>
 <blockquote><p>כִּי כָל־מְזִמּוֹתָם כֹּה תִּתְהַפַּכְנָה?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   יֹשֶׁר, הֲזֹאת תִּסְכַּל, אִם־לֹא יָדַעְתָּ,</p></blockquote>
+<blockquote><p><strong>שכל</strong>: יֹשֶׁר, הֲזֹאת תִּסְכַּל, אִם־לֹא יָדַעְתָּ,</p></blockquote>
 <blockquote><p>כִּי כָל־בְּנֵי אָדָם וּבְנֵי אִישׁ יַחַד,</p></blockquote>
 <blockquote><p>כָּל־מוֹעֲצוֹתֵיהֶם, כָּל־חָכְמוֹת לָמוֹ</p></blockquote>
 <blockquote><p>חֹמֶר בְּיַד יוֹצֵר הִנֵּה הִנָּמוֹ,</p></blockquote>
@@ -1178,7 +1178,7 @@
 <p><strong>שיחה ג'</strong></p>
 <p>המון ורהב והזקן ושאר קרואים לפני משפט מלכם.</p>
 <br/>
-<blockquote><p><strong>המון</strong>:   עֹז עַמְּךָ, מָגֵן גּוֹי מַרְעִיתֶךָ,</p></blockquote>
+<blockquote><p><strong>המון</strong>: עֹז עַמְּךָ, מָגֵן גּוֹי מַרְעִיתֶךָ,</p></blockquote>
 <blockquote><p>הַדְרַת תְּהִלָּתֵנוּ!</p></blockquote>
 <blockquote><p>מַלְכוּתְךָ יָכִין בּוֹרֵא שָׁמָיִם</p></blockquote>
 <blockquote><p>עַד־עוֹלְמֵי עַד סֶלָה.</p></blockquote>
@@ -1190,10 +1190,10 @@
 <blockquote><p>בַּצַּר לְנַפְשׁוֹתֵינוּ,</p></blockquote>
 <blockquote><p>כִּי תַעֲמִיד אֶל־צֹאן יָדֶיךָ רֶוַח</p></blockquote>
 <blockquote><p>וּתְנַחֲמֵנוּ שֵׁבֶט מַלְכוּתֶךָ.</p></blockquote>
-<blockquote><p>משפט:  בָּנַי! תְּשׁוּעַתְכֶם נַפְשִׁי דּוֹרֶשֶׁת</p></blockquote>
+<blockquote><p>משפט: בָּנַי! תְּשׁוּעַתְכֶם נַפְשִׁי דּוֹרֶשֶׁת</p></blockquote>
 <blockquote><p>וּשְׁלוֹמְכֶם חָפָצְתִּי,</p></blockquote>
 <blockquote><p>אַךְ מָה אֲשֶׁר אֶתְכֶם לוֹחֵץ הוּא עָתָּה?</p></blockquote>
-<blockquote><p><strong>המון</strong>:   מַלְכִּי, אֲשֶׁר קָרָנִי</p></blockquote>
+<blockquote><p><strong>המון</strong>: מַלְכִּי, אֲשֶׁר קָרָנִי</p></blockquote>
 <blockquote><p>דָּבָר מְאֹד זָר הוּא, כָּל־לֵב מַתְמִיהַּ.</p></blockquote>
 <blockquote><p>אֶל־בֶּן אֱמֶת יָעַדְתִּי</p></blockquote>
 <blockquote><p>בִּתִּי תְּהִלָּה, זֶה שָׁנִים עָבָרוּ,</p></blockquote>
@@ -1206,14 +1206,14 @@
 <blockquote><p>אֵיכָה לְמֵרָחוֹק צָפָה כָּל־אֵלֶּה</p></blockquote>
 <blockquote><p>מֵאָז אֱמֶת, עַל־כֵּן קָדַם וַיּוֹאֶל</p></blockquote>
 <blockquote><p>אוֹתוֹת בְּנוֹ בָּאֵר לִפְנֵי כִסְאֶךָ.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  כֵּן הוּא, וְעַל־סֵפֶר זִכָּרוֹן הֵמָּה</p></blockquote>
+<blockquote><p><strong>משפט</strong>: כֵּן הוּא, וְעַל־סֵפֶר זִכָּרוֹן הֵמָּה</p></blockquote>
 <blockquote><p>מֵאָז כְּתוּבִים, קוּם סוֹפֵר, הָבִיאָה</p></blockquote>
 <blockquote><p>מַהֵר הֲלוֹם הַסֵּפֶר.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   מַלְכִּי, יְחִי לָעַד שֵׁם מַלְכוּתֶךָ.</p></blockquote>
-<blockquote><p><strong>סופר</strong>:   מַלְכִּי לְעוֹלָם יֶחִי,</p></blockquote>
+<blockquote><p><strong>המון</strong>: מַלְכִּי, יְחִי לָעַד שֵׁם מַלְכוּתֶךָ.</p></blockquote>
+<blockquote><p><strong>סופר</strong>: מַלְכִּי לְעוֹלָם יֶחִי,</p></blockquote>
 <blockquote><p>כִּדְבָרְךָ פֹּה הַסֵּפֶר הִנֵּהוּ.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  עַתָּה קְרָא אֶת־הָרָשׁוּם.</p></blockquote>
-<blockquote><p><strong>סופר</strong>:       הִנֵּנִי.</p></blockquote>
+<blockquote><p><strong>משפט</strong>: עַתָּה קְרָא אֶת־הָרָשׁוּם.</p></blockquote>
+<blockquote><p><strong>סופר</strong>: הִנֵּנִי.</p></blockquote>
 <blockquote><p>"אֶל־בֶּן אֱמֶת אֵלֶּה צִיּוּנִים הֵמָּה.</p></blockquote>
 <blockquote><p>"מִצְחוֹ כְּשֶׁלֶג צַח וּכְצֶמֶר צָחַר;</p></blockquote>
 <blockquote><p>"קַוָּיו אֲרֻכִּים, בַּמִּישׁוֹר יֵלֵכוּ;</p></blockquote>
@@ -1223,10 +1223,10 @@
 <blockquote><p>"עַל־רֹאשׁ כְּתֵפוֹ הַיְמָנִית צוֹמֵחַ</p></blockquote>
 <blockquote><p>"שֵׂעָר כְּכֶתֶם פָּז מִתּוֹךְ בַּהֶרֶת,</p></blockquote>
 <blockquote><p>"כִּדְמוּת עֲדָשָׁה וּכְמוֹ תַבְנִית כֶּתֶר.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  עַתָּה יְבֻקַּר נָא פֹּה אֶל־עֵינֵינוּ,</p></blockquote>
+<blockquote><p><strong>משפט</strong>: עַתָּה יְבֻקַּר נָא פֹּה אֶל־עֵינֵינוּ,</p></blockquote>
 <blockquote><p>רַהַב, גְּשָׁה וּפְשׁוֹט אֶת־כֻּתָּנְתֶּךָ!</p></blockquote>
-<blockquote><p><strong>רהב</strong> לעצמו:     אוֹי, כִּי כְּבָר אָבָדְתִּי.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  אֶחָד לְךָ אֵין מִכָּל־אוֹתוֹת אֵלֶּה!</p></blockquote>
+<blockquote><p><strong>רהב</strong> לעצמו: אוֹי, כִּי כְּבָר אָבָדְתִּי.</p></blockquote>
+<blockquote><p><strong>משפט</strong>: אֶחָד לְךָ אֵין מִכָּל־אוֹתוֹת אֵלֶּה!</p></blockquote>
 <blockquote><p>קוּמָה בְּרַח לָךְ, כִּי לֹא לָךְ יָאָתָה</p></blockquote>
 <blockquote><p>הַבַּת תְּהִלָּה זֹאת, אַף לָךְ לֹא תֶהִי,</p></blockquote>
 <blockquote><p>כִּי בֶּן אֱמֶת אֵין אָתָּה,</p></blockquote>
@@ -1237,10 +1237,10 @@
 <blockquote><p>הוּא עוֹד שְׁאֵלָתֶךָ</p></blockquote>
 <blockquote><p>יִתֵּן, וְשִׁלַּח לָךְ מַהֵר אַל־יוֹחֶר</p></blockquote>
 <blockquote><p>הַבֵּן אֲשֶׁר תַּחְמוֹד וּבְטוּבוֹ תָגֶל.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   מַלְכוּתְךָ תָרוּם, מַלְכִּי, לָנֶצַח.</p></blockquote>
-<blockquote><p><strong>זקן</strong>:    יָרוּם לְדוֹר וָדוֹר, מַלְכִּי, קַרְנֶךָ,</p></blockquote>
+<blockquote><p><strong>המון</strong>: מַלְכוּתְךָ תָרוּם, מַלְכִּי, לָנֶצַח.</p></blockquote>
+<blockquote><p><strong>זקן</strong>: יָרוּם לְדוֹר וָדוֹר, מַלְכִּי, קַרְנֶךָ,</p></blockquote>
 <blockquote><p>תִּרְעֶה לְעוֹלָמִים שָׁלוֹם צֹאנֶךָ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:       מַה־תִּבְחֲרָה הַיּוֹם שִׂמְחָה אוֹ אֵבֶל?</p></blockquote>
+<blockquote><p><strong>המון</strong>: מַה־תִּבְחֲרָה הַיּוֹם שִׂמְחָה אוֹ אֵבֶל?</p></blockquote>
 <blockquote><p>זָקֵן, שְׂבַע קָלוֹן, עָנִי, מַה־תַּעַשׂ?</p></blockquote>
 <blockquote><p>לָךְ נִבְלְלוּ עַתָּה מָשׂוֹשׂ וָכַעַשׂ,</p></blockquote>
 <blockquote><p>אֶל־קוֹל נְהִי תַּקְשִׁיב אוֹ תֹּף וָנֶבֶל?</p></blockquote>
@@ -1248,15 +1248,15 @@
 <p><strong>שיחה ד'</strong></p>
 <p>שכל ויושר הולכים אל בית המשפט והמון ושאר העם שם.</p>
 <br/>
-<blockquote><p><strong>שכל</strong>:   הָמוֹן הֲלֹא זֶה הוּא הָעוֹמֵד שָׁמָּה,</p></blockquote>
+<blockquote><p><strong>שכל</strong>: הָמוֹן הֲלֹא זֶה הוּא הָעוֹמֵד שָׁמָּה,</p></blockquote>
 <blockquote><p>יָדוֹ אֱלֵי מִצְחוֹ, מֻטֶּה הַקִּירָה.</p></blockquote>
-<blockquote><p><strong>יושר</strong>:   כֵּן אֶחֱשׁוֹב גַּם־אָנִי;</p></blockquote>
+<blockquote><p><strong>יושר</strong>: כֵּן אֶחֱשׁוֹב גַּם־אָנִי;</p></blockquote>
 <blockquote><p>הֵן עַל־מְרִי שִׂיחוֹ פָּנָיו יָעִידוּ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   הוּא הוּא, לְכָה נִקְרַב אֵלָיו, נִשְׁאָלָה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: הוּא הוּא, לְכָה נִקְרַב אֵלָיו, נִשְׁאָלָה</p></blockquote>
 <blockquote><p>לוֹ עַל־אֲשֶׁר קָרָהוּ.</p></blockquote>
 <blockquote><p>מַה־זֶּה אֲשֶׁר אֶרְאֶךָּ</p></blockquote>
 <blockquote><p>הָמוֹן, כְּמוֹ זָעֵף? מַה־לָּךְ הִגִּיעַ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   הֶרֶף, שְׁעֵה מֶנִּי, שֶׂכֶל, הַנִּיחָה,</p></blockquote>
+<blockquote><p><strong>המון</strong>: הֶרֶף, שְׁעֵה מֶנִּי, שֶׂכֶל, הַנִּיחָה,</p></blockquote>
 <blockquote><p>כִּי אֶת־קְשִׁי יוֹמִי אָרִיד, אָהִימָה,</p></blockquote>
 <blockquote><p>אֶסְפּוֹד לְגוֹרָלִי, אַף־אֶבְכֶּה חֶבֶל</p></blockquote>
 <blockquote><p>נָפַל לְנַפְשִׁי; אַךְ יוֹתֵר מֵהֵמָּה</p></blockquote>
@@ -1265,8 +1265,8 @@
 <blockquote><p>אָנָה כְּלִמָּתִי אֶשָּׂא נָא, אָנָה?</p></blockquote>
 <blockquote><p>אֵיפֹה מְחִלּוֹת לִי וּנְקִיקֵי סָלַע,</p></blockquote>
 <blockquote><p>בָּם שַׂעֲרוֹת זִקְנַת בָּשְׁתִּי אַסְתִּירָה.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   מַה־קָּרְךָ כֹּה רָע?</p></blockquote>
-<blockquote><p><strong>המון</strong>:       הָהּ כִּי מִמָּוֶת</p></blockquote>
+<blockquote><p><strong>שכל</strong>: מַה־קָּרְךָ כֹּה רָע?</p></blockquote>
+<blockquote><p><strong>המון</strong>: הָהּ כִּי מִמָּוֶת</p></blockquote>
 <blockquote><p>מַר הוּא אֲשֶׁר קָרָנִי!</p></blockquote>
 <blockquote><p>כִּי אֶל־כְּלִמַּת סֶלָה</p></blockquote>
 <blockquote><p>יָרַד כְּבוֹדִי וּלְמָשָׁל הִגִּיעַ</p></blockquote>
@@ -1294,26 +1294,26 @@
 <blockquote><p>עַתָּה עֲלֵי יָרֵךְ אַךְ שָׁוְא אֶסְפֹּקָה,</p></blockquote>
 <blockquote><p>כִּי לֹא לְתַקֵּן עַוָּתָתִי עַתָּה</p></blockquote>
 <blockquote><p>יָכוֹל אֲנִי, וּכְבָר הוֹדִי שִׁחַתִּי.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   הָמוֹן! וּמִי יוֹדֵעַ</p></blockquote>
+<blockquote><p><strong>שכל</strong>: הָמוֹן! וּמִי יוֹדֵעַ</p></blockquote>
 <blockquote><p>אִם לֹא לְטוֹבָתֶךָ</p></blockquote>
 <blockquote><p>בָּאוּ לְךָ הַיּוֹם הַזֶּה כָּל־אֵלֶּה?</p></blockquote>
-<blockquote><p><strong>המון</strong>:   אֵיכָה לְטוֹבָתִי אֵלֶּה תִּהְיֶינָה?</p></blockquote>
+<blockquote><p><strong>המון</strong>: אֵיכָה לְטוֹבָתִי אֵלֶּה תִּהְיֶינָה?</p></blockquote>
 <blockquote><p>אֵיכָה לְנַפְשִׁי נֹחַם</p></blockquote>
 <blockquote><p>אֶמְצָא, וְעֵינַי אֶת־בִּתִּי תִּרְאֶינָה</p></blockquote>
 <blockquote><p>כֹּה אַלְמְנוּת חַיּוּת שׁוֹמֵמָה סֶלָה?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אַךְ בִּתְּךָ לָמָּה שׁוֹמֵמָה סֶלָה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַךְ בִּתְּךָ לָמָּה שׁוֹמֵמָה סֶלָה</p></blockquote>
 <blockquote><p>תִּהְיֶה?</p></blockquote>
-<blockquote><p><strong>המון</strong>:       וְאֵיךְ לֹא תֶהִי?</p></blockquote>
+<blockquote><p><strong>המון</strong>: וְאֵיךְ לֹא תֶהִי?</p></blockquote>
 <blockquote><p>אָן בֶּן אֱמֶת עַתָּה תִּמְצָא נָא? אָנָה?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אָנָה? וְאוּלַי יוֹתֶר</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אָנָה? וְאוּלַי יוֹתֶר</p></blockquote>
 <blockquote><p>מִכָּל־אֲשֶׁר דַּמּוֹת יוּכַל לִבֶּךָ</p></blockquote>
 <blockquote><p>קָרוֹב לְךָ יִהְיֶה.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        אֵיכָכָה, שֶׂכֶל!</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אֵיכָכָה, שֶׂכֶל!</p></blockquote>
 <blockquote><p>כָּזֹאת תְּדַבֵּר עָתָּה?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אַךְ מִי לְךָ הִגִּיד, אוֹ אֵיךְ יָדַעְתָּ?</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַךְ מִי לְךָ הִגִּיד, אוֹ אֵיךְ יָדַעְתָּ?</p></blockquote>
 <blockquote><p>מִי הֵם אֲשֶׁר גִּלּוּ, אוֹ אֵיךְ הוֹכִיחוּ</p></blockquote>
 <blockquote><p>כִּי בֶּן אֱמֶת רַהַב אֵינֶַנּוּ?</p></blockquote>
-<blockquote><p><strong>המון</strong>:       שֶׂכֶל!</p></blockquote>
+<blockquote><p><strong>המון</strong>: שֶׂכֶל!</p></blockquote>
 <blockquote><p>הִנֵּה עֲצַת עֶלְיוֹן, אִמְרַת צוּרֵנוּ,</p></blockquote>
 <blockquote><p>הִיא גִּלְּתָה אוֹתוֹ, הִיא הוֹכִיחַתְהוּ!</p></blockquote>
 <blockquote><p>מִתּוֹךְ פְּחָדִים מִתּוֹךְ חֶרְדַּת אָרֶץ,</p></blockquote>
@@ -1323,22 +1323,22 @@
 <blockquote><p>וַנִּדְרְשָׁה עַל־זֹאת וַיְחֻפַּשׂ חֵפֶשׂ</p></blockquote>
 <blockquote><p>וַנִּמְצְאָה כִּי כֵן, וַיְבֻקַּר שָׁמָּה</p></blockquote>
 <blockquote><p>רַהַב וְהֵן אֵין בּוֹ אֶחָד מֵהֵמָּה</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   אַךְ תֵּדְעָה הַגִּיד סִימָּנִים אֵלֶּה?</p></blockquote>
-<blockquote><p><strong>המון</strong>:   אֵדַע וְגַם אַגִּידָה.</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַךְ תֵּדְעָה הַגִּיד סִימָּנִים אֵלֶּה?</p></blockquote>
+<blockquote><p><strong>המון</strong>: אֵדַע וְגַם אַגִּידָה.</p></blockquote>
 <blockquote><p>מִצְחוֹ כְּמוֹ הַשֶּׁלֶג,</p></blockquote>
 <blockquote><p>קַוִּים אֲרֻכִּים בּוֹ יָשָׁר יֵלֵכוּ,</p></blockquote>
 <blockquote><p>עֵינָיו כְּלִילוֹת יֹפִי,</p></blockquote>
 <blockquote><p>וּדְמוּת עֲלֵי לִבּוֹ נִרְאָה לָעָיִן</p></blockquote>
 <blockquote><p>סַפִּיר מְשֻׁבָּץ, אַף עַל־כָּתֵף כֶּתֶם</p></blockquote>
 <blockquote><p>תַּבְנִית עֲדָשָׁה וּשְׂעָרָהּ צִמֵּחַ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   עַל־הַיְּמָנִית הוּא?</p></blockquote>
-<blockquote><p><strong>המון</strong>:       כֵּן.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        וּדְמוּת נֶזֶר?</p></blockquote>
-<blockquote><p><strong>המון</strong>:   כֵּן.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        אַף שְׂעָרָהּ כַּזָּהָב.</p></blockquote>
-<blockquote><p><strong>המון</strong>:       אֵיכָכָה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: עַל־הַיְּמָנִית הוּא?</p></blockquote>
+<blockquote><p><strong>המון</strong>: כֵּן.</p></blockquote>
+<blockquote><p><strong>שכל</strong>: וּדְמוּת נֶזֶר?</p></blockquote>
+<blockquote><p><strong>המון</strong>: כֵּן.</p></blockquote>
+<blockquote><p><strong>שכל</strong>: אַף שְׂעָרָהּ כַּזָּהָב.</p></blockquote>
+<blockquote><p><strong>המון</strong>: אֵיכָכָה</p></blockquote>
 <blockquote><p>נוֹדַע לְךָ כָּל־זֹאת? מִתְנַבֵּא אַתָּה?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   נָבִיא וּבֶן נָבִיא הָמוֹן אֵינֶנִּי</p></blockquote>
+<blockquote><p><strong>שכל</strong>: נָבִיא וּבֶן נָבִיא הָמוֹן אֵינֶנִּי</p></blockquote>
 <blockquote><p>אַךְ נַפְשְׁךָ הַיּוֹם הִנֵּה אָשִׁיבָה.</p></blockquote>
 <blockquote><p>הִנֵּה אֲנִי יוֹדֵעַ</p></blockquote>
 <blockquote><p>הָאִישׁ אֲשֶׁר לוֹ אֵלֶּה,</p></blockquote>
@@ -1372,10 +1372,10 @@
 <p><strong>שיחה ה'</strong></p>
 <p>שכל המון ותהלה ויושר ושאר קרואים לפני משפט.</p>
 <br/>
-<blockquote><p><strong>משפט</strong>:  מַה־לָּךְ אֱמוּנִי שֶׂכֶל!</p></blockquote>
+<blockquote><p><strong>משפט</strong>: מַה־לָּךְ אֱמוּנִי שֶׂכֶל!</p></blockquote>
 <blockquote><p>מַה־הִיא שְׁאֵלָתֶךָ</p></blockquote>
 <blockquote><p>בַּקֵּשׁ וְיֻתַּן לָךְ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        מַלְכִּי, לָנֶצַח</p></blockquote>
+<blockquote><p><strong>שכל</strong>: מַלְכִּי, לָנֶצַח</p></blockquote>
 <blockquote><p>יִגְדַּל הֲדַר כִּסְאֶךָ!</p></blockquote>
 <blockquote><p>הֵן כָּל־תְּשׁוּקָתָךְ הֵן כָּל־חֶפְצֶךָ</p></blockquote>
 <blockquote><p>מִגּוֹזְלוֹ אֶבְיוֹן וָדַךְ הוֹשִׁיעַ,</p></blockquote>
@@ -1391,23 +1391,23 @@
 <blockquote><p>יִהְיֶה דְּבַר הַדְרַת עֹז מַלְכוּתֶךָ,</p></blockquote>
 <blockquote><p>אֶל־בֶּן אֱמֶת, כִּי מִתְנַכֵּר עַד־עַתָּה,</p></blockquote>
 <blockquote><p>לִפְנֵי בְּנֵי־עַוְלָה מָט וַיָּשֹׁחַ.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  אָמְנָם לְךָ נוֹדַע אַף מַכִּיר אַתָּה</p></blockquote>
+<blockquote><p><strong>משפט</strong>: אָמְנָם לְךָ נוֹדַע אַף מַכִּיר אַתָּה</p></blockquote>
 <blockquote><p>אֶת־בֶּן אֱמֶת, בַּל־תִּשְׁגֶּה־בּוֹ?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        יָדַעְתִּי</p></blockquote>
+<blockquote><p><strong>שכל</strong>: יָדַעְתִּי</p></blockquote>
 <blockquote><p>וּדְבָרְךָ יוֹדִיעַ</p></blockquote>
 <blockquote><p>אוֹתוֹ לְכָל־עַמֶּךָ.</p></blockquote>
 <blockquote><p>הַיּוֹם.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:      הֲלֹא תֵדַע כִּי לוֹ נִקָּבוּ</p></blockquote>
+<blockquote><p><strong>משפט</strong>: הֲלֹא תֵדַע כִּי לוֹ נִקָּבוּ</p></blockquote>
 <blockquote><p>מִפִּי אֱמֶת אָבִיו אוֹתוֹת, בָּהֵמָּה</p></blockquote>
 <blockquote><p>יֻכַּר וְיִבָּחֵן.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        עַל־כֵּן אָמַרְתִּי</p></blockquote>
+<blockquote><p><strong>שכל</strong>: עַל־כֵּן אָמַרְתִּי</p></blockquote>
 <blockquote><p>כִּי זֶה יְהִי הַיּוֹם שֶׁיַּכִּירוּהוּ.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  אָן הוּא? קְרָא־נָא לוֹ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        קוּם גֵּשׁ פֹּה יֹשֶׁר</p></blockquote>
+<blockquote><p><strong>משפט</strong>: אָן הוּא? קְרָא־נָא לוֹ.</p></blockquote>
+<blockquote><p><strong>שכל</strong>: קוּם גֵּשׁ פֹּה יֹשֶׁר</p></blockquote>
 <blockquote><p>הִשְׁתַּחֲוֶה אֶל־מוּל הַדְרַת מַלְכֵּנוּ!</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  זֶה בֶּן אֱמֶת?</p></blockquote>
-<blockquote><p><strong>שכל</strong>:        זֶה הוּא!</p></blockquote>
-<blockquote><p><strong>משפט</strong>:      קוּם לָךְ, הֵן תֹּאַר</p></blockquote>
+<blockquote><p><strong>משפט</strong>: זֶה בֶּן אֱמֶת?</p></blockquote>
+<blockquote><p><strong>שכל</strong>: זֶה הוּא!</p></blockquote>
+<blockquote><p><strong>משפט</strong>: קוּם לָךְ, הֵן תֹּאַר</p></blockquote>
 <blockquote><p>פָּנָיו לְטוֹבָה בּוֹ יָעִיד יוֹכִיחַ,</p></blockquote>
 <blockquote><p>כִּי אֶחֱזֶה מִצְחוֹ וּכְמוֹ־כֵן יַחַד</p></blockquote>
 <blockquote><p>קַוָּיו וְעֵינָיו כַּכָּתוּב בַּסֵּפֶר,</p></blockquote>
@@ -1417,7 +1417,7 @@
 <blockquote><p>אוֹתוֹת, אֲשֶׁר אָבִיךָ</p></blockquote>
 <blockquote><p>רָשַׁם לְךָ מֵאָז. הֵיטַבְתָּ שֶׂכֶל!</p></blockquote>
 <blockquote><p>לִרְאוֹת כְּמִנְהָגֶךָ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   מַלְכִּי! הֲלֹא אָמַרְתִּי</p></blockquote>
+<blockquote><p><strong>שכל</strong>: מַלְכִּי! הֲלֹא אָמַרְתִּי</p></blockquote>
 <blockquote><p>זֶה, כִּי דְבַר הַדְרַת מַלְכוּתֶךָ יֶשַׁע</p></blockquote>
 <blockquote><p>הַיּוֹם לְעַמָּךְ יֶהִי,</p></blockquote>
 <blockquote><p>מִנַּחֲלֵי צָרָה וּתְהוֹמוֹת חֶבֶל</p></blockquote>
@@ -1427,7 +1427,7 @@
 <blockquote><p>הָמוֹן וְרֵעָיו יַחַד,</p></blockquote>
 <blockquote><p>תָּשׁוּב תְּנַחֵם וּתְשַׂמַּח. אַף יֹשֶׁר</p></blockquote>
 <blockquote><p>מִטּוּב פְּרִי תֻמּוֹ הַיּוֹם תַּשְׂבִּיעַ.</p></blockquote>
-<blockquote><p><strong>משפט</strong>:  הָמוֹן, קְרַב עַד־הֵנָּה!</p></blockquote>
+<blockquote><p><strong>משפט</strong>: הָמוֹן, קְרַב עַד־הֵנָּה!</p></blockquote>
 <blockquote><p>יֹשֶׁר, גְּשָׁה גַּם־אַתָּה.</p></blockquote>
 <blockquote><p>אַף־אַתְּ, תְּהִלָּה, גֹּשִׁי.</p></blockquote>
 <blockquote><p>אֶת־כָּל־אֲשֶׁר עִמָּךְ הִגְדִּיל וַיַּעַשׂ</p></blockquote>
@@ -1464,7 +1464,7 @@
 <blockquote><p>כִּי יָדְךָ עָשָׂתָה</p></blockquote>
 <blockquote><p>זֹאת הַתְּשׁוּעָה, אַף כָּל־בָּאֵי שַׁעַר</p></blockquote>
 <blockquote><p>עִירִי הֲלֹא נִחַמְתָּ.</p></blockquote>
-<blockquote><p><strong>כלם</strong>:   לָעַד יְחִי מַלְכֵּנוּ,</p></blockquote>
+<blockquote><p><strong>כלם</strong>: לָעַד יְחִי מַלְכֵּנוּ,</p></blockquote>
 <blockquote><p>בִּגְדוֹל הֲדַר כִּסְאוֹ ירְאוּ עֵינֵינוּ.</p></blockquote>
 <blockquote><p>אַשְׁרֵי וְאַשְׁרֵי עַם, רוֹעוֹ עָלֵימוֹ</p></blockquote>
 <blockquote><p>עֵינָיו פְּקוּחוֹת בַּל לִבּוֹ יַקְשִׁיחַ,</p></blockquote>
@@ -1476,13 +1476,13 @@
 <p><strong>שיחה ו'</strong></p>
 <p>חברת משוררים, יושר ותהלה, המון ושכל ושאר קרואים בבית המון אחר החופה</p>
 <br/>
-<blockquote><p><strong>משוררים</strong>:      כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
+<blockquote><p><strong>משוררים</strong>: כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
 <blockquote><p>קוּמוּ וּבֹאוּ נָא נַגֵּן הֵיטִיבוּ,</p></blockquote>
 <blockquote><p>אַתֶּם נְעִימֵי שִׁיר, פִּיכֶם הַרְחִיבוּ,</p></blockquote>
 <blockquote><p>שִׁירוּ לְגוֹרָל זֶה שִׁירוּ עַל־חֶבֶל</p></blockquote>
 <blockquote><p>מָתוֹק כְּצוּף. הַיּוֹם רָאוּ עֵינֵינוּ,</p></blockquote>
 <blockquote><p>נָפַל לְיִשְׁרֵי לֵב הוֹד תִּפְאַרְתֵּנוּ.</p></blockquote>
-<blockquote><p><strong>שכל</strong>:   קוֹצֵר בְּרֹב רִנָּה יֹשֶׁר הֵן אַתָּה</p></blockquote>
+<blockquote><p><strong>שכל</strong>: קוֹצֵר בְּרֹב רִנָּה יֹשֶׁר הֵן אַתָּה</p></blockquote>
 <blockquote><p>זֶרַע אֲשֶׁר עַל־מֵי דִּמְעָה זָרַעְתָּ,</p></blockquote>
 <blockquote><p>גִּילַת וְרַנֵּן, הֵן עוֹד תִּשְׂבַּע עַתָּה</p></blockquote>
 <blockquote><p>עַל־כָּל־אֲשֶׁר עַד־כֹּה עָמָל שָׂבַעְתָּ,</p></blockquote>
@@ -1494,19 +1494,19 @@
 <blockquote><p>תִּפְאַרְתְּךָ בַּל־עוֹד תּוּשִׁיָּה תַּעַשׂ,</p></blockquote>
 <blockquote><p>כִּי לַיְשָׁרים אַךְ־כַּיּוֹם יִגְזֹרוּ</p></blockquote>
 <blockquote><p>נָאוָה תְהִלָּה וּתְמִימִים יָשֹׂרוּ.</p></blockquote>
-<blockquote><p><strong>משוררים</strong>:      כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
+<blockquote><p><strong>משוררים</strong>: כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
 <blockquote><p>קוּמוּ וּבֹאוּ נָא נַגֵּן הֵיטִיבוּ,</p></blockquote>
 <blockquote><p>אַתֶּם נְעִימֵי שִׁיר, פִּיכֶם הַרְחִיבוּ,</p></blockquote>
 <blockquote><p>שִׁירוּ לְגוֹרָל זֶה שִׁירוּ עַל־חֶבֶל</p></blockquote>
 <blockquote><p>מָתוֹק כְּצוּף. הַיּוֹם רָאוּ עֵינֵינוּ,</p></blockquote>
 <blockquote><p>נָפַל לְיִשְׁרֵי לֵב הוֹד תִּפְאַרְתֵּנוּ.</p></blockquote>
-<blockquote><p><strong>המון</strong>:   מָה אֶשְׁאֲלָה עוֹד כִּי עֵינִי רָאָתָה</p></blockquote>
+<blockquote><p><strong>המון</strong>: מָה אֶשְׁאֲלָה עוֹד כִּי עֵינִי רָאָתָה</p></blockquote>
 <blockquote><p>פִּלְאֵי פְלָאִים, לֹא לִרְאוֹת פִּלָּלְתִּי,</p></blockquote>
 <blockquote><p>מִתּוֹךְ שְׁאוֹן שׁוֹאָה, רִגְשַׁת סוּפָתָה,</p></blockquote>
 <blockquote><p>חֶלְקַת מְנוּחַוֹת לִי לָעַד נִחַלְתִּי,</p></blockquote>
 <blockquote><p>כִּרְאוֹת מְקוֹם רַהַב עַל־הוֹד רֹאשׁ יֹשֶׁר,</p></blockquote>
 <blockquote><p>לִוְיַת תְּהִלָּה, חֵן כָּבוֹד וָעֹשֶׁר.</p></blockquote>
-<blockquote><p><strong>משוררים</strong>:      כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
+<blockquote><p><strong>משוררים</strong>: כָּל־תּוֹפְשֵׂי כִנּוֹר עוּגָב וָנֶבֶל</p></blockquote>
 <blockquote><p>קוּמוּ וּבֹאוּ נָא נַגֵּן הֵיטִיבוּ,</p></blockquote>
 <blockquote><p>אַתֶּם נְעִימֵי שִׁיר, פִּיכֶם הַרְחִיבוּ,</p></blockquote>
 <blockquote><p>שִׁירוּ לְגוֹרָל זֶה שִׁירוּ עַל־חֶבֶל</p></blockquote>

@@ -234,7 +234,7 @@
 <blockquote><p>קְרָבַי נִשָּׁקִים.</p></blockquote>
 <br/>
 <h2 id="מ">מ</h2>
-<blockquote><p> אֲהָהּ עַל זִכְרֶךָ</p></blockquote>
+<blockquote><p>אֲהָהּ עַל זִכְרֶךָ</p></blockquote>
 <blockquote><p>הֲכִי מַאֲמָרֶיךָ</p></blockquote>
 <blockquote><p>בְּלִבּוֹת הוֹרֶיךָ</p></blockquote>
 <blockquote><p>שְׁלָטִים נִמְרָקִים.</p></blockquote>

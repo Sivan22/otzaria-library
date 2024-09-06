@@ -9,4 +9,4 @@
 <blockquote><p>דְּרַשְתִּיךָ בְחֶזְיוֹנַי וְעָבַר</p></blockquote>
 <blockquote><p>כְּבוֹדְךָ בִּי וְיָרַד בַּעֲנָנָי</p></blockquote>
 <blockquote><p>הֱקִימוּנִי שְׂעִפַּי מִיְּצוּעַי</p></blockquote>
-<blockquote><p>לְבָרֵךְ שֵׁם כּבוֹדֶךָ אֲדֹנָי.<br/></p></blockquote>
+<blockquote><p>לְבָרֵךְ שֵׁם כּבוֹדֶךָ אֲדֹנָי. <br/></p></blockquote>

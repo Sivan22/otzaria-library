@@ -27,4 +27,4 @@
 <blockquote><p>וְיַזְרִיחַ אוֹר קְהִלָּתִי</p></blockquote>
 <blockquote><p>וְתִתְהַלֵל עוֹד סְגֻלָתִי</p></blockquote>
 <blockquote><p>הִנֵּה אוֹר צוּר תְּהִלָתִי</p></blockquote>
-<blockquote><p>לִי כִּי אֵשֵב בַּחֹשֶׁךְ.<br/> </p></blockquote>
+<blockquote><p>לִי כִּי אֵשֵב בַּחֹשֶׁךְ. <br/></p></blockquote>

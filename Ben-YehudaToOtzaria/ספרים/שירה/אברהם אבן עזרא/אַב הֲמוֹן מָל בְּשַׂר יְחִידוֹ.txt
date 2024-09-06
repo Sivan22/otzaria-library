@@ -11,4 +11,4 @@
 <blockquote><p>מִשְׁכְּנוֹת יַעֲקֹב אֲרַחֵם וְאָחֹן</p></blockquote>
 <blockquote><p>בַּעֲבוּר דַּם בְּרִית זְקֵנִי וְדוֹדִי.</p></blockquote>
 <blockquote><p>נֵר מְשִׁיחִי, חֲכַם גְּאוֹנִי וְעֻזִּי,</p></blockquote>
-<blockquote><p>אִישׁ חֲמוּדוֹת יְהִי פְלוֹנִי יְדִידִי.<br/> </p></blockquote>
+<blockquote><p>אִישׁ חֲמוּדוֹת יְהִי פְלוֹנִי יְדִידִי. <br/></p></blockquote>

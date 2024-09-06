@@ -11,4 +11,4 @@
 <blockquote><p>וּמַה-הוֹן בָּא מְהֵרָה שָׁב מְהֵרָה</p></blockquote>
 <blockquote><p>עֲנִיתִיו הוֹן אֲשֶׁר בָּא מִגְּזֵלָה</p></blockquote>
 <blockquote><p>וּמַה-יַּפְרִיד וְלֹא יַצְמִיד וְיָרַע</p></blockquote>
-<blockquote><p>וְלֹא יוֹעִיל עֲנִיתִיו הַנְּבָלָה.<br/></p></blockquote>
+<blockquote><p>וְלֹא יוֹעִיל עֲנִיתִיו הַנְּבָלָה. <br/></p></blockquote>

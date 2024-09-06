@@ -45,4 +45,4 @@
 <blockquote><p>וְאָז יֹאמַר לְחַדֵּשׁ אֶת יְמֵיכֶם</p></blockquote>
 <blockquote><p>כְּמוֹ קֶדֶם וְיֵיטִיב אַחֲרִיתְכֶם</p></blockquote>
 <blockquote><p>כְּמוֹ אֶרֶץ וְשָׁמַיִם חֲדָשִׁים</p></blockquote>
-<blockquote><p>לְפָנָיו זַרְעָם יַעְמֹד וְשִׁמְכֶם.<br/></p></blockquote>
+<blockquote><p>לְפָנָיו זַרְעָם יַעְמֹד וְשִׁמְכֶם. <br/></p></blockquote>

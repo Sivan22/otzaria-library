@@ -11,4 +11,4 @@
 <blockquote><p>בְּרִית עוֹלָם יְצַוֶּה לוֹ לְעֵילוֹם</p></blockquote>
 <blockquote><p>אֲשֶׁר כָּרַת לְאַבְרָהָם בְּרִיתוֹ</p></blockquote>
 <blockquote><p>וְעָלָיו יִהְיֶה חֹפֵף וּמִצּוֹק</p></blockquote>
-<blockquote><p>זְמַנִּים יִהְיֶה נָקִי לְבֵיתוֹ.<br/></p></blockquote>
+<blockquote><p>זְמַנִּים יִהְיֶה נָקִי לְבֵיתוֹ. <br/></p></blockquote>

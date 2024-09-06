@@ -39,4 +39,4 @@
 <blockquote><p>אֲשֶׁר אִם הֵם בְּדָת אֵל מַאֲמִינִים</p></blockquote>
 <blockquote><p>אֲדִינֵמוֹ בְּתוֹרַת הַקְּהִלָּה</p></blockquote>
 <blockquote><p>וְאִם לֹא יַאֲמִינוּ הֵן מְחִיצָה</p></blockquote>
-<blockquote><p>וְאֵין בֵּינִי וּבֵיניֵהֶם נְחָלָה.<br/></p></blockquote>
+<blockquote><p>וְאֵין בֵּינִי וּבֵיניֵהֶם נְחָלָה. <br/></p></blockquote>

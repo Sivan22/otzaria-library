@@ -7,4 +7,4 @@
 <blockquote><p>אֲשֶׁר יִבְלֶה עִמָּךְ</p></blockquote>
 <blockquote><p>וְכָמֹהוּ תִבֶל</p></blockquote>
 <blockquote><p>וְהוּא חֶלְקָךְ מִכָּל</p></blockquote>
-<blockquote><p>עֲמָלְךָ עַל תֵּבֵל.<br/></p></blockquote>
+<blockquote><p>עֲמָלְךָ עַל תֵּבֵל. <br/></p></blockquote>

@@ -1,8 +1,8 @@
 <h1>מִי כָמֹךָ רַחֲמִים מָלֵא</h1>
 אברהם אבן עזרא
 <p>סליחה (?)</p>
-<blockquote><br/><p>מִי כָמֹךָ רַחֲמִים מָלֵא?</p></blockquote>
-<blockquote><p>[…….]</p><br/></blockquote>
+<blockquote><br/> <p>מִי כָמֹךָ רַחֲמִים מָלֵא?</p></blockquote>
+<blockquote><p>[…….]</p> <br/></blockquote>
 <blockquote><p>אמ[………..]</p></blockquote>
 <blockquote><p>חי ערבה [……]</p></blockquote>
 <blockquote><p>בְּכֹחַ אַתְּ סוֹבֵל / שְׁחָקִים וְגַם תֵּבֵל,</p></blockquote>

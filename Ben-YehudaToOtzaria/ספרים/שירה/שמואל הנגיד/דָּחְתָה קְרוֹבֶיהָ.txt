@@ -5,4 +5,4 @@
 <blockquote><p>וּבְנָהּ לְנֶגְדָּהּ מֵת בְּרָעָב</p></blockquote>
 <blockquote><p>וּדְבַשׁ לְבֶן זָר מַאֲכִילָה</p></blockquote>
 <blockquote><p>וּכְסִיל עֲצַת אָח לֹא יְמַלֵּא</p></blockquote>
-<blockquote><p>וּלְזָר יְמַלֵּא הַשְּׁאֵלָה.<br/> </p></blockquote>
+<blockquote><p>וּלְזָר יְמַלֵּא הַשְּׁאֵלָה. <br/></p></blockquote>

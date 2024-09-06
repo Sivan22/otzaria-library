@@ -101,7 +101,7 @@
 <blockquote><p>וְלָמָּה תְּהֶא כְּנוּדָה</p></blockquote>
 <blockquote><p>לְשִׁפְחָה וּבָהְּ תְּשַׂחֵק?</p></blockquote>
 <blockquote><p>כְּצִפּוֹר בְּתוֹך מְצוּדָה</p></blockquote>
-<blockquote><p>תְּצַפֶּה לְךָ בְּמָצוֹק.<br/><br/>יְשׁוּעָתְךָ תְּצַפֶּה</p></blockquote>
+<blockquote><p>תְּצַפֶּה לְךָ בְּמָצוֹק. <br/><br/> יְשׁוּעָתְךָ תְּצַפֶּה</p></blockquote>
 <blockquote><p>וְלֹא תִּשְׁמְעָה מְפַתִּים.</p></blockquote>
 <blockquote><p>וְתֹאמַר הֲאֵיךְ אֲחַפֶּה</p></blockquote>
 <blockquote><p>דְּבַר כּוֹזְבִים וְחִתִּים?</p></blockquote>
@@ -116,4 +116,4 @@
 <blockquote><p>וְלִי אַהֲבָה חֲמוּדָה,</p></blockquote>
 <blockquote><p>וְעָלַי אֲיַחֲדוֹ חֹק.</p></blockquote>
 <blockquote><p>וְנַפְשִׁי בְּחֵן רְבוּדָה,</p></blockquote>
-<blockquote><p>כְּנֶחְשָׁק מְנָת לְחוֹשֵׁק.<br/> </p></blockquote>
+<blockquote><p>כְּנֶחְשָׁק מְנָת לְחוֹשֵׁק. <br/></p></blockquote>

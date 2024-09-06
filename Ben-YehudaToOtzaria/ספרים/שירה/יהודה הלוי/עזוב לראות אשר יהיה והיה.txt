@@ -11,4 +11,4 @@
 <blockquote><p>מְאוֹרֵי אוֹר בְּאֶרֶץ מַאֲפֵלְיָה</p></blockquote>
 <blockquote><p>וְנַהֲרֵי נַחֲלֵי עֵדֶן בְּצִיָּה</p></blockquote>
 <blockquote><p>יְקָר נִתְלָה בְּכָבוֹד מִין בְּמִינוֹ</p></blockquote>
-<blockquote><p>כְּהִתָּלוֹת כְּהֻנָּה בַלְוִיָּה.<br/></p></blockquote>
+<blockquote><p>כְּהִתָּלוֹת כְּהֻנָּה בַלְוִיָּה. <br/></p></blockquote>

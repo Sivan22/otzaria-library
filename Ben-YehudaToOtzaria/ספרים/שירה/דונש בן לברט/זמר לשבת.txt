@@ -28,4 +28,4 @@
 <blockquote><p>דְּעֶה חָכְמָה לְנַפְשֶׁךָ</p></blockquote>
 <blockquote><p>וְהִיא כֶתֶר לְרֹאשֶׁךָ</p></blockquote>
 <blockquote><p>נְצֹר מִצְוַת קְדוֹשֶךָ</p></blockquote>
-<blockquote><p>שְׁמֹר שַׁבַּת קָדְשֶׁךָ!<br/></p></blockquote>
+<blockquote><p>שְׁמֹר שַׁבַּת קָדְשֶׁךָ! <br/></p></blockquote>

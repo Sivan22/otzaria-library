@@ -60,4 +60,4 @@
 <blockquote><p>אַךְ טוֹב אֲבַשֵּׂר לָךְ וְיִפְרֹץ פָּרֶץ,</p></blockquote>
 <blockquote><p>תִּשְׁתֶּה בְשָׁלוֹם נוֹזְלֵי בוֹרֶךָ,</p></blockquote>
 <blockquote><p>יִגְדַּל שְׁמָךְ, יָרוּם וְכִלְבָבֶךָ</p></blockquote>
-<blockquote><p>וּכְשֵׁם גְּדוֹלִים הֵם אֲשֶׁר בָּאָרֶץ.<br/></p></blockquote>
+<blockquote><p>וּכְשֵׁם גְּדוֹלִים הֵם אֲשֶׁר בָּאָרֶץ. <br/></p></blockquote>

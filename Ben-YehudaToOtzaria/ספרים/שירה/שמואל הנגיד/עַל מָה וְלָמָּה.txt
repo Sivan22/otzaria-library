@@ -12,4 +12,4 @@
 <blockquote><p>שׁוּבוּ וְעִזְרוּ אִישׁ לְאִישׁ</p></blockquote>
 <blockquote><p>עַל הַזְּמַן הָרַע וְגוּרוּ</p></blockquote>
 <blockquote><p>כִּי הַזְּמַן יִקָּחֲכֶם</p></blockquote>
-<blockquote><p>אַחַר לְשַׁחַת תַּעֲבוֹרוּ.<br/> </p></blockquote>
+<blockquote><p>אַחַר לְשַׁחַת תַּעֲבוֹרוּ. <br/></p></blockquote>

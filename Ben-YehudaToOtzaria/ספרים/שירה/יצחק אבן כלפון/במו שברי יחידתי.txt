@@ -7,4 +7,4 @@
 <blockquote><p>יְחַיּוּנִי מְיֻדָּעַי וְרֵעַי</p></blockquote>
 <blockquote><p>בְּתוֹחֶלֶת מְמֻשָּׁכָה כְפוּלָה,</p></blockquote>
 <blockquote><p>כְּמוֹ כַמּוֹן אֲשֶׁר יֹאמַר בְּעָלָיו:</p></blockquote>
-<blockquote><p>צְמַח! מָחָר תְּשֻׁקֶּה מֵי תְעָלָה.<br/> </p></blockquote>
+<blockquote><p>צְמַח! מָחָר תְּשֻׁקֶּה מֵי תְעָלָה. <br/></p></blockquote>

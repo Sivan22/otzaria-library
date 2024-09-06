@@ -25,4 +25,4 @@
 <blockquote><p>חֲצָב-קֶבֶר וְטָמְנֵהוּ בְתוֹכוֹ,</p></blockquote>
 <blockquote><p>וְאַל יִחַר לְךָ אֹמֶר גְּזַרְתִּיו.</p></blockquote>
 <blockquote><p>וְאִם אָדָם חֲסַר לֵב יִדְרְשֵׁהוּ</p></blockquote>
-<blockquote><p>תְּכַחֶשׁ-בּוֹ וְתֹאמַר “לֹא רְאִיתִיו!”<br/></p></blockquote>
+<blockquote><p>תְּכַחֶשׁ-בּוֹ וְתֹאמַר “לֹא רְאִיתִיו!” <br/></p></blockquote>

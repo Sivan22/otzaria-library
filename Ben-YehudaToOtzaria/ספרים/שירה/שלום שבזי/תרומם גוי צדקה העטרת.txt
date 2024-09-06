@@ -14,4 +14,4 @@
 <blockquote><p>זְכוּת אָבוֹת זְכוֹר צוּרִי וְרַחֵם</p></blockquote>
 <blockquote><p>עֲדָתֶיךָ, וְתָשׁוּב נֶעֱזֶרֶת.</p></blockquote>
 <blockquote><p>יְלַוֶּוה חַסְדְךָ עֵדָה עֲנִיָּיה,</p></blockquote>
-<blockquote><p>וְהַקְשִׁיבָה בְּעֵת רָצוֹן עֲתֶרֶת.<br/> </p></blockquote>
+<blockquote><p>וְהַקְשִׁיבָה בְּעֵת רָצוֹן עֲתֶרֶת. <br/></p></blockquote>

@@ -9,4 +9,4 @@
 <blockquote><p>דָּמָם וְדִמְעָתָם וְנַפְשׁוֹתָם</p></blockquote>
 <blockquote><p>נָשְׂאוּ בְּהוֹדוֹתָם לְזִכָּרוֹן</p></blockquote>
 <blockquote><p>הוֹדוֹת בְּעוֹד רוּחַ בְּאַפַּיִם</p></blockquote>
-<blockquote><p>וּבְעוֹד עֲבֹר הַקּוֹל עֲלֵי גָּרוֹן.<br/></p></blockquote>
+<blockquote><p>וּבְעוֹד עֲבֹר הַקּוֹל עֲלֵי גָּרוֹן. <br/></p></blockquote>

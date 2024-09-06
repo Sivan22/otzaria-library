@@ -11,4 +11,4 @@
 <blockquote><p>יְמֵי קֵץ גְּאַלְתָּהוּ זְרוֹעַ מָשְלְךָ</p></blockquote>
 <blockquote><p>חֲשָׂף נָא כְמֵאָז לוֹ וְהָרֵם דִּגְלְךָ</p></blockquote>
 <blockquote><p>וְנִשְׁמַת אֱנוֹשׁ עַל זֹאת בְּפִי כָל חֵילְךָ</p></blockquote>
-<blockquote><p>תְּרַנֵּן בְּרֹן כּוֹכְבֵי מְאֹרֹת הִלְּךָ.<br/></p></blockquote>
+<blockquote><p>תְּרַנֵּן בְּרֹן כּוֹכְבֵי מְאֹרֹת הִלְּךָ. <br/></p></blockquote>

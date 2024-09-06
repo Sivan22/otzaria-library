@@ -20,7 +20,7 @@
 <p><strong>הַגְּבוּרָה</strong> – תדמה אשה לבושה שריון קשקשים וכובע בראשה, בימינה תאחז חרב חדה ובשמאלה אגֻדַּת לפידים בוערים.</p>
 <p><strong>הַחֵשֶׁק</strong> – נער רובה קשת ולו כנפיים ככנפי הנשר.</p>
 <p><strong>הַמִּרְמָה</strong> – נערה יפה, ממשבצות זהב לבושה, ובידה האחת כוס מלאה נֹפת צופים ובידה האחרת – שָׂרָף מעופף.</p>
-<p><strong>הַשֹּׁחַד</strong> – איש הדוּר בלבושו, והוא עוטה מעיל מְרֻקָּם זהב וכסף,<br/>והוא עִוֵר, ופיו רחב ופתוח. בידו האחת – לב נטוי, ובידו האחרת – מֹאזנים יכריעו אל צד ימין.</p>
+<p><strong>הַשֹּׁחַד</strong> – איש הדוּר בלבושו, והוא עוטה מעיל מְרֻקָּם זהב וכסף,<br/> והוא עִוֵר, ופיו רחב ופתוח. בידו האחת – לב נטוי, ובידו האחרת – מֹאזנים יכריעו אל צד ימין.</p>
 <p><strong>וְהֵיכָלוֹ</strong> – ארמון רחב עד מאד וקיריו מצֻפים זהב וכסף, כסאו מכֻסה מעוֹר זאב (כי כן לא ישבע) ותחת הדום רגליו כמראה אשת יפת תאר והאמת זרחה במצחה.</p>
 <h2 id="ראשא">ראש א</h2>
 <h2 id="חלקא1">חלק א <a class="footnote" href="#fn:1" id="fnref:1" title="see footnote"><sup>1</sup></a></h2>
@@ -109,7 +109,7 @@
 <blockquote><p>לָשׁוּב לִמְצוּלוֹת-יָם תָּמִיד יַחְפֹּצוּ</p></blockquote>
 <blockquote><p>הַנְּחָלִים רָצוֹא וְלֹא יַרְגִיעוּ:</p></blockquote>
 <blockquote><p>הַמִּתְאַוִּים כֵּן בַּמְּנוּחוֹת יָקוּצוּ</p></blockquote>
-<blockquote><p>רָצוֹא וָשוֹב עַד אֶל חִשְׁקָם יַגִּיעוּ.<br/><br/>שמשון (עולה אל אביו ואמו; וידבר עמו על דבר התמנית).</p></blockquote>
+<blockquote><p>רָצוֹא וָשוֹב עַד אֶל חִשְׁקָם יַגִּיעוּ. <br/><br/> שמשון (עולה אל אביו ואמו; וידבר עמו על דבר התמנית).</p></blockquote>
 <h2 id="חלקד">חלק ד</h2>
 <blockquote><p>שמשון אָבִי, אָבִי, אֶת חַסְדְּךָ אֶדְרשָׁה</p></blockquote>
 <blockquote><p>אֶל מִשְׁבְּרֵי לִבִּי לִמְצֹא מַרְגּוֹעַ,<a class="footnote" href="#fn:13" id="fnref:13" title="see footnote"><sup>13</sup></a></p></blockquote>
@@ -168,9 +168,9 @@
 <blockquote><p>אָסוּר לְמִשְׁמַעְתֶּךָ</p></blockquote>
 <blockquote><p>אִם בִּי חָפַצְתָּ, כֵּן בְּךָ חָפָצְתּי.</p></blockquote>
 <br/>
-<blockquote><p>שניהם מַה-טּוֹב חֶלְקִי וּמַה-נָּעֵמָה.<br/><br/>שמשון }<a class="footnote" href="#fn:17" id="fnref:17" title="see footnote"><sup>17</sup></a> חֶבְלִי יְפַת-מַרְאֶה אַף שָׂרַת-טָעַם</p></blockquote>
+<blockquote><p>שניהם מַה-טּוֹב חֶלְקִי וּמַה-נָּעֵמָה. <br/><br/> שמשון }<a class="footnote" href="#fn:17" id="fnref:17" title="see footnote"><sup>17</sup></a> חֶבְלִי יְפַת-מַרְאֶה אַף שָׂרַת-טָעַם</p></blockquote>
 <p>תמנית } " יְפֵה- " " אִישׁ שַׂר-טָעַם<a class="footnote" href="#fn:18" id="fnref:18" title="see footnote"><sup>18</sup></a></p>
-<blockquote><p>כֵּן אַךְ אֶת יְיָ אוֹדֶה הַפָּעַם!<br/><br/>שמשון אוּלָם יְהִי בָרוּךְ יוֹם הֲלוֹם בָאתִי,</p></blockquote>
+<blockquote><p>כֵּן אַךְ אֶת יְיָ אוֹדֶה הַפָּעַם! <br/><br/> שמשון אוּלָם יְהִי בָרוּךְ יוֹם הֲלוֹם בָאתִי,</p></blockquote>
 <blockquote><p>תּוֹפַע בּוֹ נְהָרָה וְכַנְפֵי שָׁמֶשׁ,</p></blockquote>
 <blockquote><p>תָּבֹא רְנָנָה בוֹ וְתָמִישׁ אָמֶשׁ,</p></blockquote>
 <blockquote><p>כִּי זֹאת מְנוּחָתִי בָזֶה מָצָאתִי.</p></blockquote>
@@ -222,7 +222,7 @@
 <blockquote><p>לָכֶם חִידָתִי, עַתָּה הַגִּידוּהָ,</p></blockquote>
 <blockquote><p>אִם לֹא – אֶת דִּבְרֵיכֶם אֵלַי תָּקִימוּ.</p></blockquote>
 <blockquote><p>הֵן עַד שִׁבְעַת יָמִים לָכֶם אוֹחִילָה,</p></blockquote>
-<blockquote><p>עַתָּה בְיוֹם טוֹבָה נִשְׂמַח, נָגִילָה.<br/></p></blockquote>
+<blockquote><p>עַתָּה בְיוֹם טוֹבָה נִשְׂמַח, נָגִילָה. <br/></p></blockquote>
 <h2 id="חלקט">חלק ט</h2>
 <p>פלשתים (ילכו אל אשת שמשון כי תפַתה אישה ויגיד לה החידה והיא תגיד להם).</p>
 <blockquote><p>פלשתים הֲלֹא אַתְּ אֲחוֹתֵנוּ</p></blockquote>
@@ -367,7 +367,7 @@
 <blockquote><p>תַּרְחִיקִי <a class="footnote" href="#fn:26" id="fnref:26" title="see footnote"><sup>26</sup></a>נְדוֹד מִמֶּנּוּ.</p></blockquote>
 <br/>
 <blockquote><p>תמנית אִם גַּם לָזֹאת לֹא יָשִׂים לֵב, מָה אָעַשׂ?</p></blockquote>
-<blockquote><p>מִי זֶה אֲשֶׁר אֶרְאֶה מֵרָחוֹק?<br/><br/>מרמה אָנָּה? <a class="footnote" href="#fn:27" id="fnref:27" title="see footnote"><sup>27</sup></a></p></blockquote>
+<blockquote><p>מִי זֶה אֲשֶׁר אֶרְאֶה מֵרָחוֹק? <br/><br/> מרמה אָנָּה? <a class="footnote" href="#fn:27" id="fnref:27" title="see footnote"><sup>27</sup></a></p></blockquote>
 <blockquote><p>תמנית לֹא תִרְאִי נַעַר זֶה יִקְרַב אֵלֵינוּ?</p></blockquote>
 <blockquote><p>וְהוּא רוֹבֶה קַשּׁת, אִם לֹא שָׁגִיתִי.</p></blockquote>
 <blockquote><p>בֵּין כְּתֵפָיו אֶרְאֶה (אַךְ לֹא אֵדָעָה</p></blockquote>
@@ -502,7 +502,7 @@
 <blockquote><p>לֹא יִכָּנַע בַּרְזֶל וּנְחֹשֶׁת סֶלָה</p></blockquote>
 <blockquote><p>כִּי אֶל בַּרְזֶל אַחֵר, אֲשֶׁר כָּמֹהוּ.</p></blockquote>
 <blockquote><p>כַּף-יָד לְפוֹצֵץ כֵּן לֵב-אֶבֶן תֵּלַהּ; <a class="footnote" href="#fn:34" id="fnref:34" title="see footnote"><sup>34</sup></a></p></blockquote>
-<blockquote><p>רַק לֵב-אֶבֶן אַחֵר יוּכַל עֲשֹׂהוּ.<br/><br/>(תלך לה התמנית).</p></blockquote>
+<blockquote><p>רַק לֵב-אֶבֶן אַחֵר יוּכַל עֲשֹׂהוּ. <br/><br/> (תלך לה התמנית).</p></blockquote>
 <h2 id="חלקיב">חלק יב</h2>
 <h2 id="שמשוןותמנית.">שמשון ותמנית.</h2>
 <blockquote><p>[שמשון ] אַיֶּכָּה, עֻזִּי? מֵרוּם רְקֵיעַי חֹסֶן</p></blockquote>
@@ -533,7 +533,7 @@
 <br/>
 <blockquote><p>שמשון לֹא אַגִּיד חִידָתִי.</p></blockquote>
 <blockquote><p>תמנית אִם כֵּן תִּשְׂבָּעָה</p></blockquote>
-<blockquote><p>מִפְּרִי מֶרְיְךָ, וּמַה תִּצְעָקָה?<br/><br/>שמשון מָה אֶעֱשֶׂה עוֹד וַאֲנִי הָשְׁבַּרְתִּי,</p></blockquote>
+<blockquote><p>מִפְּרִי מֶרְיְךָ, וּמַה תִּצְעָקָה? <br/><br/> שמשון מָה אֶעֱשֶׂה עוֹד וַאֲנִי הָשְׁבַּרְתִּי,</p></blockquote>
 <blockquote><p>שַׁמָּה הֶחֱזִיקַתְנִי.</p></blockquote>
 <blockquote><p>בֹּאִי, יַעֲלַת-חֵן, וְלָךְ אַגִּידָה</p></blockquote>
 <blockquote><p>אֶת דִּבְרֵי חִידָתִי.</p></blockquote>
@@ -564,12 +564,12 @@
 <h2 id="חלקיג">חלק יג</h2>
 <h2 id="תמניתופלשתים.">תמנית ופלשתים.</h2>
 <blockquote><p>תמנית בֹּאוּ, כִּי כֵן אַגִּידָה</p></blockquote>
-<blockquote><p>לָכֶם חִידָת אִישִׁי, כִּי לִי הוֹדִיעַ.<a class="footnote" href="#fn:39" id="fnref:39" title="see footnote"><sup>39</sup></a><br/><br/>פלשתים אִמְרִי נָא, אֵשֶׁת-חָיִל!</p></blockquote>
+<blockquote><p>לָכֶם חִידָת אִישִׁי, כִּי לִי הוֹדִיעַ.<a class="footnote" href="#fn:39" id="fnref:39" title="see footnote"><sup>39</sup></a> <br/><br/> פלשתים אִמְרִי נָא, אֵשֶׁת-חָיִל!</p></blockquote>
 <blockquote><p>תמנית אַךְ חִידָתוֹ עַל כִּי הָרַג בֶּן-שַׁחַל</p></blockquote>
 <blockquote><p>וּבֵין גְּוִיָּתוֹ מָצָא צוּף נֹפֶת</p></blockquote>
 <blockquote><p>מֵעֲדַת דְּבוֹרִים כִּי שָׁם עָשׂוּהוּ.</p></blockquote>
 <blockquote><p>עַתָּה אוֹתָהּ תָּבִינוּ,</p></blockquote>
-<blockquote><p>כִּי מָה עַז מֵאֲרִי, מִדְּבַשׁ מֶגֶד? <a class="footnote" href="#fn:40" id="fnref:40" title="see footnote"><sup>40</sup></a><br/></p></blockquote>
+<blockquote><p>כִּי מָה עַז מֵאֲרִי, מִדְּבַשׁ מֶגֶד? <a class="footnote" href="#fn:40" id="fnref:40" title="see footnote"><sup>40</sup></a> <br/></p></blockquote>
 <h2 id="חלקיד">חלק יד</h2>
 <h2 id="שמשוןופלשתים.">שמשון ופלשתים.</h2>
 <blockquote><p>שמשון הַהִגַּדְתֶּם עֲדֶן חִידָתִי?</p></blockquote>
@@ -832,7 +832,7 @@
 <blockquote><p>הִנֵּה פֹּה זֶה הָאִישׁ מַרְעִישׁ הָאָרֶץ,</p></blockquote>
 <blockquote><p>יָעֹז בְּרֹב עֻזּוֹ, יִגְבַּהּ.</p></blockquote>
 <br/>
-<blockquote><p>שמשון  הִנֵּנִי!</p></blockquote>
+<blockquote><p>שמשון הִנֵּנִי!</p></blockquote>
 <blockquote><p>מָה עוֹד אֲדַבֵּר וְהַיוֹם הִגִּיעַ,</p></blockquote>
 <blockquote><p>אֲשֶׁר גַּם גְּאוֹנִי יוּרַד לִשְׁאוֹלָה,<a class="footnote" href="#fn:43" id="fnref:43" title="see footnote"><sup>43</sup></a></p></blockquote>
 <blockquote><p>אֲשֶׁר נָבֹל תִּבֹּל זְרוֹעִי רָמָה,</p></blockquote>
@@ -941,7 +941,7 @@
 <blockquote><p>שחד מַה-לָּכֶם פֹּה, כִּי בָאתֶם אֵלַי עָתָּה?</p></blockquote>
 <blockquote><p>מֵה-תִּדְרֹשׁוּ מֶנִּי?</p></blockquote>
 <br/>
-<blockquote><p>פלשתים  אַךְ עַתָּה בָאנוּ</p></blockquote>
+<blockquote><p>פלשתים אַךְ עַתָּה בָאנוּ</p></blockquote>
 <blockquote><p>לשַׁחֵר פָּנֶיךָ, כִּי כֵן יָדָעְנוּ:</p></blockquote>
 <blockquote><p>בִּלְעָדֶיךָ לֹא יָרִים אִישׁ נַפְשֵׁנוּ,</p></blockquote>
 <blockquote><p>כִּי שָׁחָה עַד עָפָר וּמֵקִים אָיִן.</p></blockquote>
@@ -957,7 +957,7 @@
 <br/>
 <blockquote><p>שחד אַל תִּירָאוּ, אַל תִּפְחָדוּ! אָבֹאָה</p></blockquote>
 <blockquote><p>וְדַרְכֵיכֶם אַצְלִיחַ,</p></blockquote>
-<blockquote><p>עַתָּה נָקוּם נֵלֵכָה.<br/></p></blockquote>
+<blockquote><p>עַתָּה נָקוּם נֵלֵכָה. <br/></p></blockquote>
 <h2 id="חלקד">חלק ד</h2>
 <h2 id="פלשתיםשחדודלילה.">פלשתים, שחד ודלילה.</h2>
 <blockquote><p>דלילה מִי זֶה, פְּלִשְׁתִּים, בָּא עִמָּכֶם הֵנָּה,</p></blockquote>
@@ -969,7 +969,7 @@
 <blockquote><p>גָּם צְעָדָיו תַּחְתָּיו יַחְדָּו כּוֹנֶנוּ.</p></blockquote>
 <blockquote><p>לֹא תֹאמְרוּ לִי, מִי הוּא זֶה?</p></blockquote>
 <br/>
-<blockquote><p>פלשתים  נֹאמֵרָה:</p></blockquote>
+<blockquote><p>פלשתים נֹאמֵרָה:</p></blockquote>
 <blockquote><p>הִנֵּה זֶה שֹׁחַד הוּא כִּי בָא עִמָּנוּ</p></blockquote>
 <blockquote><p>לְחַלּוֹת אֶת פָּנַיִךְ</p></blockquote>
 <blockquote><p>כִּי תְפַתִּי אִישֵׁךְ, עַד כִּי יוֹדִיעַ</p></blockquote>
@@ -981,7 +981,7 @@
 <blockquote><p>דלילה וְאֵיךְ אֶעֱשֶׂה זֹאת וֶאֱוִיל אֵינוֹ</p></blockquote>
 <blockquote><p>לְהַגִּיד לִי כָּזֹאת?</p></blockquote>
 <br/>
-<blockquote><p>שחר  אַךְ אִם תַּחְפֹּצִי</p></blockquote>
+<blockquote><p>שחר אַךְ אִם תַּחְפֹּצִי</p></blockquote>
 <blockquote><p>עָשׂה תַּעֲשִׂי, כִּי עֵת בֵּין שָׁדַיִךְ</p></blockquote>
 <blockquote><p>יָלִין, וְהוּא בוֹעֵר בְּרִשְׁפֵי חֵשֶׁק,</p></blockquote>
 <blockquote><p>לֹא יִמְנַע מִמֵּךְ כָּל אֲשֶׁר תִּשְׁאָלִי.</p></blockquote>
@@ -1080,7 +1080,7 @@
 <blockquote><p>הֲזֶה פְרִי חִשְׁקִי אֲשֶׁר אֶקְצֹרָה</p></blockquote>
 <blockquote><p>מֵאִתְּךָ, אַכְזָר?</p></blockquote>
 <br/>
-<blockquote><p>שמשון  וְאַכְזָר אָנִי!</p></blockquote>
+<blockquote><p>שמשון וְאַכְזָר אָנִי!</p></blockquote>
 <blockquote><p>דלילה הַאִם לֹא אַכְזָר אָתָּה,</p></blockquote>
 <blockquote><p>כִּי אֶת לִבִּי תִרְאֶה בְאֵשׁ אוֹכֶלֶת,</p></blockquote>
 <blockquote><p>אַכְזָר (וְאַכְזָר אָתָּה!),</p></blockquote>
@@ -1113,7 +1113,7 @@
 <blockquote><p>חָלָל בְקִרְבִּי הוּא וִיהִי לְאָבֶן.</p></blockquote>
 <br/>
 <blockquote><p>דלילה לֹא נֶהְפַּךְ עַתָּה לִבְּךָ אָבֶן,</p></blockquote>
-<blockquote><p>כִּי כֵן מִיוֹם הִבָּרְאוֹ הִנֵּהוּ.<br/><br/>שמשון אַל תִּשְׁלְחִי בִי עוֹד, יָפָה, חִצָּיִךְ,</p></blockquote>
+<blockquote><p>כִּי כֵן מִיוֹם הִבָּרְאוֹ הִנֵּהוּ. <br/><br/> שמשון אַל תִּשְׁלְחִי בִי עוֹד, יָפָה, חִצָּיִךְ,</p></blockquote>
 <blockquote><p>כִּי מִתִּגְרַת יָדֵךְ הִנֵּה חָלִיתִי,</p></blockquote>
 <blockquote><p>כִּמְעַט נַפְשִׁי יָצָאָה.</p></blockquote>
 <br/>
@@ -1131,7 +1131,7 @@
 <br/>
 <blockquote><p>שמשון צֳרִי לְצִירִי אֵיךְ אַעֲלֶה אָנִי, אִם בְּיָדֵךְ הוּא?</p></blockquote>
 <br/>
-<blockquote><p>דלילה  אִם הוּא בְיָדֶךָ.</p></blockquote>
+<blockquote><p>דלילה אִם הוּא בְיָדֶךָ.</p></blockquote>
 <blockquote><p>שמשון צֳרִי צִירִי רַק כִּי תֶאֱהָבִינִי.<a class="footnote" href="#fn:56" id="fnref:56" title="see footnote"><sup>56</sup></a></p></blockquote>
 <br/>
 <blockquote><p>דלילה צֳרִי צִירְךָ רַק כִּי תֶאֱהָבֵנִי.</p></blockquote>
@@ -1170,9 +1170,9 @@
 <br/>
 <p>(ישן על ברכיה)</p>
 <p>דלילה [אל האיש]</p>
-<blockquote><p>קוּם חִישׁ, אַל תְּאַחֵר וּתְגַלְחֵהוּ.<br/><br/>(יגלח אותו)</p></blockquote>
+<blockquote><p>קוּם חִישׁ, אַל תְּאַחֵר וּתְגַלְחֵהוּ. <br/><br/> (יגלח אותו)</p></blockquote>
 <blockquote><p>דלילה עוּרָה-נָא שִׁמְשׁוֹן, עוּרָה,</p></blockquote>
-<blockquote><p>כִּי פְּלִשְׁתִּים עָלֶיךָ!<br/><br/>(ייקץ)</p></blockquote>
+<blockquote><p>כִּי פְּלִשְׁתִּים עָלֶיךָ! <br/><br/> (ייקץ)</p></blockquote>
 <blockquote><p>שמשון אַךְ מֶה הָיָה לִי וּבִרְכַּי כָּשָׁלוּ,</p></blockquote>
 <blockquote><p>אֵין עוֹד אִתִּי כֹּחִי, וְעֻזִּי סָרָה.<a class="footnote" href="#fn:60" id="fnref:60" title="see footnote"><sup>60</sup></a></p></blockquote>
 <blockquote><p>מַה זֶּה לֹא אוּכַל קוּם? אוֹי, כִּי גֻלָּחְתִּי!</p></blockquote>
@@ -1285,4 +1285,4 @@
 <blockquote><p>אָמוּת, מָוֶת לֹא אָגוּר, אֶשְׂחַק לְפָחַד –</p></blockquote>
 <blockquote><p>תָּמֹת נַפְשִׁי עִם פְּלִשְׁתִּים גַּם יָחַד!</p></blockquote>
 <br/>
-<ol><li id="fn:1"><p><strong>ראש א</strong>‘, <strong>חלק א</strong>’ – כך אצל רמח“ל במקום המונחים החדשים : ,מערכה” ומחזה“. זאת היתה תקופת הילדות של הדרמה העברית. בשתי דרמותיו האחרות: מִגְדַּל עז” ו,לַיְשָׁרִים תְּהִלָּה“הוּנחוּ, על–ידי המסדרים, ”חלק“ לציין ”מערכה“ ו”ענין“ – ”מחזה". <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li><li id="fn:2"><p>מן הצד בכתב–היד, נוסח אחר: “חִילָה”. שמשון מדבר כאן אלהגבורה, כמו שהוא אומר להלן: „אַתְּ אַתְּ, גְבוּרָה. בֹאִי“. המשורר מדַמה אותה, כנזכר למעלה: אשה לבושה שריון קשקשים וכובע בראשה, בימינה תאחז חרב חדה ובשמאלה – אגודת לפידים בוערים”. על כן יאמר להלן: מֵאֲגֻדָּתֵךְ לַפִּידִים יַהֲלֹכוּ“. יש כאן השפעת המיתולוגיה היוָנית, שעברה אל רמח”ל דרך הספרות האיטלקית. <a class="reversefootnote" href="#fnref:2" title="return to body"> ↩</a></p></li><li id="fn:3"><p>פֹּה בְמַחֲנֵה גוּר אַרְיֵה… פה בְמַחֲנֵה שְׁפִיפון – כלומר: במחנה דן,שנאמר עליו: יְהִי דָן… שְׁפִיפון עֲלֵי אֹרַח“ (בראשית מ"ט, יז)וגם: דָן גוּר אַרְיֵה יְזְנֵּק מִן הַבָּשָׁן” (דברים ל"ג, כב). <a class="reversefootnote" href="#fnref:3" title="return to body"> ↩</a></p></li><li id="fn:4"><p>וְיֶהֱמוּ גַלָיו כַּהֲמוֹת יָמָה – במקום: יָם. וכן רמח“ל נוהג לכתוב”שְׁאוֹלָה“ במקום ”שאול". וכל כך למה? כדי שלא תהיה מלה בת הברה אחת, או מלרעית, בסוף החרוז. פעל עבר נוכח נדון כמלה בת מלעיל לענין זה, <a class="reversefootnote" href="#fnref:4" title="return to body"> ↩</a></p></li><li id="fn:5"><p>בכתב–היד בטעות: “אֵיפה”. <a class="reversefootnote" href="#fnref:5" title="return to body"> ↩</a></p></li><li id="fn:6"><p>נוסח אחר בכה“: ”כי היא במקום: “עד כי”. <a class="reversefootnote" href="#fnref:6" title="return to body"> ↩</a></p></li><li id="fn:7"><p>נוסח אחר: כִּי תָגוּרי במקום: “מִפַּחַד”. <a class="reversefootnote" href="#fnref:7" title="return to body"> ↩</a></p></li><li id="fn:8"><p>אִם בֵּין קְרִיאֵי־שֵׁם יְלִיד־הַחֵשֶׁק – הוא אֶל־האהבה היוָני בתרגום עברי, והמשורר דִמָּהוּ למעלה אל "נער רובה קשת ולו כנפים ככנפי הנשרי. המושג היוני החי נהפך בעברית להַפְשָׁטָה קָרָה,ואולם תחת זה, נעשה המושג עברי־טהור וקרוב אל שכל הקורא העברי. <a class="reversefootnote" href="#fnref:8" title="return to body"> ↩</a></p></li><li id="fn:9"><p>שֵעוּר הכתוב כך הוא: כי העָצמה עצמה – חִצֵּי יביאו מֹרך בלבבה,כמו בלב אחד האדם. מִבְנֶה־משפט קשה אשר כזה אינו רגיל אצל רמח"ל בלתי אם בהיותו אסור בכַבלי המשקל. כאן לא היה הכרח בדבר לפי שבדרַמת נעורים זו אינו אסיר־משקל כל־כך, כמו בשתי דרמותיו האחרות, שהוא נזקק בהם לשתי תנועות ויתד בראש כל חרוז. <a class="reversefootnote" href="#fnref:9" title="return to body"> ↩</a></p></li><li id="fn:10"><p>כִּי רוּם וּבֹר יְשַּׁח לְפְנֵי רֵעֵהוּ – הכונה, כפי הנראה, כך היא: אםמן השמים נגזר הדבר, כי רוּם־רוח ובֹר־נפש יִשַׁחוּ לפני החשק, –תרפינה ידי הגבור וכנפיו, וידי רעו החשק בו תמשלנה. <a class="reversefootnote" href="#fnref:10" title="return to body"> ↩</a></p></li><li id="fn:11"><p>כלומר: והלא לבי איננו רך, כי בהתעורר רוח־קדים משברי־גליו (של הלב) יהמו יום יום הֶמְיַת גבוּרות־חוסן. <a class="reversefootnote" href="#fnref:11" title="return to body"> ↩</a></p></li><li id="fn:12"><p>בסוף כל מחזה באים שני חרוזים אחרונים בחריזות (כגון כאן :אָבוֹאָה – אֱלוֹהַּ), והבית שלאחריהם כלו מחורז, חריזות אלו בסופי מחזות נהוגות אף אצל שֶׁקְסְפִּיר, והן נותנות טעם לשבח בשרות החרוזים הלבָנים המוֹנוֹטוֹניים שכתובים בהם המחזות, מנהג זה היה מקובל אף בספרות האיטלקית, ומשם קבלו רמח"ל הצעיר. <a class="reversefootnote" href="#fnref:12" title="return to body"> ↩</a></p></li><li id="fn:13"><p>כלומר: למצוא מרגוע למשברי לבי, דרכו של רמח“ל, על־פי־רוב, להשתמש במלת־היחס ”אֶל" במקום לְ־ <a class="reversefootnote" href="#fnref:13" title="return to body"> ↩</a></p></li><li id="fn:14"><p>אַחֲלַי – משאלות לבי. <a class="reversefootnote" href="#fnref:14" title="return to body"> ↩</a></p></li><li id="fn:15"><p>כל זה מוסב על נושא אחד: הגבוּרה. <a class="reversefootnote" href="#fnref:15" title="return to body"> ↩</a></p></li><li id="fn:16"><p>כלומר: האם חפצה את שאני אטע בך אהל נאמן, באהבתי אותך. <a class="reversefootnote" href="#fnref:16" title="return to body"> ↩</a></p></li><li id="fn:17"><p>סימון זה } מסמן ששניהם מדברים יחד. [צוות פרויקט בן–יהודה] <a class="reversefootnote" href="#fnref:17" title="return to body"> ↩</a></p></li><li id="fn:18"><p>אמצעי טֶכני מקורי ומוזר קצת בדפוס. כשהמחזה מוצג על הבמה,שניהם באחד מביעים עליצות אהבתם זה לזו בבת אחת, “מה טוב חלקי ומה נָעֲמָה” – אלא שכאן שמשון מוסיף: “חבלי־יפתי מראה אף שרת טעם” ותמנית מוסיפה: “חבלי יפה־מראה אף איש שר טעם”, ומסימים שניהם כאחד: "כן אך את ה' אודה הפעם. <a class="reversefootnote" href="#fnref:18" title="return to body"> ↩</a></p></li><li id="fn:19"><p>“הֲלוֹם” כמעט תמיד משמש אצל רמח“ל במקום ”פֹּה". <a class="reversefootnote" href="#fnref:19" title="return to body"> ↩</a></p></li><li id="fn:20"><p>יַזריח – בכ"י יזרים, והיא כנראה טעות סופר שהרי המלה האחרונה בחרוז צריכה להיות מלעילית. <a class="reversefootnote" href="#fnref:20" title="return to body"> ↩</a></p></li><li id="fn:21"><p>במקור: איפה ומלת “כי” שלאחריה חסרה בכ"י. <a class="reversefootnote" href="#fnref:21" title="return to body"> ↩</a></p></li><li id="fn:22"><p>בכתב–היד בטעות: תעזור". <a class="reversefootnote" href="#fnref:22" title="return to body"> ↩</a></p></li><li id="fn:23"><p>כלומר: פן אהיה לחם, טֶרף לשִׁני אש אוכלת, כי באש אימועליה הפלשתים. <a class="reversefootnote" href="#fnref:23" title="return to body"> ↩</a></p></li><li id="fn:24"><p>כלומר: אין כערכו, אין דומה לו. <a class="reversefootnote" href="#fnref:24" title="return to body"> ↩</a></p></li><li id="fn:25"><p>כמו בהערה 20. <a class="reversefootnote" href="#fnref:25" title="return to body"> ↩</a></p></li><li id="fn:26"><p>במקור בטעות: תַּרחיק. <a class="reversefootnote" href="#fnref:26" title="return to body"> ↩</a></p></li><li id="fn:27"><p>הכונה לא: לאן, אלא: איפה, ושִׁמוּש־לשון זה רגיל הרבה אצל רמח"ל. <a class="reversefootnote" href="#fnref:27" title="return to body"> ↩</a></p></li><li id="fn:28"><p>כלומר: כי הוא לבדו יעשה, שכל עצתנו תצליח. <a class="reversefootnote" href="#fnref:28" title="return to body"> ↩</a></p></li><li id="fn:29"><p>ראה הערה 14. <a class="reversefootnote" href="#fnref:29" title="return to body"> ↩</a></p></li><li id="fn:30"><p>כלומר: החשק ישלח את חִציו ללכת ולהגיע עד לב שמשון. <a class="reversefootnote" href="#fnref:30" title="return to body"> ↩</a></p></li><li id="fn:31"><p>במקור בטעות: מִכֶּם. <a class="reversefootnote" href="#fnref:31" title="return to body"> ↩</a></p></li><li id="fn:32"><p>למשמעתך אסור, ולא אסור [מזה, כלומר: משמוע בקולך] כל יָמַי. <a class="reversefootnote" href="#fnref:32" title="return to body"> ↩</a></p></li><li id="fn:33"><p>לחָבְשָׁה – כנראה, הכונה: לחבוש את פצעי נפשי. (ואולי צריךלהיות: לְחָנְנָה. העורך) <a class="reversefootnote" href="#fnref:33" title="return to body"> ↩</a></p></li><li id="fn:34"><p>כלומר: אגרוף־בשר יִלאה לפוצץ לב אבן; ורק לב אבן אחריובל עשות זאת. <a class="reversefootnote" href="#fnref:34" title="return to body"> ↩</a></p></li><li id="fn:35"><p>הגבורה שפכה עליו רוח ילידי הענקים. <a class="reversefootnote" href="#fnref:35" title="return to body"> ↩</a></p></li><li id="fn:36"><p>כלומר: האין עזרתי בי ובזרועי? <a class="reversefootnote" href="#fnref:36" title="return to body"> ↩</a></p></li><li id="fn:37"><p>במקור בטעות: וְתוֹצִיאֵנִי. <a class="reversefootnote" href="#fnref:37" title="return to body"> ↩</a></p></li><li id="fn:38"><p>(מִכֶּבֶל – בכ“י: „מַכָּתו”, והיא בל"ס טעות המעתיק. העורך). <a class="reversefootnote" href="#fnref:38" title="return to body"> ↩</a></p></li><li id="fn:39"><p>בכתב–היד בטעות: אוֹדיע. <a class="reversefootnote" href="#fnref:39" title="return to body"> ↩</a></p></li><li id="fn:40"><p>מֶגֶד כאן במקום תואר; מָתוֹק. <a class="reversefootnote" href="#fnref:40" title="return to body"> ↩</a></p></li><li id="fn:41"><p>בונה להם בית; הקדוש־ברוך־הוא מזַוֵּג זִווּגים בכבודו ובעצמו. <a class="reversefootnote" href="#fnref:41" title="return to body"> ↩</a></p></li><li id="fn:42"><p>כי כן ראוי לו, לעוכר שארו, לאכול פרי מוסר־כליות לשובענפשו, אך ללא תועלת, אחרי שכבר אֵחר המועד. <a class="reversefootnote" href="#fnref:42" title="return to body"> ↩</a></p></li><li id="fn:43"><p>לשאוֹלה – במקום לשאוֹל – ראה הערה 4. <a class="reversefootnote" href="#fnref:43" title="return to body"> ↩</a></p></li><li id="fn:44"><p>בכתב–היד בטעות: הֵם. <a class="reversefootnote" href="#fnref:44" title="return to body"> ↩</a></p></li><li id="fn:45"><p>“מָוֶת” כאן בלשון נקבה, כמו מיתה. <a class="reversefootnote" href="#fnref:45" title="return to body"> ↩</a></p></li><li id="fn:46"><p>כלומר: איך תדרשי ממני. <a class="reversefootnote" href="#fnref:46" title="return to body"> ↩</a></p></li><li id="fn:47"><p>שְׁמוּש בלתי–רגיל של המלה “נָא”. וכן להלן: בָּמָה תֵאָסֵר נָא לְעֲנּוֹתָךָ. <a class="reversefootnote" href="#fnref:47" title="return to body"> ↩</a></p></li><li id="fn:48"><p>זאת אומרת: גם יערבו לי, ואם־כי יורדים חדרי לב, וגומר. <a class="reversefootnote" href="#fnref:48" title="return to body"> ↩</a></p></li><li id="fn:49"><p>תִגֹף – ת' “תְנָגֶף” – מפני שגרת הלשון לא תגף באבן רגלך (תהלים ציא, יב), ששם הוא פעל יוצא. <a class="reversefootnote" href="#fnref:49" title="return to body"> ↩</a></p></li><li id="fn:50"><p>בכתב־היד בטעות: נִפלִיתי. <a class="reversefootnote" href="#fnref:50" title="return to body"> ↩</a></p></li><li id="fn:51"><p>כן צריך להיות, ובכתב־היד: הֵן תַּעֲזֹב אוֹתִי כֹּחִי וְתֵלֵךְ בלשון־נקבה, בהתכונו, כנראה, לגבורה. <a class="reversefootnote" href="#fnref:51" title="return to body"> ↩</a></p></li><li id="fn:52"><p>אחרי החרוז הזה בא חרון: כי לא אהבה תדע, שנמחק בכתב־היד. <a class="reversefootnote" href="#fnref:52" title="return to body"> ↩</a></p></li><li id="fn:53"><p>בכתב־היד בטעות: תִּראִהוּ <a class="reversefootnote" href="#fnref:53" title="return to body"> ↩</a></p></li><li id="fn:54"><p>הלב הוא המלך של אברי האדם <a class="reversefootnote" href="#fnref:54" title="return to body"> ↩</a></p></li><li id="fn:55"><p>צֳרִי צִירֶךָ – לשון נופל על לשון <a class="reversefootnote" href="#fnref:55" title="return to body"> ↩</a></p></li><li id="fn:56"><p>בכתב־היד בטעות: תֶּאֱהָבֵנִי. <a class="reversefootnote" href="#fnref:56" title="return to body"> ↩</a></p></li><li id="fn:57"><p>בכתב–היד בטעות: וְתָסוּר. <a class="reversefootnote" href="#fnref:57" title="return to body"> ↩</a></p></li><li id="fn:58"><p>ראה הערה 48. <a class="reversefootnote" href="#fnref:58" title="return to body"> ↩</a></p></li><li id="fn:59"><p>כלומר: כי שוב תשוב להיות לי הידיד אשר היית. <a class="reversefootnote" href="#fnref:59" title="return to body"> ↩</a></p></li><li id="fn:60"><p>ראה הערה 48. <a class="reversefootnote" href="#fnref:60" title="return to body"> ↩</a></p></li><li id="fn:61"><p>מקום שפגש שם את דלילה לראשונה. <a class="reversefootnote" href="#fnref:61" title="return to body"> ↩</a></p></li><li id="fn:62"><p>בכתב–היד בטעות: יִשְׁכּוֹן. <a class="reversefootnote" href="#fnref:62" title="return to body"> ↩</a></p></li></ol>
+<ol><li id="fn:1"><p><strong>ראש א</strong>‘, <strong>חלק א</strong>’ – כך אצל רמח“ל במקום המונחים החדשים : ,מערכה” ומחזה“. זאת היתה תקופת הילדות של הדרמה העברית. בשתי דרמותיו האחרות: מִגְדַּל עז” ו,לַיְשָׁרִים תְּהִלָּה“ הוּנחוּ, על–ידי המסדרים, ”חלק“ לציין ”מערכה“ ו”ענין“ – ”מחזה". <a class="reversefootnote" href="#fnref:1" title="return to body"> ↩</a></p></li> <li id="fn:2"><p>מן הצד בכתב–היד, נוסח אחר: “חִילָה”. שמשון מדבר כאן אל הגבורה, כמו שהוא אומר להלן: „אַתְּ אַתְּ, גְבוּרָה. בֹאִי“. המשורר מדַמה אותה, כנזכר למעלה: אשה לבושה שריון קשקשים וכובע בראשה, בימינה תאחז חרב חדה ובשמאלה – אגודת לפידים בוערים”. על כן יאמר להלן: מֵאֲגֻדָּתֵךְ לַפִּידִים יַהֲלֹכוּ“. יש כאן השפעת המיתולוגיה היוָנית, שעברה אל רמח”ל דרך הספרות האיטלקית. <a class="reversefootnote" href="#fnref:2" title="return to body"> ↩</a></p></li> <li id="fn:3"><p>פֹּה בְמַחֲנֵה גוּר אַרְיֵה… פה בְמַחֲנֵה שְׁפִיפון – כלומר: במחנה דן, שנאמר עליו: יְהִי דָן… שְׁפִיפון עֲלֵי אֹרַח“ (בראשית מ"ט, יז) וגם: דָן גוּר אַרְיֵה יְזְנֵּק מִן הַבָּשָׁן” (דברים ל"ג, כב). <a class="reversefootnote" href="#fnref:3" title="return to body"> ↩</a></p></li> <li id="fn:4"><p>וְיֶהֱמוּ גַלָיו כַּהֲמוֹת יָמָה – במקום: יָם. וכן רמח“ל נוהג לכתוב ”שְׁאוֹלָה“ במקום ”שאול". וכל כך למה? כדי שלא תהיה מלה בת הברה אחת, או מלרעית, בסוף החרוז. פעל עבר נוכח נדון כמלה בת מלעיל לענין זה, <a class="reversefootnote" href="#fnref:4" title="return to body"> ↩</a></p></li> <li id="fn:5"><p>בכתב–היד בטעות: “אֵיפה”. <a class="reversefootnote" href="#fnref:5" title="return to body"> ↩</a></p></li> <li id="fn:6"><p>נוסח אחר בכה“: ”כי היא במקום: “עד כי”. <a class="reversefootnote" href="#fnref:6" title="return to body"> ↩</a></p></li> <li id="fn:7"><p>נוסח אחר: כִּי תָגוּרי במקום: “מִפַּחַד”. <a class="reversefootnote" href="#fnref:7" title="return to body"> ↩</a></p></li> <li id="fn:8"><p>אִם בֵּין קְרִיאֵי־שֵׁם יְלִיד־הַחֵשֶׁק – הוא אֶל־האהבה היוָני בתרגום עברי, והמשורר דִמָּהוּ למעלה אל "נער רובה קשת ולו כנפים ככנפי הנשרי. המושג היוני החי נהפך בעברית להַפְשָׁטָה קָרָה, ואולם תחת זה, נעשה המושג עברי־טהור וקרוב אל שכל הקורא העברי. <a class="reversefootnote" href="#fnref:8" title="return to body"> ↩</a></p></li> <li id="fn:9"><p>שֵעוּר הכתוב כך הוא: כי העָצמה עצמה – חִצֵּי יביאו מֹרך בלבבה, כמו בלב אחד האדם. מִבְנֶה־משפט קשה אשר כזה אינו רגיל אצל רמח"ל בלתי אם בהיותו אסור בכַבלי המשקל. כאן לא היה הכרח בדבר לפי שבדרַמת נעורים זו אינו אסיר־משקל כל־כך, כמו בשתי דרמותיו האחרות, שהוא נזקק בהם לשתי תנועות ויתד בראש כל חרוז. <a class="reversefootnote" href="#fnref:9" title="return to body"> ↩</a></p></li> <li id="fn:10"><p>כִּי רוּם וּבֹר יְשַּׁח לְפְנֵי רֵעֵהוּ – הכונה, כפי הנראה, כך היא: אם מן השמים נגזר הדבר, כי רוּם־רוח ובֹר־נפש יִשַׁחוּ לפני החשק, – תרפינה ידי הגבור וכנפיו, וידי רעו החשק בו תמשלנה. <a class="reversefootnote" href="#fnref:10" title="return to body"> ↩</a></p></li> <li id="fn:11"><p>כלומר: והלא לבי איננו רך, כי בהתעורר רוח־קדים משברי־גליו (של הלב) יהמו יום יום הֶמְיַת גבוּרות־חוסן. <a class="reversefootnote" href="#fnref:11" title="return to body"> ↩</a></p></li> <li id="fn:12"><p>בסוף כל מחזה באים שני חרוזים אחרונים בחריזות (כגון כאן : אָבוֹאָה – אֱלוֹהַּ), והבית שלאחריהם כלו מחורז, חריזות אלו בסופי מחזות נהוגות אף אצל שֶׁקְסְפִּיר, והן נותנות טעם לשבח בשרות החרוזים הלבָנים המוֹנוֹטוֹניים שכתובים בהם המחזות, מנהג זה היה מקובל אף בספרות האיטלקית, ומשם קבלו רמח"ל הצעיר. <a class="reversefootnote" href="#fnref:12" title="return to body"> ↩</a></p></li> <li id="fn:13"><p>כלומר: למצוא מרגוע למשברי לבי, דרכו של רמח“ל, על־פי־רוב, להשתמש במלת־היחס ”אֶל" במקום לְ־ <a class="reversefootnote" href="#fnref:13" title="return to body"> ↩</a></p></li> <li id="fn:14"><p>אַחֲלַי – משאלות לבי. <a class="reversefootnote" href="#fnref:14" title="return to body"> ↩</a></p></li> <li id="fn:15"><p>כל זה מוסב על נושא אחד: הגבוּרה. <a class="reversefootnote" href="#fnref:15" title="return to body"> ↩</a></p></li> <li id="fn:16"><p>כלומר: האם חפצה את שאני אטע בך אהל נאמן, באהבתי אותך. <a class="reversefootnote" href="#fnref:16" title="return to body"> ↩</a></p></li> <li id="fn:17"><p>סימון זה } מסמן ששניהם מדברים יחד. [צוות פרויקט בן–יהודה] <a class="reversefootnote" href="#fnref:17" title="return to body"> ↩</a></p></li> <li id="fn:18"><p>אמצעי טֶכני מקורי ומוזר קצת בדפוס. כשהמחזה מוצג על הבמה, שניהם באחד מביעים עליצות אהבתם זה לזו בבת אחת, “מה טוב חלקי ומה נָעֲמָה” – אלא שכאן שמשון מוסיף: “חבלי־יפתי מראה אף שרת טעם” ותמנית מוסיפה: “חבלי יפה־מראה אף איש שר טעם”, ומסימים שניהם כאחד: "כן אך את ה' אודה הפעם. <a class="reversefootnote" href="#fnref:18" title="return to body"> ↩</a></p></li> <li id="fn:19"><p>“הֲלוֹם” כמעט תמיד משמש אצל רמח“ל במקום ”פֹּה". <a class="reversefootnote" href="#fnref:19" title="return to body"> ↩</a></p></li> <li id="fn:20"><p>יַזריח – בכ"י יזרים, והיא כנראה טעות סופר שהרי המלה האחרונה בחרוז צריכה להיות מלעילית. <a class="reversefootnote" href="#fnref:20" title="return to body"> ↩</a></p></li> <li id="fn:21"><p>במקור: איפה ומלת “כי” שלאחריה חסרה בכ"י. <a class="reversefootnote" href="#fnref:21" title="return to body"> ↩</a></p></li> <li id="fn:22"><p>בכתב–היד בטעות: תעזור". <a class="reversefootnote" href="#fnref:22" title="return to body"> ↩</a></p></li> <li id="fn:23"><p>כלומר: פן אהיה לחם, טֶרף לשִׁני אש אוכלת, כי באש אימו עליה הפלשתים. <a class="reversefootnote" href="#fnref:23" title="return to body"> ↩</a></p></li> <li id="fn:24"><p>כלומר: אין כערכו, אין דומה לו. <a class="reversefootnote" href="#fnref:24" title="return to body"> ↩</a></p></li> <li id="fn:25"><p>כמו בהערה 20. <a class="reversefootnote" href="#fnref:25" title="return to body"> ↩</a></p></li> <li id="fn:26"><p>במקור בטעות: תַּרחיק. <a class="reversefootnote" href="#fnref:26" title="return to body"> ↩</a></p></li> <li id="fn:27"><p>הכונה לא: לאן, אלא: איפה, ושִׁמוּש־לשון זה רגיל הרבה אצל רמח"ל. <a class="reversefootnote" href="#fnref:27" title="return to body"> ↩</a></p></li> <li id="fn:28"><p>כלומר: כי הוא לבדו יעשה, שכל עצתנו תצליח. <a class="reversefootnote" href="#fnref:28" title="return to body"> ↩</a></p></li> <li id="fn:29"><p>ראה הערה 14. <a class="reversefootnote" href="#fnref:29" title="return to body"> ↩</a></p></li> <li id="fn:30"><p>כלומר: החשק ישלח את חִציו ללכת ולהגיע עד לב שמשון. <a class="reversefootnote" href="#fnref:30" title="return to body"> ↩</a></p></li> <li id="fn:31"><p>במקור בטעות: מִכֶּם. <a class="reversefootnote" href="#fnref:31" title="return to body"> ↩</a></p></li> <li id="fn:32"><p>למשמעתך אסור, ולא אסור [מזה, כלומר: משמוע בקולך] כל יָמַי. <a class="reversefootnote" href="#fnref:32" title="return to body"> ↩</a></p></li> <li id="fn:33"><p>לחָבְשָׁה – כנראה, הכונה: לחבוש את פצעי נפשי. (ואולי צריך להיות: לְחָנְנָה. העורך) <a class="reversefootnote" href="#fnref:33" title="return to body"> ↩</a></p></li> <li id="fn:34"><p>כלומר: אגרוף־בשר יִלאה לפוצץ לב אבן; ורק לב אבן אחר יובל עשות זאת. <a class="reversefootnote" href="#fnref:34" title="return to body"> ↩</a></p></li> <li id="fn:35"><p>הגבורה שפכה עליו רוח ילידי הענקים. <a class="reversefootnote" href="#fnref:35" title="return to body"> ↩</a></p></li> <li id="fn:36"><p>כלומר: האין עזרתי בי ובזרועי? <a class="reversefootnote" href="#fnref:36" title="return to body"> ↩</a></p></li> <li id="fn:37"><p>במקור בטעות: וְתוֹצִיאֵנִי. <a class="reversefootnote" href="#fnref:37" title="return to body"> ↩</a></p></li> <li id="fn:38"><p>(מִכֶּבֶל – בכ“י: „מַכָּתו”, והיא בל"ס טעות המעתיק. העורך). <a class="reversefootnote" href="#fnref:38" title="return to body"> ↩</a></p></li> <li id="fn:39"><p>בכתב–היד בטעות: אוֹדיע. <a class="reversefootnote" href="#fnref:39" title="return to body"> ↩</a></p></li> <li id="fn:40"><p>מֶגֶד כאן במקום תואר; מָתוֹק. <a class="reversefootnote" href="#fnref:40" title="return to body"> ↩</a></p></li> <li id="fn:41"><p>בונה להם בית; הקדוש־ברוך־הוא מזַוֵּג זִווּגים בכבודו ובעצמו. <a class="reversefootnote" href="#fnref:41" title="return to body"> ↩</a></p></li> <li id="fn:42"><p>כי כן ראוי לו, לעוכר שארו, לאכול פרי מוסר־כליות לשובע נפשו, אך ללא תועלת, אחרי שכבר אֵחר המועד. <a class="reversefootnote" href="#fnref:42" title="return to body"> ↩</a></p></li> <li id="fn:43"><p>לשאוֹלה – במקום לשאוֹל – ראה הערה 4. <a class="reversefootnote" href="#fnref:43" title="return to body"> ↩</a></p></li> <li id="fn:44"><p>בכתב–היד בטעות: הֵם. <a class="reversefootnote" href="#fnref:44" title="return to body"> ↩</a></p></li> <li id="fn:45"><p>“מָוֶת” כאן בלשון נקבה, כמו מיתה. <a class="reversefootnote" href="#fnref:45" title="return to body"> ↩</a></p></li> <li id="fn:46"><p>כלומר: איך תדרשי ממני. <a class="reversefootnote" href="#fnref:46" title="return to body"> ↩</a></p></li> <li id="fn:47"><p>שְׁמוּש בלתי–רגיל של המלה “נָא”. וכן להלן: בָּמָה תֵאָסֵר נָא לְעֲנּוֹתָךָ. <a class="reversefootnote" href="#fnref:47" title="return to body"> ↩</a></p></li> <li id="fn:48"><p>זאת אומרת: גם יערבו לי, ואם־כי יורדים חדרי לב, וגומר. <a class="reversefootnote" href="#fnref:48" title="return to body"> ↩</a></p></li> <li id="fn:49"><p>תִגֹף – ת' “תְנָגֶף” – מפני שגרת הלשון לא תגף באבן רגלך (תהלים ציא, יב), ששם הוא פעל יוצא. <a class="reversefootnote" href="#fnref:49" title="return to body"> ↩</a></p></li> <li id="fn:50"><p>בכתב־היד בטעות: נִפלִיתי. <a class="reversefootnote" href="#fnref:50" title="return to body"> ↩</a></p></li> <li id="fn:51"><p>כן צריך להיות, ובכתב־היד: הֵן תַּעֲזֹב אוֹתִי כֹּחִי וְתֵלֵךְ בלשון־נקבה, בהתכונו, כנראה, לגבורה. <a class="reversefootnote" href="#fnref:51" title="return to body"> ↩</a></p></li> <li id="fn:52"><p>אחרי החרוז הזה בא חרון: כי לא אהבה תדע, שנמחק בכתב־היד. <a class="reversefootnote" href="#fnref:52" title="return to body"> ↩</a></p></li> <li id="fn:53"><p>בכתב־היד בטעות: תִּראִהוּ <a class="reversefootnote" href="#fnref:53" title="return to body"> ↩</a></p></li> <li id="fn:54"><p>הלב הוא המלך של אברי האדם <a class="reversefootnote" href="#fnref:54" title="return to body"> ↩</a></p></li> <li id="fn:55"><p>צֳרִי צִירֶךָ – לשון נופל על לשון <a class="reversefootnote" href="#fnref:55" title="return to body"> ↩</a></p></li> <li id="fn:56"><p>בכתב־היד בטעות: תֶּאֱהָבֵנִי. <a class="reversefootnote" href="#fnref:56" title="return to body"> ↩</a></p></li> <li id="fn:57"><p>בכתב–היד בטעות: וְתָסוּר. <a class="reversefootnote" href="#fnref:57" title="return to body"> ↩</a></p></li> <li id="fn:58"><p>ראה הערה 48. <a class="reversefootnote" href="#fnref:58" title="return to body"> ↩</a></p></li> <li id="fn:59"><p>כלומר: כי שוב תשוב להיות לי הידיד אשר היית. <a class="reversefootnote" href="#fnref:59" title="return to body"> ↩</a></p></li> <li id="fn:60"><p>ראה הערה 48. <a class="reversefootnote" href="#fnref:60" title="return to body"> ↩</a></p></li> <li id="fn:61"><p>מקום שפגש שם את דלילה לראשונה. <a class="reversefootnote" href="#fnref:61" title="return to body"> ↩</a></p></li> <li id="fn:62"><p>בכתב–היד בטעות: יִשְׁכּוֹן. <a class="reversefootnote" href="#fnref:62" title="return to body"> ↩</a></p></li></ol>

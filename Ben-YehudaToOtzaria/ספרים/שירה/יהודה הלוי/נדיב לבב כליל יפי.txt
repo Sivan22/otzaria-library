@@ -18,4 +18,4 @@
 <blockquote><p>וְאִם אַרְבַּע תְּחִלָּתִי</p></blockquote>
 <blockquote><p>שְׁבַע מֵאוֹת בשׁה סוֹפִי</p></blockquote>
 <blockquote><p>וְאִם תָּבִין שְׁאֵלָתִי</p></blockquote>
-<blockquote><p>לְךָ אֶקֹּד עֲלֵי אַפִּי<br/> </p></blockquote>
+<blockquote><p>לְךָ אֶקֹּד עֲלֵי אַפִּי <br/></p></blockquote>

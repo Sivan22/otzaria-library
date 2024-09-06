@@ -47,4 +47,4 @@
 <br/>
 <blockquote><p>יְמִינְּךָ הַרְאֵה וְיֵרוֹמוּ דְגָלֶיהָ</p></blockquote>
 <blockquote><p>הָאֹמֵר לַחֶרֶס וְלֹא יִזְרָח וְיֹדֵעַ שְׁבִילֶיהָ</p></blockquote>
-<blockquote><p>הַמֵאִיר לָאָרֶץ וְלַדָּרִים עָלֶיהָ.<br/></p></blockquote>
+<blockquote><p>הַמֵאִיר לָאָרֶץ וְלַדָּרִים עָלֶיהָ. <br/></p></blockquote>

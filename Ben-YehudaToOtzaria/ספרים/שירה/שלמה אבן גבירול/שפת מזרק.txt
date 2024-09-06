@@ -21,4 +21,4 @@
 <blockquote><p>וְיִתְפָּאֵר בְּפַח זָהָב עֲלֵי עָב</p></blockquote>
 <blockquote><p>תְּלַקֵּט שַׁרְשְׁרוֹת זָהָב בְּבֵיתִי</p></blockquote>
 <blockquote><p>וּמֵימֶיהָ כְּמֵי שֶׁלֶג שְׂנִיר אוֹ</p></blockquote>
-<blockquote><p>כְּמוֹ שִׁירַת שְׁלֹמֹה הַקְּהָתִי.<br/> </p></blockquote>
+<blockquote><p>כְּמוֹ שִׁירַת שְׁלֹמֹה הַקְּהָתִי. <br/></p></blockquote>

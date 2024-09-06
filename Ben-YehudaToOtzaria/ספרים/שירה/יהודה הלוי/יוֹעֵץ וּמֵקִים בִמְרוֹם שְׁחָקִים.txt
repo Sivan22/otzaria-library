@@ -69,4 +69,4 @@
 <blockquote><p>וְסֹעֲרָה עֲנִיָּה דָּמְתָה אֳנִיָּה</p></blockquote>
 <blockquote><p>תִּשְׁמַע שְׁנִיָּה מִזְמוֹר לְתוֹדָה</p></blockquote>
 <blockquote><p>צְאִי בַּת אֱמוּנַי מֵאֹפֶל עֲנָנָי</p></blockquote>
-<blockquote><p>כִּי כְבוֹד יְיָ עָלַיִךְ זָרָח.<br/></p></blockquote>
+<blockquote><p>כִּי כְבוֹד יְיָ עָלַיִךְ זָרָח. <br/></p></blockquote>

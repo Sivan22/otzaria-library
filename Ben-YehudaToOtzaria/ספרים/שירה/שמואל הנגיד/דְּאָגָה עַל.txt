@@ -3,4 +3,4 @@
 <blockquote><p>דְּאָגָה עַל אֲשֶׁר תִּירָא מְבוֹאוֹ</p></blockquote>
 <blockquote><p>לְלֵב תַּכְאִיב וְשִׂמְחָה מַעֲרִיבָה</p></blockquote>
 <blockquote><p>וְכַמָּה בָא אֲשֶׁר לֹא יַעֲרֹץ אִיש</p></blockquote>
-<blockquote><p>וְכַמָּה יַעֲרֹץ אָדָם וְלֹא בָא.<br/> </p></blockquote>
+<blockquote><p>וְכַמָּה יַעֲרֹץ אָדָם וְלֹא בָא. <br/></p></blockquote>

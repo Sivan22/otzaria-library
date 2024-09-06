@@ -56,4 +56,4 @@
 <blockquote><p>וְאֶקְרָא בַעֲדוֹ אֶל הָאֱלֹהִים</p></blockquote>
 <blockquote><p>לְהַחְיוֹתוֹ וְהַחְיוֹת אֶת חֲנִיטוֹ</p></blockquote>
 <blockquote><p>וְתַחַת אָב יְהִי בֵן אַחֲרֵי רֹב</p></blockquote>
-<blockquote><p>שְׁנוֹת חַיִּים וְהוּא יִהְיָה עֲבֹטוֹ.<br/></p></blockquote>
+<blockquote><p>שְׁנוֹת חַיִּים וְהוּא יִהְיָה עֲבֹטוֹ. <br/></p></blockquote>

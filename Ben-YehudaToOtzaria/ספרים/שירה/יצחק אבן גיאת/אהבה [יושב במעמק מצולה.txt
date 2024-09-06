@@ -22,4 +22,4 @@
 <blockquote><p>אֶשְׁכַּח יְמִינִי / אִם אֶשְׁכָּחֵךְ,</p></blockquote>
 <blockquote><p>וְהִנֵּה לְשׁוֹנִי / תִּדְבַּק אֶל חֵךְ –</p></blockquote>
 <blockquote><p>אִם לֹא אֶזְכְּרֵךְ / וְאֶחֱבֹשׁ לְשִׁבְרֵךְ</p></blockquote>
-<blockquote><p>וְנֵזֶר פְּאֵרֵךְ / תַּחְבְּשִׁי, עֲלוּבָה!"<br/></p></blockquote>
+<blockquote><p>וְנֵזֶר פְּאֵרֵךְ / תַּחְבְּשִׁי, עֲלוּבָה!" <br/></p></blockquote>

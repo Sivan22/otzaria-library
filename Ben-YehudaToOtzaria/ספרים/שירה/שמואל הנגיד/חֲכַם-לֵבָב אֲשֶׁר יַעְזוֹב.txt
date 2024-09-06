@@ -3,4 +3,4 @@
 <blockquote><p>חֲכַם-לֵבָב אֲשֶׁר יַעְזוֹב חֲפָצִים</p></blockquote>
 <blockquote><p>אֲשֶׁר חָשַׁק וְיִטּוֹשׁ אֵת אֲהָבִים</p></blockquote>
 <blockquote><p>אֲשֶׁר צָרִיךְ לְרַפְּאוֹתָם בְּדָבָר</p></blockquote>
-<blockquote><p>אֲשֶׁר בּוֹ יַאֲרִיכוּ פֶה מְרִיבִים.<br/> </p></blockquote>
+<blockquote><p>אֲשֶׁר בּוֹ יַאֲרִיכוּ פֶה מְרִיבִים. <br/></p></blockquote>

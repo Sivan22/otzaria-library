@@ -7,4 +7,4 @@
 <blockquote><p>וְאַל-תַּחְשֹׁק וְאַל תַּעְשֹׁק</p></blockquote>
 <blockquote><p>וְאַל-תַּרְבֶּה עֲסָקֶיךָ</p></blockquote>
 <blockquote><p>וְאַל-תָּעֹז בְּחָכְמָתָךְ</p></blockquote>
-<blockquote><p>וְאַל-תִּבְטַח בְּצִדְקֶךָ.<br/></p></blockquote>
+<blockquote><p>וְאַל-תִּבְטַח בְּצִדְקֶךָ. <br/></p></blockquote>

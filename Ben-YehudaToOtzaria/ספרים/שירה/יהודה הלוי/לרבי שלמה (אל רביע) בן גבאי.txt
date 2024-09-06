@@ -22,4 +22,4 @@
 <blockquote><p>אֲבָל נָד מִמְּקוֹמוֹ עַל שְׁלֹמֹה</p></blockquote>
 <blockquote><p>אֲשֶׁר נָד וַעֲזָבַנִי מְפֹרָד</p></blockquote>
 <blockquote><p>אֲיָאֵשׁ מֵרְאוֹת אַחַי וְרֵעַי</p></blockquote>
-<blockquote><p>וְזֶה סוֹף כָּל יְדִידַי מִסְּפָרָד.<br/></p></blockquote>
+<blockquote><p>וְזֶה סוֹף כָּל יְדִידַי מִסְּפָרָד. <br/></p></blockquote>

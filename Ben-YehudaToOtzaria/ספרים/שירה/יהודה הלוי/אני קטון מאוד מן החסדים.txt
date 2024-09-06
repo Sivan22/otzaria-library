@@ -11,4 +11,4 @@
 <blockquote><p>הֲכִי אַשְׁרֵי אֱנוֹשׁ יוּכַל לְעָבְדָּךְ</p></blockquote>
 <blockquote><p>כְּמַלְאָכִים יְשָׁרְתוּךָ תְּמִידִים</p></blockquote>
 <blockquote><p>וּכִמְרוֹמִים אֲשֶׁר אַלְפֵי פְעָמִים</p></blockquote>
-<blockquote><p>לְךָ מִשְׁתַּחֲוִים כָּל יוֹם וּמוֹדִים.<br/></p></blockquote>
+<blockquote><p>לְךָ מִשְׁתַּחֲוִים כָּל יוֹם וּמוֹדִים. <br/></p></blockquote>

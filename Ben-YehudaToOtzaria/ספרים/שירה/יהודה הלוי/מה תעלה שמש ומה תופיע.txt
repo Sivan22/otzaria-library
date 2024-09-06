@@ -5,4 +5,4 @@
 <blockquote><p>תַּחְפִּיר פְּנֵי שֶׁמֶשׁ בְּזֹהַר תָּאֳרָהּ</p></blockquote>
 <blockquote><p>וּצְבָא זְבוּל מִמַּעֲשָיו תַּפְרִיעַ</p></blockquote>
 <blockquote><p>לֹא בָּחֲרָה לִשְׁכֹּן רְקִיעֵי מַעֲלָה</p></blockquote>
-<blockquote><p>וַתַּעֲשֶׂה מִן הַהֲדַס רָקִיעַ.<br/></p></blockquote>
+<blockquote><p>וַתַּעֲשֶׂה מִן הַהֲדַס רָקִיעַ. <br/></p></blockquote>

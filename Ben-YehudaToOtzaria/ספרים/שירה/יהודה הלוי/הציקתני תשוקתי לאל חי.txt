@@ -31,4 +31,4 @@
 <blockquote><p>אֲדֹנָי לִּי וְאֵיךְ אִירָא וְאֶפְחַד</p></blockquote>
 <blockquote><p>וּמַלְאַךְ רַחֲמָיו נֹשֵׂא שְׁלָחָי</p></blockquote>
 <blockquote><p>אֲהַלֵּל אֶת שְׁמוֹ מִדֵּי חֲיוֹתִי</p></blockquote>
-<blockquote><p>וְאוֹדֶנּוּ עֲדֵי נֶצַח נְצָחָי.<br/></p></blockquote>
+<blockquote><p>וְאוֹדֶנּוּ עֲדֵי נֶצַח נְצָחָי. <br/></p></blockquote>

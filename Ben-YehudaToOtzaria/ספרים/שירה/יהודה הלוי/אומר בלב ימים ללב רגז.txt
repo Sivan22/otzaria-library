@@ -5,4 +5,4 @@
 <blockquote><p>אִם תַּאֲמֵן בָּאֵל אֲשֶׁר עָשָׂה</p></blockquote>
 <blockquote><p>הַיָּם וְעַד נֵצַח שְׁמוֹ קַיָּם</p></blockquote>
 <blockquote><p>אַל יַחֲרִידְךָ יָם בְּשׂוֹא גַלָּיו</p></blockquote>
-<blockquote><p>כִּי עִמְּךָ הַשָּׂם גְּבוּל לַיָּם.<br/></p></blockquote>
+<blockquote><p>כִּי עִמְּךָ הַשָּׂם גְּבוּל לַיָּם. <br/></p></blockquote>

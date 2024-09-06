@@ -7,4 +7,4 @@
 <blockquote><p>בְּהִתְחַבֵּר שְׁנֵי יַלְדֵי נְדִיבִים</p></blockquote>
 <blockquote><p>בְּנֵי שׁוֹעִים וְנִטְעֵי נַעֲמָנִים</p></blockquote>
 <blockquote><p>וְיָאִירוּ בְּעַד חֻפָּה פְּנֵיהֶם</p></blockquote>
-<blockquote><p>כְּכוֹכָבִים בְּעַד עַב הָעֲנָנִים.<br/></p></blockquote>
+<blockquote><p>כְּכוֹכָבִים בְּעַד עַב הָעֲנָנִים. <br/></p></blockquote>

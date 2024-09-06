@@ -7,4 +7,4 @@
 <blockquote><p>כּוֹכָב מִזְרָח בָּא לַמַּעֲרָב</p></blockquote>
 <blockquote><p>מָצָא שֶׁמֶשׁ בִּבְנוֹתֵיהֶם</p></blockquote>
 <blockquote><p>הֵקִים חֻפַּת עַנְפֵי עָבוֹת</p></blockquote>
-<blockquote><p>לַשּׁמֶשׁ שָׂם אֹהֶל בָּהֶם.<br/></p></blockquote>
+<blockquote><p>לַשּׁמֶשׁ שָׂם אֹהֶל בָּהֶם. <br/></p></blockquote>

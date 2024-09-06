@@ -11,4 +11,4 @@
 <blockquote><p>הִתְעוֹרֲרִי לִי כְּמֵאָז</p></blockquote>
 <blockquote><p>בִּילֵל יְשִׁמֹן בְּצַעְדִּי</p></blockquote>
 <blockquote><p>וְתִגְאֲלִי אֶת אֲסִירֵךְ</p></blockquote>
-<blockquote><p>מִבֵּית עֲבָדִים וְתִפְדִּי.<br/></p></blockquote>
+<blockquote><p>מִבֵּית עֲבָדִים וְתִפְדִּי. <br/></p></blockquote>

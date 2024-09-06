@@ -12,4 +12,4 @@
 <blockquote><p>מְקוֹר מַיִם לְכָל נֶפֶשׁ עֲיֵפָה</p></blockquote>
 <blockquote><p>וְנֹגַהּ לַאֲשֶׁר הָלַךְ חֲשֵׁכִים</p></blockquote>
 <blockquote><p>שְׁמוֹ בָּרוּךְ וְהוּא כִשְׁמוֹ מְבֹרָךְ</p></blockquote>
-<blockquote><p>וְהַמִּתְבָּרְכִים בִּשְׁמוֹ בְּרוּכִים.<br/></p></blockquote>
+<blockquote><p>וְהַמִּתְבָּרְכִים בִּשְׁמוֹ בְּרוּכִים. <br/></p></blockquote>

@@ -7,4 +7,4 @@
 <blockquote><p>וְהַבֵּט אֵיךְ סְבָבוּהוּ בְשָׂמִים</p></blockquote>
 <blockquote><p>וְעַנְפֵי הַהֲדַס עָלָיו מְכַסִּים</p></blockquote>
 <blockquote><p>וְתָמָר לֹא עֲמָמוּהוּ אֲרָזִים</p></blockquote>
-<blockquote><p>תְּמַהּ אֵיךְ חוֹפְפוּ עָלָיו הֲדַסִּים.<br/></p></blockquote>
+<blockquote><p>תְּמַהּ אֵיךְ חוֹפְפוּ עָלָיו הֲדַסִּים. <br/></p></blockquote>

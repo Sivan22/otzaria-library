@@ -5,4 +5,4 @@
 <blockquote><p>נָא רְצֵנִי לְךָ לְעֶבֶד עוֹלָם</p></blockquote>
 <blockquote><p>כִּי לְעָבְדָךְ לְבַדְּךָ רָצִיתִי</p></blockquote>
 <blockquote><p>הַנְּשָׁמוֹת לְךָ יְסוֹדָם וְסוֹדָם</p></blockquote>
-<blockquote><p>פִּי בְּרִשְׁיוֹנְךָ לְבַד פָּצִיתִי.<br/></p></blockquote>
+<blockquote><p>פִּי בְּרִשְׁיוֹנְךָ לְבַד פָּצִיתִי. <br/></p></blockquote>

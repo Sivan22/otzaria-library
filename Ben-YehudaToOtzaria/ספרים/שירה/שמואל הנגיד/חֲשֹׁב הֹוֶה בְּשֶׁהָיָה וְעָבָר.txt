@@ -5,4 +5,4 @@
 <blockquote><p>וְאִישׁ שֵׂכֶל לְפִי שִׂכְלוֹ יְדַבֵּר</p></blockquote>
 <blockquote><p>וְיִהְיוּ כָל-מְזִמּוֹתָיו כְּאוּרִים</p></blockquote>
 <blockquote><p>וְהַחָכְמָה בְּלִי שָׁרֵת חֲכָמִים</p></blockquote>
-<blockquote><p>וּמַסָּה כַּחֲלוֹם מֵאֵין פְּתָרִים.<br/> </p></blockquote>
+<blockquote><p>וּמַסָּה כַּחֲלוֹם מֵאֵין פְּתָרִים. <br/></p></blockquote>
