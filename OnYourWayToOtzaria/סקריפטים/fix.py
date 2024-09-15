@@ -6,7 +6,7 @@ import html as html_module
 h_dict = {"book":1, "chap":2, "p":3}
 t_dict = {1:"אונקלוס",2:'תרגום ירושלמי',3:'רש"י',4:'רמב"ן',5:'אבן עזרא',6:'ספורנו',7:'בעל הטורים',
 8:'אור החיים',9:'תורה תמימה',10:'מצודת דוד',11:'מצודת ציון',12:'רלב"ג',14:'רע"ב',15:'תוי"ט',17:'רש"י',
-18:'תוס',20:'משנ"ב',21:'ביאור הלכה',23:'תרגום זוהר',28:'כלי יקר ',29:'מלבי"ם תוכן',30:'מלבי"ם פירוש המילות',31:'?'}
+18:'תוס',20:'משנ"ב',21:'ביאור הלכה',23:'תרגום זוהר',28:'כלי יקר ',29:'מלבי"ם תוכן',30:'מלבי"ם פירוש המילות',31:'מלבי"ם ביאור המילות'}
 
 def adjust_html_tag_spaces(html):
     start_pattern = r'(<[^/<>]+?>)([ ]+)' 
@@ -22,6 +22,9 @@ def adjust_html_tag_spaces(html):
     html = re.sub(r'[ ]{2,}', ' ', html)
 
     return html
+
+def check_line(line):
+    return re.search(r"[a-zA-Zא-ת0-9]+", line)
 
 def process_body_xml(xml_content):
     title = None
@@ -41,7 +44,7 @@ def process_body_xml(xml_content):
             if name:
                 if h_dict.get(tag.name) == 1:
                     title = name.strip()
-                else:
+                elif name.strip() not in ("-", ".", "_"):
                     tag.insert_before(f"\n<h{h_dict.get(tag.name)}>{name.strip()}</h{h_dict.get(tag.name)}>\n")
             tag.unwrap()
         elif tag.name.lower() == "t":
@@ -72,7 +75,7 @@ def main(file_path, target_file, file_name):
             content = file.read()
     fix_xml, title = process_body_xml(content)
     fix_spaces = adjust_html_tag_spaces(fix_xml).splitlines()
-    output_text = [f"<h1>{title}</h1>" if title else f"<h1>{file_name}</h1>", ""] + [line for line in fix_spaces if line.strip()]
+    output_text = [f"<h1>{title}</h1>" if title else f"<h1>{file_name}</h1>", ""] + [line.strip() for line in fix_spaces if check_line(line)]
     join_lines = html_module.unescape("\n".join(output_text))
     with open(target_file, "w", encoding = "utf-8") as output:
         output.write(join_lines)
