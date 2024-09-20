@@ -35,34 +35,66 @@ def process_body_xml(xml_content):
     xml_content = re.sub(r"<\?xml.+?\?>","", xml_content)
     soup = BeautifulSoup(xml_content, "lxml")
     for tag in soup.find_all():
-        if tag.name.lower() in ('html', "body", "d", "ps", "div", "rb", "tf", "tos", "sp", "bl", "n","m", "c","e", "f", "qm", "col3", "iri"):
-            tag.unwrap()
-        elif tag.name.lower() in ("script", "style", "pid"):
-            tag.decompose()
-        elif tag.name.lower() in ("book","chap","p"):
-            name = tag.attrs.get("n")
-            if name:
-                if h_dict.get(tag.name) == 1:
-                    title = name.strip()
-                elif name.strip() not in ("-", ".", "_"):
-                    tag.insert_before(f"\n<h{h_dict.get(tag.name)}>{name.strip()}</h{h_dict.get(tag.name)}>\n")
-            tag.unwrap()
-        elif tag.name.lower() == "t":
-            name = tag.attrs.get("i").strip()
-            if name:
-                name_2 = t_dict.get(int(name))
+        if tag.name:
+            if tag.name.lower() in ('html', "body", "d" , "iri", "pid", "qm", "rb", "sp", "tf", "tos"):
+                tag.unwrap()
+            elif tag.name.lower() in ("center", "sid1", "sid3", "sid4", "sidcom1", "sidcom2", "sidcom4"):
+                new_tag = soup.new_tag('span')
+                if tag.string:
+                    new_tag.string = tag.string
+                if tag.name.lower() == "center":
+                    new_tag.attrs["style"] = "text-align: center;"
+                elif tag.name.lower() in ("sid1"):
+                    new_tag.attrs["style"] = "color: blue;"
+                elif tag.name.lower() in ("sid3","sidcom1"):
+                    new_tag.attrs["style"] = "color: gray;"
+                elif tag.name.lower() in ("sid4","sidcom2","sidcom4"):
+                    new_tag.attrs["style"] = "color: green;"
+                if tag.name.lower() in ("sidcom1", "sidcom2"):
+                    small_tag = soup.new_tag('small')
+                    small_tag.append(new_tag)
+                    new_tag = small_tag
+                for attr, value in tag.attrs.items():
+                    new_tag.attrs[attr] = value
+                tag.replace_with(new_tag)
+            elif tag.name.lower() == "sid2":
                 new_tag = soup.new_tag("b")
-                new_tag.string = name_2
-                tag.insert_before(new_tag)
-                # Insert a space after the <b> tag
-                tag.insert_before(" ")
-            tag.unwrap()
+                if tag.string:
+                    new_tag.string = tag.string
+                for attr, value in tag.attrs.items():
+                    new_tag.attrs[attr] = value
+                tag.replace_with(new_tag)     
+            elif tag.name.lower() in ("script", "style", "pid", "a", "input", "ps"):
+                tag.decompose()
+            elif tag.name.lower() in ("book","chap","p"):
+                name = tag.attrs.get("n")
+                if name:
+                    if h_dict.get(tag.name) == 1:
+                        title = name.strip()
+                    elif name.strip() not in ("-", ".", "_"):
+                        tag.insert_before(f"\n<h{h_dict.get(tag.name)}>{name.strip()}</h{h_dict.get(tag.name)}>\n")
+                tag.unwrap()
+            elif tag.name.lower() == "t":
+                name = tag.attrs.get("i").strip()
+                if name:
+                    name_2 = t_dict.get(int(name))
+                    new_tag = soup.new_tag("b")
+                    new_tag.string = name_2
+                    new_tag.attrs["style"] = "color: gray;"
+                    tag.insert_before(new_tag)
+                    tag.insert_before(" ")
+                tag.unwrap()
+            else:
+                tag.unwrap()
 
     for tag in soup.find_all(recursive=False):
         tag_str = str(tag)
         tag_str = tag_str.replace("\n", " ")
         new_tag = BeautifulSoup(tag_str, "html.parser").find()
         tag.replace_with(new_tag)
+    for tag in soup.find_all():
+        if not tag.get_text(strip=True) and tag.name != "br":
+            tag.decompose()
     
     return str(soup), title
 
@@ -91,3 +123,4 @@ for root, dir, file in os.walk(books_folder):
             os.makedirs(destination_path, exist_ok=True)
             target_file = os.path.join(destination_path, file_name)
             main(file_path, target_file, file_name[:-4])
+            print(file_path)
