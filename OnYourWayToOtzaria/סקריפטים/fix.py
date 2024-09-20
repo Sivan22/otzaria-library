@@ -84,8 +84,6 @@ def process_body_xml(xml_content):
                     tag.insert_before(new_tag)
                     tag.insert_before(" ")
                 tag.unwrap()
-            else:
-                tag.unwrap()
 
     for tag in soup.find_all(recursive=False):
         tag_str = str(tag)
