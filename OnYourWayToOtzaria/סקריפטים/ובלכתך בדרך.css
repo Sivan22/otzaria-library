@@ -1,0 +1,192 @@
+﻿@charset "UTF-8";
+@font-face {  
+  font-family: "EzraSIL";  
+  src: url( SILEOT.ttf ) format("truetype"); /* non-IE */  
+} 
+@font-face {  
+  font-family: "KeterAramTsova";  
+  src: url( KeterAramTsova.ttf ) format("truetype"); /* non-IE */  
+} 
+@font-face {  
+  font-family: "KeterYG";  
+  src: url( KeterYG-Medium.ttf ) format("truetype"); /* non-IE */  
+} 
+@font-face {  
+  font-family: "TaameyDavid";  
+  src: url( TaameyDavidCLM-Medium.ttf ) format("truetype"); /* non-IE */  
+} 
+@font-face {  
+  font-family: "TaameyFrank";  
+  src: url( TaameyFrankCLM-Medium.ttf ) format("truetype"); /* non-IE */  
+} 
+
+.bbb1 {
+	font-family: TaameyDavid !important;
+}
+
+.bbb2 {
+	font-family: KeterAramTsova !important;
+}
+
+.bbb3 {
+	font-family: KeterYG !important;
+}
+
+.bbb4 {
+	font-family: TaameyDavid !important;
+}
+
+.bbb5 {
+	font-family: TaameyFrank !important;
+}
+
+
+.ui-collapsible-set {
+    margin : -16px -16px;
+	border-radius: 0;
+}
+
+.ui-collapsible  {
+	border-radius: 0;
+   border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.ui-btn-corner-all{
+	border-radius: 0;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.center-controlgroup { text-align: center; }
+.ui-page {padding-top: 91px !important;}
+.ui-content { font-size:120%;}
+.d { text-shadow:0 0px 0 white;display:inline;}
+.answer{padding:3px;background-color:#CCCCCC;display:none;}
+.question{margin: 0;display: inline;color: #000088;}
+.tfilaq{margin: 0;display: block;border-bottom: 2px dashed #0000FF;}
+.fq{margin: 0;display: inline;border-bottom: 2px dashed #0000FF;}
+.rashiq{margin: 0;display: inline;border-bottom: 2px dashed #990000;}
+.tosfotq{margin: 0;display: inline;border-bottom: 2px dashed #006600;}
+.al{margin: 0;display: inline;color: #0000ff;}
+.bothq{margin: 0;display: inline; border-bottom: 2px dashed #0000FF;}
+.mef{color: #000000;text-shadow:0 0px 0 white;padding:7px 10px;}
+.tfilaq:before {color: #0000ff; padding: 1px;content:"[+] "}
+.t1:before {background-color: #808080; color: #ffffff; padding: 1px;content:"אונקלוס: "}
+.t2:before {background-color: #808080; color: #ffffff; padding: 1px;content:"ת' יהונתן: "}
+.t3:before {background-color: #808080; color: #ffffff; padding: 1px;content:"רש'י: "}
+.t4:before {background-color: #808080; color: #ffffff; padding: 1px;content:"רמב''ן: "}
+.t5:before {background-color: #808080; color: #ffffff; padding: 1px;content:"אבן עזרא: "}
+.t6:before {background-color: #808080; color: #ffffff; padding: 1px;content:"ספורנו: "}
+.t7:before {background-color: #808080; color: #ffffff; padding: 1px;content:"בעל הטורים: "}
+.t8:before {background-color: #808080; color: #ffffff; padding: 1px;content:"אור החיים: "}
+.t9:before {background-color: #808080; color: #ffffff; padding: 1px;content:"תורה תמימה: "}
+.t10:before {background-color: #808080; color: #ffffff; padding: 1px;content:"מצודת דוד: "}
+.t11:before {background-color: #808080; color: #ffffff; padding: 1px;content:"מצודת ציון: "}
+.t12:before {background-color: #808080; color: #ffffff; padding: 1px;content:"רלב'ג: "}
+.t14:before {background-color: #808080; color: #ffffff; padding: 1px;content:"ר' עובדיה מברטנורה: "}
+.t15:before {background-color: #808080; color: #ffffff; padding: 1px;content:"תוספות יום טוב: "}
+.t17:before {background-color: #808080; color: #ffffff; padding: 1px;content:"רש'י: "}
+.t18:before {background-color: #808080; color: #ffffff; padding: 1px;content:"תוספות: "}
+.t20:before {background-color: #808080; color: #ffffff; padding: 1px;content:"משנה ברורה: "}
+.t21:before {background-color: #808080; color: #ffffff; padding: 1px;content:"ביאור הלכה: "}
+.t23:before {background-color: #808080; color: #ffffff; padding: 1px;content:"תרגום זוהר: "}
+.t27:before {background-color: #808080; color: #ffffff; padding: 1px;content:"שפתי חכמים: "}
+.t28:before {background-color: #808080; color: #ffffff; padding: 1px;content:"כלי יקר: "}
+.t29:before {background-color: #808080; color: #ffffff; padding: 1px;content:"מלבים תוכן: "}
+.t30:before {background-color: #808080; color: #ffffff; padding: 1px;content:"מלבים פ' מילות: "}
+
+tos {background-color: #AAAAAA;text-shadow:0 0px 0 white;}
+.ps {font-weight: bold; color: #0000ff;padding: 10px;text-shadow:0 0px 0 white;display:inline;}
+chap {font-weight: bold; color: #0000ff;text-shadow:0 0px 0 white;}
+sidcom1 {color:RGB(127,127,127); font-family: arial; font-size:80%;text-shadow:0 0px 0 white;}
+sidcom2 {color:RGB(0,127,127); font-family: arial; font-size:85%;text-shadow:0 0px 0 white;}
+sidcom4 {padding:10; margin:10;  background-color=RGB(244,244,244);text-shadow:0 0px 0 white;}
+sid1 {font-size:95%; color:RGB(0,0,255); text-shadow:0 0px 0 white;}
+sid2 {font-size:110%; font-weight:bold;text-shadow:0 0px 0 white;}
+sid3 {font-weight:bold;text-shadow:0 0px 0 white;}
+.ui-controlgroup-horizontal .ui-btn,
+.ui-controlgroup-horizontal .ui-select {
+  vertical-align: top;
+}
+
+xyz .ui-btn-inner {
+	font-size:12px;
+    margin : 0px 0px;
+	text-align: right;
+}
+
+.ui-shadow,
+.ui-btn-up-a,
+.ui-btn-hover-a,
+.ui-btn-down-a,
+.ui-body-b,
+.ui-btn-up-b,
+.ui-btn-hover-b,
+.ui-btn-down-b,
+.ui-bar-c,
+.ui-body-c,
+.ui-btn-up-c,
+.ui-btn-hover-c,
+.ui-btn-down-c,
+.ui-bar-c,
+.ui-body-d,
+.ui-btn-up-d,
+.ui-btn-hover-d,
+.ui-btn-down-d,
+.ui-bar-d,
+.ui-body-e,
+.ui-btn-up-e,
+.ui-btn-hover-e,
+.ui-btn-down-e,
+.ui-bar-e,
+.ui-overlay-shadow,
+.ui-shadow,
+.ui-btn-active,
+.ui-body-a,
+.ui-bar-a {
+   border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+	border-radius: 0;
+ 	text-shadow: none;
+ box-shadow: none;
+ -webkit-box-shadow: none;
+}
+
+e {
+font-size:100%;
+display:inline;
+}
+c {
+font-weight:bold;
+visibility: visible;
+display:inline;
+font-size:100%;
+}
+bl {
+font-weight:bold;
+color:#0000FF;
+font-size:110%;
+}
+n {
+color:#888888;
+font-size:80%;
+
+}
+n b{
+color:#888888;
+font-size:80%;
+
+}
+m {
+color:#444444;
+font-size:80%;
+display:none;
+
+}
+
