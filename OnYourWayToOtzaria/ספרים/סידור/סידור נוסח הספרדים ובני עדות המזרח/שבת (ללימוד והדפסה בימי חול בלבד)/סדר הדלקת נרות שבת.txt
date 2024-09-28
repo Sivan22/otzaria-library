@@ -1,0 +1,7 @@
+<h1>סדר הדלקת נרות שבת</h1>
+
+<h2>סדר הדלקת נרות שבת</h2>
+<br/><span style="color:RGB(127,127,127); font-family: arial; font-size:80%;text-shadow:0 0px 0 white;">לפני הדלקת <span style="font-weight:bold;text-shadow:0 0px 0 white;">נרות שבת</span> תברך:</span>
+<br/><span style="font-size:110%; font-weight:bold;text-shadow:0 0px 0 white;">בָּרוּךְ</span> אַתָּה יְהֹוָה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל שַׁבָּת:
+<br/><span style="color:RGB(127,127,127); font-family: arial; font-size:80%;text-shadow:0 0px 0 white;">לפני הדלקת <span style="font-weight:bold;text-shadow:0 0px 0 white;">נר של יום טוב</span> תברך:</span>
+<br/><span style="font-weight:bold;text-shadow:0 0px 0 white;">בָּרוּךְ</span> אַתָּה יְהֹוָה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל <br/><span style="color:RGB(127,127,127); font-family: arial; font-size:80%;text-shadow:0 0px 0 white;">אם חל בשבת יוסיף:</span> <span style="color:RGB(0,127,127); font-family: arial; font-size:85%;text-shadow:0 0px 0 white;">(שַׁבָּת וְ)</span> יוֹם טוֹב:
