@@ -148,7 +148,7 @@ def main(file_path, target_file, file_name):
         output.write(join_lines)
 
 books_folder = "ובלכתך בדרך"
-target_path = "output"
+target_path = os.path.join("..", "ספרים")
 for root, dir, file in os.walk(books_folder):
     for file_name in file:
         if file_name.lower().endswith(".txt"):

@@ -181,6 +181,6 @@ koser_file = "koser_file.txt"
 not_koser_file = "not_koser_file.txt"
 need_to_check_file = "need_to_check.txt"
 base_url = "https://raw.githubusercontent.com/zevisvei/public_domain_dump/refs/heads/master/html"
-csv_path = "aa.csv"
-destination_path = "test"
+csv_path = "list.csv"
+destination_path = os.path.join("..", "ספרים")
 main(url, koser_file, base_url, not_koser_file, need_to_check_file, csv_path, destination_path)
