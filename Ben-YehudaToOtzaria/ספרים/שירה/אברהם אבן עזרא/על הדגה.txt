@@ -1,0 +1,6 @@
+<h1>על הדגה</h1>
+אברהם אבן עזרא
+<blockquote><p>עַל הַדָּגָה דְּאָגָה אַבְלִיג</p></blockquote>
+<blockquote><p>כִּי הַפִּלֵּג אותִי דִלֵּג</p></blockquote>
+<blockquote><p>אָדְמוּ פָנַי, צָחוּ שֶלֶג</p></blockquote>
+<blockquote><p>לוּלֵא יָקְטָן הוֹלִיד פָלֶג. <br/></p></blockquote>

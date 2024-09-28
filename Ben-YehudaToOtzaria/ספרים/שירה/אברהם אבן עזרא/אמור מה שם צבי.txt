@@ -1,0 +1,6 @@
+<h1>אמור מה שם צבי</h1>
+אברהם אבן עזרא
+<blockquote><p>אֱמוֹר מַה שֵם צְבִי הַנִּכְבָּד,</p></blockquote>
+<blockquote><p>אֲשֶר חֶצְיוֹ חֲצִי חֶצְיוֹ,</p></blockquote>
+<blockquote><p>וְעוֹד בִּשְׁמוֹ חֲצִי נוֹסָף,</p></blockquote>
+<blockquote><p>וְרֹאָיו יֹאמְרוּ אַיוֹ. <br/></p></blockquote>

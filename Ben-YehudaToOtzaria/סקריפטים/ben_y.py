@@ -146,7 +146,6 @@ def main(url, koser_file, base_url, not_koser_file, need_to_check_file, csv_path
     kosher_list = author_list(koser_file)
     not_koser_list = author_list(not_koser_file)
     need_to_check_list = author_list(need_to_check_file)
-    print(updated_csv)
     for line in updated_csv[1:]:
         if line not in old_csv:
             author = line[3]

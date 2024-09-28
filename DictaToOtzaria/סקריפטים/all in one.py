@@ -113,7 +113,7 @@ def main(url, old_json_path, target, csv_file_path):
                     process_html(file)
                 text_files = [file for file in os.listdir("temp") if file.lower().endswith('.html')]
                 text_files.sort(key=extract_numerical_part)
-                merged_content = f"{display_name}\n"
+                merged_content = f"<h1>{display_name}</h1>\n"
                 if author:
                     merged_content += f"{author}\n"
                 for index, text_file in enumerate(text_files):

@@ -1,0 +1,23 @@
+<h1>אחלי תביט בעינך</h1>
+שלום שבזי
+<h2 id="אחליתביטבעינךממשורריתימן">אחלי תביט בעינך / ממשוררי תימן</h2>
+<br/>
+<p>בנוי על שירו של יהודה הלוי “יַעֲבֹר עָלַי רְצוֹנְךָ”</p>
+<br/>
+<blockquote><p><strong>אַ</strong>חֲלִי תַבִּיט בְּעֵינָךְ /בֳּעָנִי עַבְדָּךְ וּבִנְךָ</p></blockquote>
+<blockquote><p><strong>יַ</strong>עֲבֹר עָלַי רְצוֹנְךָ /כַּאֲשֶׁר עָבַר חֲרוֹנְךָ</p></blockquote>
+<br/>
+<blockquote><p><strong>גַּ</strong>ם מְרִי שִׂיחַ לְשׁוֹנִי /תַּאֲזִין מַלְכִּי וְקוֹנִי</p></blockquote>
+<blockquote><p><strong>הַ</strong>לְעוֹלָמִים עֲווֹנִי /יַעֲמֹד בֵּינִי וּבֵינְךָ</p></blockquote>
+<br/>
+<blockquote><p><strong>שׁ</strong>וּר אֲכָלַתְנִי לְשׁוֹן אֵשׁ /כֶּאֱכוֹל קַשׁ לִי לְמוֹקֵשׁ</p></blockquote>
+<blockquote><p><strong>וַ</strong>עֲדֵי מָתַי אֲבַקֵּשׁ /אוֹתְךָ עִמִּי וְאֵינְךָ</p></blockquote>
+<br/>
+<blockquote><p><strong>שׁ</strong>וֹפְכֵי בּוּז עַל נְדִיבִים /מַעֲבִיר רוּחַ אֲהָבִים</p></blockquote>
+<blockquote><p><strong>דָּ</strong>ר בְּכַנְפֵי הַכְּרוּבִים /הַפְּרוּשִׂים עַל אֲרוֹנְךָ</p></blockquote>
+<br/>
+<blockquote><p><strong>הַ</strong>עֲבַרְתַּנִּי עֲבָרִים /תּוֹךְ שְׁנֵים עָשָׂר גְּזָרִים</p></blockquote>
+<blockquote><p><strong>הֶ</strong>עֱבַדְתַּנִי לְזָרִים /וַאֲנִי כַּנַּת יְמִינְךָ</p></blockquote>
+<br/>
+<blockquote><p><strong>הֵ</strong>ן לְךָ לִבִּי וְעֵינִי /חִבְּקוּ אַשְׁפּוֹת פְּנִינִי</p></blockquote>
+<blockquote><p><strong>גּ</strong>וֹאֲלִי, לִגְאֹל הֲמוֹנַי /רוּם וְהַשְׁקֵף מִמְּעוֹנְךָ</p></blockquote>

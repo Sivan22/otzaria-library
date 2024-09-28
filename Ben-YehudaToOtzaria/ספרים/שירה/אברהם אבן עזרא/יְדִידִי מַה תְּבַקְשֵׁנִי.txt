@@ -1,0 +1,9 @@
+<h1>יְדִידִי מַה תְּבַקְשֵׁנִי</h1>
+אברהם אבן עזרא
+<p>על שם יעקב</p>
+<blockquote><br/> <p>יְדִידִי מַה תְּבַקְשֵׁנִי,</p></blockquote>
+<blockquote><p>וְאָנֹכִי שְׁמִי אֶפְרוֹשׁ;</p></blockquote>
+<blockquote><p>תְּנָה יָדְךָ עֲלֵי רֹאשִׁי,</p></blockquote>
+<blockquote><p>וְעֵינְךָ עַל חֲצִי הָרֹאשׁ,</p></blockquote>
+<blockquote><p>וְשָׂאֵנִי אֱלֵי בֵיתְךָ,</p></blockquote>
+<blockquote><p>וְשָׁם תִּמְצָא אֲשֶׁר תִּדְרוֹשׁ.</p></blockquote>

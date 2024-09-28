@@ -1,0 +1,6 @@
+<h1>דבר אשר</h1>
+שמואל הנגיד
+<blockquote><p>דָּבָר אֲשֶׁר יַלְאֶה וְלֹא תוּ-</p></blockquote>
+<blockquote><p>כַל לַעֲשׂוֹתוֹ קוּץ וְהַנַּח</p></blockquote>
+<blockquote><p>אוֹתוֹ, וְחַפֵּשׂ לַעֲשׂוֹת אֶת</p></blockquote>
+<blockquote><p>דָּבָר אֲשֶׁר הוּא בַעֲשׂוֹת נָח.</p></blockquote>
