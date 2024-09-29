@@ -89,11 +89,15 @@ def main(url, old_json_path, target, csv_file_path):
     new_json = get_new_json(url)
     old_books = read_old_json(old_json_path)
     for book in get_new_books(new_json, old_books):
-        display_name = book.get('displayName')
-        category = book.get('category')
+        display_name = "ללא שם"
+        if book.get('displayName'):
+            display_name = book.get('displayName')
+        category = "ללא קטגוריה"
+        if book.get("category"):
+            category = book.get('category')
         OCRDataURL = book.get('OCRDataURL')
         author = book.get("author")
-        if display_name and category and OCRDataURL:
+        if OCRDataURL:
             file_name = sanitize_filename(display_name.strip())
             category = sanitize_filename(category.strip())                       
             text_response = requests.get(OCRDataURL.strip())
@@ -113,7 +117,7 @@ def main(url, old_json_path, target, csv_file_path):
                     process_html(file)
                 text_files = [file for file in os.listdir("temp") if file.lower().endswith('.html')]
                 text_files.sort(key=extract_numerical_part)
-                merged_content = f"<h1>{display_name}</h1>\n"
+                merged_content = f"<h1>{display_name}</h1>\n" if display_name != "ללא שם" else ""
                 if author:
                     merged_content += f"{author}\n"
                 for index, text_file in enumerate(text_files):
