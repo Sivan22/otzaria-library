@@ -17,7 +17,7 @@ def adjust_html_tag_spaces(html):
 
 def sanitize_filename(filename):
     # Remove invalid characters
-    sanitized_filename = re.sub(r'[\/:*?<>|]', '', filename).replace('"', "''")
+    sanitized_filename = re.sub(r'[\\/:*?<>|]', '', filename).replace('"', "''")
     return sanitized_filename
 
 def process_body_html(content):

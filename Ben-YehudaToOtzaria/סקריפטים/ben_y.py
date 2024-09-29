@@ -6,7 +6,7 @@ import os
 import html
 
 def sanitize_filename(filename):
-    sanitized_filename = re.sub(r'[\/:*?<>|]', '', filename).replace('"', "''").replace('_', ' ')
+    sanitized_filename = re.sub(r'[\\/:*?<>|]', '', filename).replace('"', "''").replace('_', ' ')
     return sanitized_filename
 
 def adjust_html_tag_spaces(html):

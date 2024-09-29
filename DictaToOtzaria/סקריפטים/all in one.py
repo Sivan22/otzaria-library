@@ -64,7 +64,7 @@ def process_html(file):
         f.write(str(soup))
 
 def sanitize_filename(filename):
-    sanitized_filename = re.sub(r'[\/:*?<>|]', '', filename).replace('"', "''").replace('_', ' ')
+    sanitized_filename = re.sub(r'[\\/:*?<>|]', '', filename).replace('"', "''").replace('_', ' ')
     return sanitized_filename
 
 def get_new_json(url):
