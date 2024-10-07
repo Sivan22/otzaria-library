@@ -1,0 +1,47 @@
+name: Run code monthly
+
+on:
+  schedule:
+    - cron: '0 12 1 * *'  # כל 1 לחודש בשעה 12:00 UTC
+  workflow_dispatch:  # אפשר להריץ את ה-workflow ידנית
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3 
+
+      - name: Set up Python 
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'  
+
+      - name: Install dependencies  
+        run: |
+          pip install bs4
+          pip install lxml
+          pip install requests
+
+      - name: Run script Ben-Yehuda
+        run: python ben_y.py
+        working-directory: Ben-YehudaToOtzaria/סקריפטים
+      - name: Run script dicta  
+        run: python "all in one.py"
+        working-directory: DictaToOtzaria/סקריפטים
+
+
+
+      - name: Commit changes if any  # שלב לדחיפת השינויים
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ secrets.GITHUB_EMAIL }}"
+          git add .  # הוסף את כל השינויים
+          if ! git diff-index --quiet HEAD --; then  # בדוק אם יש שינויים
+            git commit -m "Automated commit from GitHub Actions"  # בצע commit אם יש שינויים
+            git pull origin main --rebase
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No changes to commit."  # אין שינויים
+          fi
