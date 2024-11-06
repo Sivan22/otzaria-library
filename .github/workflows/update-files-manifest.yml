@@ -19,10 +19,7 @@ jobs:
       - name: Generate Files Manifest
         run: |
           echo "# Files Manifest - Last Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > files_manifest.json
-          find . -type f \
-            ! -path "./.git/*" \
-            ! -path "./.github/*" \
-            ! -name "files_manifest.json" \
+          find ./links ./אוצריא -type f \
             -exec stat --format='{"%n": {"modified": "%y"}},' {} \; | \
             sed '$ s/,$//' | \
             (echo "{" && cat && echo "}") > files_manifest.json
