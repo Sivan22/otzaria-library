@@ -14,7 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT }} 
+          token: ${{ secrets.PAT }}
+          fetch-depth: 1
+          sparse-checkout: |
+            links
+            אוצריא
 
       - name: Generate Files Manifest
         run: |
@@ -30,4 +34,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add files_manifest.json
           git commit -m "Update files manifest" || exit 0
-          git push
+          git push "https://${{ secrets.PAT }}@github.com/${GITHUB_REPOSITORY}.git"
