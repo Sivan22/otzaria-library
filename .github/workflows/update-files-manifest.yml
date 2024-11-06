@@ -1,0 +1,34 @@
+name: Update Files Manifest
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Files Manifest
+        run: |
+          echo "# Files Manifest - Last Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > files_manifest.json
+          find . -type f \
+            ! -path "./.git/*" \
+            ! -path "./.github/*" \
+            ! -name "files_manifest.json" \
+            -exec stat --format='{"%n": {"modified": "%y"}},' {} \; | \
+            sed '$ s/,$//' | \
+            (echo "{" && cat && echo "}") > files_manifest.json
+
+      - name: Commit and Push Manifest
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add files_manifest.json
+          git commit -m "Update files manifest" || exit 0
+          git push
