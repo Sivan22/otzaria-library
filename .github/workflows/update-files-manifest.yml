@@ -28,10 +28,11 @@ jobs:
             sed '$ s/,$//' | \
             (echo "{" && cat && echo "}") > files_manifest.json
 
-      - name: Commit and Push Manifest
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add files_manifest.json
-          git commit -m "Update files manifest" || exit 0
-          git push "https://${{ secrets.PAT }}@github.com/${GITHUB_REPOSITORY}.git"
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'Update files manifest'
+          add: 'files_manifest.json'
+          push: true
+          token: ${{ secrets.PAT }}
