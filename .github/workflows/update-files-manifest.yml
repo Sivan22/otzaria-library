@@ -27,7 +27,7 @@ jobs:
           find ./links ./אוצריא -type f \
             -exec stat --format='{"%n": {"modified": "%y"}},' {} \; | \
             sed '$ s/,$//' | \
-            (echo "{" && cat && echo "}") > files_manifest.json
+            (echo "[" && cat && echo "]") > files_manifest.json
 
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
