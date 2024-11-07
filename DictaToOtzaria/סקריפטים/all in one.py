@@ -16,12 +16,13 @@ def adjust_html_tag_spaces(html):
         html = re.sub(start_pattern , r'\2\1', html)
     html = re.sub(r'[ ]{2,}', ' ', html)
     html = re.sub(r"\s*\n\s*", r"\n", html)
-    html = re.sub(r"[\n]{2,}", "\n", html)
     html = html.replace(": ", ":\n")
+    html = re.sub(r"[\n]{2,}", "\n", html)
     return html
 
 def extract_numerical_part(filename):
-    match = re.search(r'\d+', filename)
+    name = filename.split("-")[-1]
+    match = re.search(r'\d+', name)
     if match:
         return int(match.group())
     return float('inf')
@@ -57,8 +58,11 @@ def process_html(file):
         else:
             tag.unwrap()
     for tag in soup.find_all():
-        if not tag.get_text(strip=True) and tag.name != "br":
-            tag.decompose() 
+        if not tag.get_text(strip=False) and tag.name != "br":
+            tag.decompose()
+        elif not tag.get_text(strip=True) and tag.name != "br":
+            tag.insert_before(" ")
+            tag.decompose()
 
     with open(file, 'w', encoding="utf-8") as f:
         f.write(str(soup))
