@@ -18,6 +18,7 @@ jobs:
           token: ${{ secrets.PAT }}
           fetch-depth: 1
           sparse-checkout: |
+            files_manifest.json
             metadata.json
             otzaria/**/*
             links/**/*
