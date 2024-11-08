@@ -13,28 +13,22 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT }}
-          repository: Sivan22/otzaria-library
-          fetch-depth: 1
-          sparse-checkout: |
-            links
-            אוצריא
 
       - name: Generate Files Manifest
         run: |
-          echo '{' > files_manifest.json
-          find . -type f \
+          echo "# Files Manifest - Last Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > files_manifest.json
+          find . \( -name "metadata.json" -o -path "./otzaria/*" -o -path "./links/*" \) -type f \
             ! -path "./.git/*" \
             ! -path "./.github/*" \
             ! -name "files_manifest.json" \
-            -printf '"%P": {"modified": "%TY-%Tm-%Td %TH:%TM:%TS"},' | \
-            sed '$ s/,$//' >> files_manifest.json
-          echo '}' >> files_manifest.json
+            -exec sh -c 'echo "{\"$(echo {} | cut -c3-)\": {\"hash\": \"$(sha256sum {} | cut -d" " -f1)\"}}"' \; | \
+            paste -sd "," - | \
+            (echo "{" && cat && echo "}") > files_manifest.json
 
-      - name: Commit and Push Changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: 'Update files manifest'
-          add: 'files_manifest.json'
+      - name: Commit and Push Manifest
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add files_manifest.json
+          git commit -m "Update files manifest" || exit 0
+          git push
