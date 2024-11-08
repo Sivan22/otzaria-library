@@ -10,25 +10,26 @@ on:
 jobs:
   update-manifest:
     runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]' && github.actor != 'github_actions'
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Generate Files Manifest
         run: |
-          echo "# Files Manifest - Last Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > files_manifest.json
           find . \( -name "metadata.json" -o -path "./otzaria/*" -o -path "./links/*" \) -type f \
-            ! -path "./.git/*" \
-            ! -path "./.github/*" \
-            ! -name "files_manifest.json" \
-            -exec sh -c 'echo "{\"$(echo {} | cut -c3-)\": {\"hash\": \"$(sha256sum {} | cut -d" " -f1)\"}}"' \; | \
-            paste -sd "," - | \
-            (echo "{" && cat && echo "}") > files_manifest.json
+          ! -path "./.git/*" \
+          ! -path "./.github/*" \
+          ! -name "files_manifest.json" \
+          -exec sh -c 'echo "{\"$(echo {} | cut -c3-)\": {\"hash\": \"$(sha256sum {} | cut -d" " -f1)\"}}"' \; | \
+          paste -sd "," - | \
+          (echo "{" && cat && echo "}") > files_manifest.json
 
-      - name: Commit and Push Manifest
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add files_manifest.json
-          git commit -m "Update files manifest" || exit 0
-          git push
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "files_manifest.json"
+          message: "Update files manifest"
+          default_author: github_actions
