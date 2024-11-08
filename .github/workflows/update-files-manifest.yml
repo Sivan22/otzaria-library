@@ -30,7 +30,7 @@ jobs:
           ! -path "./.git/*" \
           ! -path "./.github/*" \
           ! -name "files_manifest.json" \
-          -exec sh -c 'echo "{\"$(echo {} | cut -c3-)\": {\"hash\": \"$(sha256sum {} | cut -d" " -f1)\"}}"' \; | \
+          -exec sh -c 'path="${1#./}"; echo "{\"$path\": {\"hash\": \"$(sha256sum "$1" | cut -d" " -f1)\"}}"' sh {} \; | \
           paste -sd "," - | \
           (echo "{" && cat && echo "}") > files_manifest.json
 
