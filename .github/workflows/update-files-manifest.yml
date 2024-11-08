@@ -20,13 +20,13 @@ jobs:
           sparse-checkout: |
             files_manifest.json
             metadata.json
-            otzaria/**/*
+            אוצריא/**/*
             links/**/*
           sparse-checkout-cone-mode: false
 
       - name: Generate Files Manifest
         run: |
-          find . \( -name "metadata.json" -o -path "./otzaria/*" -o -path "./links/*" \) -type f \
+          find . \( -name "metadata.json" -o -path "./אוצריא/*" -o -path "./links/*" \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
           ! -name "files_manifest.json" \
