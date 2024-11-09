@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4 
+        with:
+          token: GITHUB_TOKEN
+        
 
       - name: Set up Python 
         uses: actions/setup-python@v5
@@ -41,7 +44,7 @@ jobs:
           if ! git diff-index --quiet HEAD --; then  # בדוק אם יש שינויים
             git commit -m "Automated commit from GitHub Actions"  # בצע commit אם יש שינויים
             git pull origin main --rebase
-            git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:main
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           else
             echo "No changes to commit."  # אין שינויים
           fi
