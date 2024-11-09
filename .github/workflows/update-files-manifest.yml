@@ -26,13 +26,17 @@ jobs:
 
       - name: Generate Files Manifest
         run: |
-          find . \( -name "metadata.json" -o -path "./אוצריא/*" -o -path "./links/*" \) -type f \
+          echo "{" > files_manifest.json
+          find . \( -path "./metadata.json" -o -path "./אוצריא/*" -o -path "./links/*" \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
           ! -name "files_manifest.json" \
-          -exec sh -c 'path="${1#./}"; echo "{\"$path\": {\"hash\": \"$(sha256sum "$1" | cut -d" " -f1)\"}}"' sh {} \; | \
-          paste -sd "," - | \
-          (echo "{" && cat && echo "}") > files_manifest.json
+          -exec sh -c '
+            path="${1#./}"
+            hash=$(sha256sum "$1" | cut -d" " -f1)
+            echo "\"$path\": {\"hash\": \"$hash\"}"
+          ' sh {} \; | sed "$ ! s/$/,/" >> files_manifest.json
+          echo "}" >> files_manifest.json
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
