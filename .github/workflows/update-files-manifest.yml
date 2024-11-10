@@ -44,3 +44,25 @@ jobs:
           add: "files_manifest.json"
           message: "Update files manifest"
           default_author: github_actions
+
+      - name: Create Release Archive
+        run: |
+          zip -r otzaria_latest.zip אוצריא links files_manifest.json metadata.json
+
+      - name: Delete existing 'latest' release and tag
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          gh release delete latest --yes || true
+          git push --delete origin latest || true
+
+      - name: Create Release
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          gh release create latest \
+            --title "Latest Otzaria Files" \
+            --notes "Latest version of Otzaria files" \
+            otzaria_latest.zip
