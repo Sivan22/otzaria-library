@@ -5,3 +5,8 @@ default.isar
 default.isar-lck
 index/books_indexed.isar
 index/books_indexed.isar-lck
+files_manifest.json
+index/.managed.json
+index/.tantivy-meta.lock
+index/.tantivy-writer.lock
+index/meta.json
