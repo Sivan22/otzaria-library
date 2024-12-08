@@ -1,0 +1,125 @@
+<h1>עריכת ספר באוצריא</h1>
+הדרכה זו מסבירה כיצד ניתן 'לערוך' טקסטים כדי שיופיעו בתוכנה כטקסט מעוצב.
+כדי לעצב טקסט, יש להוסיף לפני ואחרי המילה (או המילים) שברצונכם לעצב, סימנים מיוחדים שנקראים "תגים" (תגי HTML, או תגי CSS).
+מהו תג?
+תג מורכב מסימן < בתחילתו, ומסתיים בסימן >. בתוך הסימנים האלו נכתבות אותיות או מילים שמגדירות את סוג העיצוב שייושם על הטקסט.
+בתגי HTML, בתג שאחרי המילה (או המילים) יש לכתוב את אותו תג שכתבם בהתחלה בתוספת קו נטוי בתוך התג לפני האותיות באנגלית [/]. הראשון נקרא תג פותח, והשני תג סוגר.
+בתגי CSS, אין צורך להוסיף את כל מה שכתבתם בהתחלה, אלא רק חלק קטן, כפי שתראו בקובץ זה.
+תג פותח: מורה לתוכנה להתחיל בעיצוב.
+תג סוגר: מורה לתוכנה להפסיק את העיצוב.
+חשוב לדעת:
+אם כתוב תג פותח בלי תג סוגר, העיצוב ימשיך על כל הטקסט עד ירידת השורה הבאה [ע"י Enter או Shift+Enter (אנטר או שיפט+אנטר)]. 
+באם נכתב תג סוגר, הטקסט שנכתב מכאן ואילך גם אם הוא באותו קטע לא יוחל עליו הגדרת העיצוב הקודמת. 
+יוצאים מכלל זה הם תגי הכותרות שמוחלות באופן אוטומטי על כל הפיסקה, גם אם נכתב באמצעה תג סוגר.
+על מנת להבין היטיב איך יוצרים את כל סוגי האפשרויות האלו, יש לפתוח מסמך זה דרך קורא טקסטים, כגון פנקס רשימות או וורד וכדומה, [רק כך ניתן לראות את התגים, דרך 'אוצריא' לא ניתן לראות אותם, 'אוצריא' משמיטה אותם באופן אוטומטי].
+מומלץ מאוד לאחר פתיחת קובץ זה ע"י עורך טקסט, ללחוץ על צירוף המקשים: Ctrl+Shift [קונטרול+שיפט] השמאליים במקלדת,  כדי ליישר את הטקסט לצד שמאל, כך ניתן להבין טוב יותר את צורת כתיבת התגים האלו. בכל עת ניתן להחזיר לצד ימין ע"י לחיצה על צירוף המקשים האלו שבצד ימין של המקלדת.
+בכל פיסקה [ירידת שורה ע"י אנטר או שיפט+אנטר] יש לכתוב מחדש את התגים שברצונכם להפעיל בקטע זה.
+כותרות.
+<h1>כותרת רמה 1 [תמיד זה שם הספר, בשורה הראשונה]</h1>
+<h2>כותרת רמה 2</h2>
+<h3>כותרת רמה 3</h3>
+<h4>כותרת רמה 4</h4>
+<h5>כותרת רמה 5</h5>
+<h6>כותרת רמה 6</h6>
+הערה: כותרות ברמה 7 ומעלה, לא נתמכות.
+<h2>הדגשה</h2>
+<b>הדגשה</b>
+<strong>צורה נוספת</strong>
+<span style="font-weight: 900;">צורה נוספת</span>
+<span style="font-weight:bold;">צורה נוספת</span>
+שים לב, כותרות תמיד מודגשות אוטומטית,  ללא צורך בתגים נוספים.
+<h2>גודל כתב</h2>
+<big>כתב גדול</big> 
+<span style="font-size:24px;">צורה נוספת</span>
+<big><big>כתב גדול מאוד</big></big>
+<small>כתב קטן</small>
+<span style="font-size:.875em;">צורה נוספת</span>
+<small><small>כתב קטן מאוד</small></small>
+[הסבר] להגדלת והקטנת גודל גופן מותאמת אישית יש לכתוב את התגים האלו לפני ואחרי הטקסט הרצוי.
+<span style="font-size:150%;">הגדלת הכתב ל 150%</span>
+<span style="font-size:70%;">הקטנת הכתב ל 70%</span>
+<span style="font-size:50%;">הקטנת הכתב ל 50%</span>
+<h2>כתב נטוי</h2>
+<i>כתב נטוי</i>
+<em>צורה נוספת</em>
+<var>צורה נוספת</var>
+<address>צורה נוספת</address>
+<span style="font-style:italic;">צורה נוספת</span>
+<h2>סוג גופן</h2>
+[הסבר] לבחירת גופן מסוים [ניתן לבחור גם גופן שלא מופיע ברשימת הגופנים בהגדרות התוכנה], יש לכתוב את התגים האלו לפני ואחרי הטקסט הרצוי.
+<span style="font-family: SBL Hebrew;">כתב אחר</span>
+<span style="font-family: Arial;">אריאל</span>
+<span style="font-family: FrankRuehl;">פרנקריל</span>
+<span style="font-family: Hadassah Friedlaender;">הדסה</span>
+<span style="font-family: Narkisim;">נרקיסים</span>
+<span style="font-family: Guttman Mantova;">מנטובה</span>
+<span style="font-family: David;">דוד</span>
+<span style="font-family: Guttman Logo1;">גוטמן</span>
+<h2>צבע טקסט</h2>
+[הסבר] לבחירת צבע מסוים שבו יוצג הטקסט, יש להקליד את התגים האלו לפני ואחרי הטקסט הרצוי, כמובן ניתן לבחור כל סוג של צבע, יש לכתוב את שם הצבע באנגלית, לצבעים בסיסיים, או את קוד ה HEX של הצבע.
+<span style="color:Black;">לצבע שחור (ברירת מחדל, גם בלי לכתוב סוג צבע)</span>
+<span style="color:Gray;">לצבע אפור</span>
+<span style="color:Blue;">לצבע כחול</span>
+<span style="color:LightBlue;">לצבע תכלת</span>
+<span style="color:Green;">לצבע ירוק</span>
+<span style="color:LightGreen;">לצבע ירוק בהיר</span>
+<span style="color:Aqua;">לצבע טורקיז</span>
+<span style="color:Red;">לצבע אדום</span>
+<span style="color:Purple;">לצבע סגול</span>
+<span style="color:Yellow;">לצבע צהוב</span>
+<span style="color:Lightyellow;">לצבע צהוב בהיר</span>
+<span style="color:White;">לצבע לבן</span>
+בחירת צבעים לפי קוד HEX [ע"י קוד ניתן לבחור מגוון רחב מאוד של צבעים ותתי צבעים].
+<span style="color:#00FF00;">לצבע ירוק זורח</span>
+<span style="color:#2828AC;">לצבע כחול כהה</span>
+<span style="color:#F0E68C;">לצבע כתום</span>
+<h2>צבע סימון טקסט [רקע הטקסט]</h2>
+גם כאן ניתן לכתוב את שם צבע באנגלית, או לכתוב את קוד ה HEX של הצבע.
+<span style="background-color:Red;">רקע אדום</span>
+<span style="background-color:Yellow;">רקע צהוב</span>
+<span style="background-color:#F0E68C;">רקע כתום</span>
+<mark>רקע צהוב בשיטה אחרת</mark>
+<h2>יצירת מספר סוגי תגים ביחד</h2>
+<span style="font-size:130%; font-family: SBL Hebrew; color:Red;">בחירת גופן והגדלת כתב ושינוי צבע ביחד</span>
+[הסבר] אין הבדל בסדר הכתיבה מה רושמים קודם, את תגי סוג הגופן או הגודל או הצבע וכדו'.
+<h2>הערות שוליים</h2>
+להוספת הערה, יש לכתוב בגוף הטקסט שבו רוצים לרשום את ההערה את התגים הבאים:<sup>2</sup> וביניהם את מספר ההערה<sup>1</sup>.
+לאחר סוף הקטע יש לכתוב כך: 
+<small><sup>1</sup> גוף ההערה</small>
+<small><sup>2</sup> גוף ההערה</small>
+כדי שמספר ההערה יכתב בצבע תכלת וכן עם קו מתחתיו [כמו קישור] נכתוב כך: [שים לב, קישורים עצמם אינם עובדים באוצריא, זה רק מראה של קישור].
+הטקסט בגוף הספר<a href><sup>1</sup></a>.
+<small><a href><sup>1</sup></a> גוף ההערה</small>
+<small><a href><sup>2</sup></a> גוף ההערה</small>
+<h2>קו עילי תחתי וחוצה</h2>
+<u>קו תחתון</u>
+<span style="text-decoration:underline">צורה נוספת [ניתן להתאים אישית את עיצוב הקו]</span>
+<span style="text-decoration:overline">קו עליון</span>
+<s>קו חוצה</s>
+<strike>צורה נוספת</strike>
+<h2>אפקטי צל</h2>
+<span style="text-shadow: 0 20px 25px 8 rgba(0,0,0,.2)">צללית</span>
+<span style="text-shadow: 0 5px 5px 5 rgba(0,0,0,.2)">צללית</span>
+<span style="text-shadow:0 1px 4px">צללית</span>
+<span style="text-shadow: 0 1px 1px #000000;">צללית</span>
+<h2>מספור רשימה</h2>
+<ol>1. שורה ראשונה</ol>
+<ol>2. שורה שני'</ol>
+<UL>צורה נוספת</UL>
+כתב רגיל<sub>כתב תחתי</sub>כתב רגיל
+<h2>גובה שורה</h2>
+<span style="line-height:16px;">גובה שורה ענק</span>
+<span style="line-height:4px;">גובה שורה גדול</span>
+<acronym>קווקוו מתחת לטקסט</acronym>
+<abbr>צורה נוספת</abbr>
+<h2>הוספת תמונה לתוך הטקסט</h2>
+אייקון של אוצריא:
+<img src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAA/CAYAAABXXxDfAAAEW0lEQVR4Ae2bWyh8WxzHf9hya+ZwGOXSPMnDCQ8oE6W8uBwniZIXnZzSKbe8ooMHhcKDFylFEcpxa6aQS27p5GHkPsRfyTnHpRDKmGM4s1bNvz+zt9kz89uz59/en1pNs/Zv/eb3tddea+21fhhgIS0tTREZGfnrwcHBz8fHx3FGozHUUu3FZvs9w3z7JSoqyluj0VRqtdpGk8n0o1hBuYuv4hMTE/0tH6NjY2O/iBiPW6HiyR23fPyp1+tzRY7HrVDxKSkpNePj45ISTmDS09N/0Ol0f4gdiBgwERERv1kGt2CxAxEDZnd3N0/sIMSCMRgMP2E79fPzg7CwMPDycn1pcH9/T4sQMGazWcF2YWJiwqauo6MD1tbWuJ0xDLS0tEBxcTH4+vqiBPj29gZzc3NQU1MDNzc3du3Z4iYxbWxs2MbL5SQ/P9+mbmRk5NMfrq6uhpKSErsBOgLpPZmZmdDb2wsFBQV27dni7u/vZ7XlFO8MfIJzltTUVFCr1XB2dobmE1W8UqnEdGcDGUc8VvxHGhoaYGFhwam2CoUCZmZmkCN6j6DiLy8v4eTkxKm2RLzQCCre05HFSxVZvFSRxUsVQcX39PTQ4qmgin96esJ0J7h/VPE6nQ4qKiowXX7l8PAQDAYDqk9U8W1tbaBSqaCwsBB8fHzQ/K6vr9M/Knm3xwRVvMlkou/0dXV1EB4ejrKT8/DwAFdXVwjR2SLIgPf4+EiLpyNPdVIFXTzZxAwKCkL1aTQa4fn5GdUnAV18bm4uTE5OovpsbW2F2tpaVJ8EudtLFVm8VEEXT5ai2dnZqD5PT09R/VlBF399fQ2zs7PYbgVB7vZSBV28t7c32vG0lZeXFzCbzag+CejiyRE115Gws8grPAGQxUsVWTwmJBmBLS/GFY6OjlD9WUEXf35+Tsv3AKd4sk38cfcVcztaCMgukkP2XBdIzltoaOi7uri4OOeichPx8fGs9WT7mw1O8dvb25CRkfGurqysDLq6uuDi4sKFEIWDJEB95PX1FXZ2dljtOcVrtVob8SQVbHl5GcrLy2FxcRH9BMVZYmJioLm5mXWgJfGSN002OMX39fVBfX29TdePjY2F+fl5uqNKCh+6u7vpKQ5fOjs7obS0lJctGYe4MrfIzWlqauJsyyn+7u6O5rsODAywXvf396eFDwEBAbzsvrUPDnY9C56ky66srHBe/3R4HBwcJP+FAZWVlS4H4m729vbo4/kZdueGqqoqOvKTR8DTpzorS0tLUFRURHvvJ/zHa2JsbGyEqakp+vzk5OQ4PJ+6i/39fWhvb6ev1PYG45CQkC+8Vej1esjLyyONQKPRQHR0NO8jaK6phouhoSHY3NzkbX97ewtbW1sOLYOTkpKWHL6F5Iemp6cdbeYQq6urtAiJSqXq98z+KzAJCQna4eHhvyQnPjAw8B+1Wv07WcFKSrxSqfw7Kysrc3R09F/yXSri35KTkycsz3m5RfiltfJ/GrNokBHwRF4AAAAASUVORK5CYII=" >
+כדי לעשות זאת, דבר ראשון יש להמיר את התמונה לטקסט, ניתן לעשות זאת דרך תוכנות ייעודית, או באמצעים מקוונים
+לאחר שיש לנו את הטקסט,
+יש לכתוב תגית תמונה - <img src = 
+ובשורה הבאה [אם התמונה היא מסוג: PNG, אם היא מסוג אחר, יש לשנות בהתאם לסוג הקובץ] - "data:image/png;base64,
+ואז את הטקסט של התמונה, ובסוף כל הטקסט [הארוך מאוד בדר"כ] - " >
+ובקצרה:
+<img src = 
+"data:image/png;base64,[כאן כותבים את הטקסט של התמונה]" >
